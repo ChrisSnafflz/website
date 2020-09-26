@@ -1,670 +1,670 @@
 {
-	"home": {
-		"headertitle": "Your Guest List App test",
-		"clients": "More than 3,000 happy clients<br>They all trust Snafflz",
-		"sections": {
-			"s1": {
-				"title": "Simple visitor registration.<br>Reliable Event Check-in.",
-				"description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
-				"signup": "Sign up for free"
-			},
-			"s2": {
-				"pre": "Check-in easy with Snafflz",
-				"title": "Free Android / iOS App",
-				"description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
-			},
-			"s3": {
-				"title": "Pre-Event Campaigns",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s4": {
-				"title": "On-Site",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s5": {
-				"title": "Post Event Report",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s6": {
-				"title": "Lorem ipsum dolor sit amet elit",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"s7": {
-				"title": "Call to action",
-				"description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
-				"signup": "Sign up for free"
-			}
-		},
-		"features": {
-			"title": "Features",
-			"setup": {
-				"title": "Easy setup",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"checkin": {
-				"title": "Fast Check-in",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"vip": {
-				"title": "VIP Arrival Alerts",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"badges": {
-				"title": "Print Badges",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"invitation": {
-				"title": "e-invitation & RSVP management",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"campaigns": {
-				"title": "Registration Pages & Ticketing",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"stats": {
-				"title": "Statistics & Reports",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"export": {
-				"title": "Data Export",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"support": {
-				"title": "Friendly Support",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			}
-		}
-	},
-	"pricing": {
-		"menutitle": "Pricing",
-		"headertitle": "Pricing",
-		"loggedout": {
-			"pageheadertitle": "Our plans.<br>Flexible and affordable.",
-			"included": "<br>",
-			"join": "Join here for our Free Taster",
-			"details": "No obligation, no credit card required.<br>Tablet/Mobile apps, SSL encryption and daily backups included.<br>For 1 event and 50 guests.",
-			"signup": "Start now"
-		},
-		"loggedin": {
-			"headertitle": "Upgrade Options"
-		},
-		"custom": "Looking for Public API, Custom URL and Priority Support?",
-		"custombutton": "Contact us for custom solutions",
-		"topups": "Top-Up plans",
-		"toggle": {
-			"monthly": "Monthly",
-			"yearly": "Yearly - <b>Save 2 months!</b>"
-		},
-		"plans": {
-			"snafflzProBasic": {
-				"title": "PRO<br>Single Event",
-				"description": "Includes 300 guest credits in total.<br>30 day license.",
-				"p1": "Fast & reliable Check-in",
-				"p2": "Name Badge Print",
-				"p3": "Live Event Statistics + Post Reports",
-				"p4": "Import Sheets / Export data",
-				"price": "$39",
-				"period": "One time payment",
-				"button": "Buy now"
-			},
-			"snafflzPremiumBasicMonthly": {
-				"title": "PREMIUM<br>Unlimited Events",
-				"description": "Includes 500 guests credits per list.<br>500 email credits per month.",
-				"p1": "All PRO Features",
-				"p2": "Full Campaigns Package incl.<br>e-Invitation +RSVP +Ticketing",
-				"p3": "1 Contributor account",
-				"p4": "VIP Arrival Notifications",
-				"price": "$69",
-				"period": "Billed monthly",
-				"button": "Buy now"
-			},
-			"snafflzPremiumBasicYearly": {
-				"title": "PREMIUM<br>Unlimited Events",
-				"description": "Includes 500 guests credits per list.<br>500 email credits per month.",
-				"p1": "All PRO Features",
-				"p2": "Full Campaigns Package incl.<br>e-Invitation +RSVP +Ticketing",
-				"p3": "1 Contributor account",
-				"p4": "VIP Arrival Notifications",
-				"price": "$690",
-				"period": "Billed yearly",
-				"button": "Buy now"
-			},
-			"snafflzDiamondBasicMonthly": {
-				"title": "DIAMOND<br>Unlimited Events",
-				"description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
-				"p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
-				"p2": "Advanced Badge Print Options",
-				"p3": "Check-in Feedback Emails",
-				"p4": "Priority Support",
-				"price": "$259",
-				"period": "Billed monthly",
-				"button": "Buy now"
-			},
-			"snafflzDiamondBasicYearly": {
-				"title": "DIAMOND<br>Unlimited Events",
-				"description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
-				"p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
-				"p2": "Advanced Badge Print Options",
-				"p3": "Check-in Feedback Emails",
-				"p4": "Priority Support",
-				"price": "$2590",
-				"period": "Billed yearly",
-				"button": "Buy now"
-			},
-			"snafflzTUGuest": {
-				"title": "GUEST<br>Top-Up",
-				"description": {
-					"ppu": "Per plan license period",
-					"monthly": "Per month",
-					"yearly": "Per year"
-				}
-			},
-			"snafflzTU500Guest": {
-				"title": "500 Credits",
-				"button": "Add for $29"
-			},
-			"snafflzTU1000Guest": {
-				"title": "1,000 Credits",
-				"button": "Add for $49"
-			},
-			"snafflzTU3000Guest": {
-				"title": "3,000 Credits",
-				"button": "Add for $129"
-			},
-			"snafflzTU500GuestMonthly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $29"
-			},
-			"snafflzTU1000GuestMonthly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $49"
-			},
-			"snafflzTU3000GuestMonthly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $129"
-			},
-			"snafflzTU500GuestYearly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $290"
-			},
-			"snafflzTU1000GuestYearly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $490"
-			},
-			"snafflzTU3000GuestYearly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $1,290"
-			},
-			"snafflzTUEmail": {
-				"title": "EMAIL<br>Top-Up",
-				"description": {
-					"ppu": "Per plan license period",
-					"monthly": "Per month",
-					"yearly": "Per year"
-				}
-			},
-			"snafflzTU500Email": {
-				"title": "500 Credits",
-				"button": "Add for $19"
-			},
-			"snafflzTU1000Email": {
-				"title": "1,000 Credits",
-				"button": "Add for $29"
-			},
-			"snafflzTU3000Email": {
-				"title": "3,000 Credits",
-				"button": "Add for $79"
-			},
-			"snafflzTU500EmailMonthly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $19"
-			},
-			"snafflzTU1000EmailMonthly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $29"
-			},
-			"snafflzTU3000EmailMonthly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $79"
-			},
-			"snafflzTU500EmailYearly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $190"
-			},
-			"snafflzTU1000EmailYearly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $290"
-			},
-			"snafflzTU3000EmailYearly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $790"
-			},
-			"snafflzTUGuestEmail": {
-				"title": "GUEST + EMAIL<br>Top-Up",
-				"description": {
-					"ppu": "Per plan license period",
-					"monthly": "Per month",
-					"yearly": "Per month, billed yearly"
-				}
-			},
-			"snafflzTU500GuestEmail": {
-				"title": "500 Credits",
-				"button": "Add for $39"
-			},
-			"snafflzTU1000GuestEmail": {
-				"title": "1,000 Credits",
-				"button": "Add for $69"
-			},
-			"snafflzTU3000GuestEmail": {
-				"title": "3,000 Credits",
-				"button": "Add for $199"
-			},
-			"snafflzTU500GuestEmailMonthly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $39"
-			},
-			"snafflzTU1000GuestEmailMonthly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $69"
-			},
-			"snafflzTU3000GuestEmailMonthly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $199"
-			},
-			"snafflzTU500GuestEmailYearly": {
-				"title": "+ 500 Credits",
-				"button": "Add for $390"
-			},
-			"snafflzTU1000GuestEmailYearly": {
-				"title": "+ 1,000 Credits",
-				"button": "Add for $690"
-			},
-			"snafflzTU3000GuestEmailYearly": {
-				"title": "+ 3,000 Credits",
-				"button": "Add for $1,990"
-			},
-			"snafflzTUCampaign": {
-				"title": "CAMPAIGNS<br>Package",
-				"description": "Per plan license period",
-				"p": "e-Invitations + 500 Emails<br>Registration Pages / Ticketing",
-				"button": "Add for $59"
-			},
-			"snafflzTUVIP": {
-				"title": "VIP ARRIVAL<br>Notifications",
-				"description": "Per plan license period",
-				"p": "Send mobile push notifications<br>Send email notifications",
-				"button": "Add for $9"
-			},
-			"snafflzTUBadge": {
-				"title": "BADGE PRINT<br>Advanced",
-				"description": "Per plan license period",
-				"p": "Full badge customisation tools<br>More layout templates",
-				"button": "Add for $29"
-			},
-			"snafflzTUBadgeMonthly": {
-				"title": "BADGE PRINT<br>Advanced",
-				"description": "Per month",
-				"p": "Full badge customisation tools<br>More layout templates",
-				"button": "Add for $29"
-			},
-			"snafflzTUBadgeYearly": {
-				"title": "BADGE PRINT<br>Advanced",
-				"description": "Per year",
-				"p": "Full badge customisation tools<br>More layout templates",
-				"button": "Add for $290"
-			},
-			"snafflzTUContributorMonthly": {
-				"title": "CONTRIBUTOR<br>Top-Up",
-				"description": "Per month",
-				"p": "1 Contributor<br>(Admin/Collaborator/Hostess)",
-				"button": "Add for $9"
-			},
-			"snafflzTUContributorYearly": {
-				"title": "CONTRIBUTOR<br>Top-Up",
-				"description": "Per year",
-				"p": "1 Contributor<br>(Admin/Collaborator/Hostess)",
-				"button": "Add for $90"
-			}
-		}
-	},
-	"paymentconfirmation": {
-		"headertitle": "Payment",
-		"success": {
-			"pageheadertitle": "Thank you!<br>Your payment is complete.",
-			"message": "A receipt for your purchase has been emailed to you.",
-			"contact": "Need to contact us?<br>Just drop us a line: <a href='mailto:support@snafflz.com?subject=Payment'>support@snafflz.com</a>"
-		},
-		"error": {
-			"pageheadertitle": "Payment processing error.",
-			"message": "Something went wrong.",
-			"contact": "Please write an email to <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br>We will resolve the issue ASAP."
-		}
-	},
-	"signup": {
-		"menutitle": "Sign Up",
-		"headertitle": "Sign Up",
-		"pageheadertitle": "Register for free now!",
-		"firstname": "First name *",
-		"lastname": "Last name *",
-		"email": "Email *",
-		"company": "Company Name",
-		"password": "Password *",
-		"password2": "Password again *",
-		"agree": "I agree to the <a href='/terms'>Terms</a> & <a href='/privacy'>Privacy Policy</a>",
-		"button": "Sign up",
-		"separator": "with",
-		"success": {
-			"pageheadertitle": "Great!",
-			"message": "You are now ready to go. Get started with your Snafflz online guestlist here:"
-		},
-		"error": {
-			"pageheadertitle": "Error! Try again.",
-			"message": "Oops! Something went wrong."
-		}
-	},
-	"signupconfirm": {
-		"headertitle": "Email address confirmation",
-		"success": {
-			"pageheadertitle": "Great!",
-			"message": "Thank you, your email address is now confirmed:"
-		}
-	},
-	"login": {
-		"menutitle": "Login",
-		"headertitle": "Login",
-		"pageheadertitle": "Sign in",
-		"email": "Email",
-		"password": "Password",
-		"button": "Log in",
-		"forgot": "Forgot your password?",
-		"separator": "with",
-		"success": {
-			"header": "Success!",
-			"message": "Thank you! Your submission has been received."
-		},
-		"error": {
-			"header": "Error! Try again.",
-			"message": "Oops! Something went wrong."
-		},
-		"loggedin": "You are already logged in. You can log out <a href='/app?snafflzLogout=1'>here</a>."
-	},
-	"resetpassword": {
-		"headertitle": "Reset Password",
-		"pageheadertitle": "Please enter your email address.",
-		"email": "Your sign up email",
-		"button": "Submit",
-		"success": {
-			"message": "Thank you, an e-mail with a password reset link has been sent to your inbox."
-		},
-		"error": {
-			"header": "Error! Try again.",
-			"message": "Oops! Something went wrong."
-		}
-	},
-	"resetpasswordconfirm": {
-		"headertitle": "Update Password",
-		"pageheadertitle": "Please create a password for your account.",
-		"email": "Your email address",
-		"password": "Your new password",
-		"password2": "Confirm new password",
-		"button": "Submit",
-		"success": {
-			"message": "Thank you! Your password is now updated. "
-		},
-		"error": {
-			"header": "Error! Try again.",
-			"message": "Oops! Something went wrong."
-		}
-	},
-	"invitationconfirm": {
-		"headertitle": "Sign up as Team Member",
-		"pageheadertitle": "Please create a password for your account",
-		"email": "Your email address",
-		"password": "Your new password",
-		"password2": "Confirm new password",
-		"button": "Submit",
-		"success": {
-			"message": "Thank you! Your password for your user is now set."
-		},
-		"error": {
-			"header": "Error! Try again.",
-			"message": "Oops! Something went wrong."
-		}
-	},
-	"senderconfirm": {
-		"headertitle": "Sender Email Update",
-		"success": {
-			"pageheadertitle": "Great!",
-			"message": "You have successfully verified the new email sender address."
-		}
-	},
-	"gotoapp": {
-		"menutitle": "Go to app"
-	},
-	"logout": {
-		"menutitle": "Log out"
-	},
-	"faq": {
-		"menutitle": "FAQ",
-		"headertitle": "Frequently Asked Questions",
-		"topic": {
-			"select": "Select topic",
-			"basics": {
-				"title": "Basics",
-				"select": "Basics",
-				"q1": "What is Snafflz?",
-				"a1": "A practical all-in-one solution handling guest/attendee lists, memberships, invitations and event registration. It also lets you check-in easy, print name tags on-site and offers self-service registration.<br><br>Thanks to the system's flexibility Snafflz streamlines all types of events:<br><br>• Red carpet events, fashion shows, store openings<br>• Conferences and trade shows<br>• Corporate events, internal staff meetings, workshops<br>• Graduation celebrations, on-campus events<br>• VIP receptions, luncheons<br>• Weddings, anniversaries",
-				"q2": "How do I sign up?",
-				"a2": "Go to our webpage <a href='/signup'>Signup</a> or install the iOS/Android app to sign up.<br>You can either sign up by filling in your email and setting a password or you can sign up directly with Facebook or Apple ID.",
-				"q3": "Do you offer a free trial version?",
-				"a3": "Yes, we call it 'Free Taster'. This trial version allows you to:<br><br>• add 1 event with up to 50 guests<br>• use the campaign feature to create 2 registration pages and send 3 invitations<br>• test almost all other paid features for free",
-				"q4": "What are the system requirements?",
-				"a4": "The Snafflz web service is running in all common browsers.<br><br><i>Mobile App v1</i><br>• iOS: minimum requirement iOS9, iOS10+ recommended. Older devices like iPad mini (1st generation), iPad (2nd/3rd generation) and iPhone 4S are not recommended.<br>• Android: requires Android 4.4 and up<br><br><i>Mobile App v2</i><br>• iOS: supported by any device running iOS10 or higher<br>• Android: supported by any device running Android 4.1 or higher<br><br>All apps are localised in English, German, French, Portuguese and Spanish.",
-				"q5": "Can I sell tickets with Snafflz?",
-				"a5": "You can create a ticketed event campaign and send QR tickets but ticket holders cannot purchase a paid ticket directly at the moment. We will provide a solution with a common payment provider soon. In the meantime you can fill in a concession price for each guest and collect the fee directly at the entrance when you check-in your guests.",
-				"q6": "How many user accounts can I add?",
-				"a6": "Once you have signed up you are the owner of the account. It is possible to sign in on mutilple devices simultaneously with the same user credentials.<br><br>If you want to create separate team member accounts and assign different access user roles, you can invite other contributors on the web app account page. Contributors can be purchased together with a Premium/Diamond subscription or through a Top Up plan.",
-				"q7": "What are guest, check-in and email credits?",
-				"a7": "1 'guest credit' stands for 1 person on the guest list. If your event has 500 attendees you need 500 guest credits. If 1 guest is deleted from the list, 1 credit can be used again.<br><br>1 'check-in credit' counts for 1 guest check-in. Another check-in and check-out of the same person counts '0'. Once 1 Check-in credit is used, it cannot be undone.<br><br>1 'email credit' is used to send 1 email-invitation. Each email counts for 1 email-credit.<br><br>Your actual credit status is displayed at the top of the guest list pages.<br><br>Credits can be purchased via our Top Up plans or together with our main basic packages. For more information please click here: Pricing Plans.",
-				"q8": "How to change the account email address?",
-				"a8": "Please send an email to <a href='mailto:support@snafflz.com'>support@snafflz.com</a> and let us know your preferred new email address. We will change that for you.",
-				"q9": "How to reset my password?",
-				"a9": "Please use this link to change your password: <a href='/reset-password'>Reset Password</a>"
-			},
-			"tablet": {
-				"title": "Tablet / Mobile App",
-				"select": "Tablet / Mobile App",
-				"q1": "Where can I get the free Snafflz tablet and mobile app from?",
-				"a1": "Download the iOS app from the iTunes App Store<br>Download the Android app from the Play store.<br><br>Install the app on all devices you plan to use.",
-				"q2": "I need to rent Tablets for my event. Can Snafflz help me on that?",
-				"a2": "Snafflz does not offer in-house tablet rentals at the moment. Let us know your requirements so we can connect you with our rental partner.",
-				"q3": "How do I check-in a guest?",
-				"a3": "<i>Web App</i><br>Click the check-mark in a guest row of the guest list page. Click again for consecutive Check-ins. Right click for all Check-in/out options.<br><br><i>Mobile App v1</i><br>Tap on the check-mark in a guest row or swipe a guest from left to right for all Check-in/out options.<br><br><i>Mobile App v2</i><br>Tap on a guest name and the guest check-in details open.<br><br>The same way you can check-in/-out guest companions.<br><br>You are able to undo a Check-in.",
-				"q4": "Does Snafflz provide check-in by scan?",
-				"a4": "Yes, the QR code / Bar code reader is embedded in the Snafflz mobile apps.<br>It is possible to read the following codes:<br>QR / Code 128 / Code 39 / Code93 / UPC-E / EAN13 / EAN8 / PDF417 / Aztec / Interleaved 2 of 5 / ITF14/DataMatrix.",
-				"q5": "Do you provide a kiosk mode for self registration and check in?",
-				"a5": "Yes, a customizable kiosk mode is available on the v1 of our iOS/Android app. It allows self check-in by email or QR code and self registration to collect attendee data.",
-				"q6": "Can I use the tablet/mobile app without network connection?",
-				"a6": "<i>Web app</i><br>In order to save your data you need to have internet/Wi-Fi connectivity. Just refresh the browser for the latest updated status.<br><br><i>Mobile app v1 / iOS</i><br>You can use the iOS v1 app without network connection, the mobile app switches to offline mode until the signal comes back on. In this mode, the app is still fully functional but the devices will not sync until the network signal comes back. All guest data is stored locally on your devices.<br>Note: It is important that a) your devices go online at some point to retrieve data and that b) your devices go online in order to sync up the latest changes with the cloud.<br>The Android v1 app does not have this offline feature.<br><br><i>Mobile app v2</i><br>At the moment you need network connection to use the v2 app. We are working on an offline solution and let you know once it is ready to be used.",
-				"q7": "Can I customize the app with my own branding?",
-				"a7": "Yes, on the iOS app. Uploaded images on the web app can be displayed as logo and screen image on the mobile app v1 for iOS."
-			},
-			"guestlist": {
-				"title": "Guest List + Check-in",
-				"select": "Guest List + Check-in",
-				"q1": "How to upload lists?",
-				"a1": "Click on the 'Import' button on the top right in 'Guest List View' on the Snafflz web app. To upload names from an Excel spreadsheet, select 'Bulk Uploader'. Use the Excel upload template for a valid upload.",
-				"q2": "Can I customize data fields?",
-				"a2": "Yes, you can create your own custom data fields. Snafflz offers 3 different types of custom data fields: Text, Checkbox and Dropdown menu.",
-				"q3": "How are QR codes created and can I upload my own codes?",
-				"a3": "Snafflz QR Codes are generated automatically for each guest and master list contact.<br><br><i>How do guests receive their QR codes (name badges/tickets)?</i><br>Upon online registration: Create a registration campaign. Registrants receive their QR code in the email confirming their registration.<br><br>Sending email invitations: Create an invitation campaign. Send out QR codes to recipients attaching a PDF badge/ticket file.<br><br><i>How do I scan a guest QR code?</i><br>Print QR name tags through the Snafflz apps or display on screen. Use the embedded code reader of the mobile apps.<br><br><i>How to upload own QR codes or bar codes?</i><br>Fill in the column 'QR-/Barcode' in the Snafflz Excel template. Upload it via the 'Bulk Uploader' in the 'Import' menu.<br><br>If you need to create your own QR codes:<br>1. Go to <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Check plain text as data type and encoding as static<br>3. Fill in a text and/or a number and generate the code",
-				"q4": "How to enable VIP arrival notifications?",
-				"a4": "Switch on the VIP notification functionality in your Snafflz mobile app. You can enable VIP arrival alerts for each device used. Snafflz automatically sends a push notification as soon as a marked VIP has been checked-in. Each user can disable and enable the notifications anytime. There are no limits regarding the number of devices used or notifications sent. It is not possible to send VIP arrival notifications through SMS at the moment.<br><br><i>How to enable VIP arrival email alerts on the web app?</i><br>Tick the checkbox 'VIP email notifications' in 'Event Details View'. Snafflz sends an email to the user's email address to inform about a VIP's arrival. It is possible to send a VIP arrival alert email to other email addresses besides the user email address. Just fill an email in the 'VIP Arrival Email' data field of the corresponding VIP guest. This feature comes for free with the Premium and Diamond subscriptions or can be purchased separately through a Top Up plan.",
-				"q5": "How to export or print my guest list?",
-				"a5": "<i>Export</i><br>Press the 'Export' button in the web app or inside the mobile app. You can choose to download an Excel (XLS) file of 'registered guests only' or 'all guest data'. The mobile app automatically adds the 'all guest data' and a PDF report as attachment to the export email.<br><br><i>Print</i><br>Press the 'Print' button in the web app.<br>The data columns (grid) you see on screen are the ones that will be printed. In the 'Data Fields' window you can set which data fields should be visible.",
-				"q6": "Does Snafflz provide event analytics and live statistics?",
-				"a6": "The system offers insightful attendee analytics and live reports such as number of checked-in guests, no shows, VIPs, invitations, check-in time stamp, average time of arrival, concessions, etc.",
-				"q7": "What is the Master List and what is it for?",
-				"a7": "The Master List (members list) is our contacts database feature. It's your pool of guest data. Each person in the master list counts as a contact.<br><br><i>Can I check a guest in via the Master List?</i><br>No. The master list is not a guestlist. Hence it is not possible to check contacts. A check-in is always connected to an event guestlist.<br><br><i>How do I manage my Master List?</i><br>You can filter the master list, add & import & delete individual contacts or export it just like your guest list.<br><br><i>How do I populate a guest list with contacts of the Master List?</i><br>You can select and copy names to an existing guestlist or create a new guestlist with the names. That way the collected event data is aggregated within one contact and you have access to guest statistics spanning over all events.<br><br><i>Can I find out which or how many events a contact from my Master List has attended?</i><br>Yes. The contact details window shows statistics of all the events the contact has been checked in as a guest.<br><br><i>Does a contact copied to various events have the same QR code?</i><br>Yes, it does. So you can check-in the same guest QR code in all different event guest lists."
-			},
-			"campaigns": {
-				"title": "Campaigns<br>Registration Pages & Invitations",
-				"select": "RSVP and Invitation Campaigns",
-				"q1": "What types of registration page campaigns exist?",
-				"a1": "Press the 'Create campaign' button in the event guest list view of the web app.<br>Here you can choose between two types of campaigns:<br><b>RSVP registration page</b> and <b>Ticket registration page</b>.<br><br>The main difference between those 2 campaigns are:<br><br><i>RSVP registration campaign</i><br>Registrants are not added to the guest list instantly and can be removed from the list until the registration closes. Once the deadline is reached the registrants are added to the guest list and receive a customizable 'winner' email automatically. If more people registered than your contingent (capacity) allows, then the system picks registrants on a first-come first-served basis. You still can collect all the registrant data for a waiting list.<br><br><i>Ticket registration campaign</i><br>People who registered on the registration page receive a customizable email message with a ticket and are added to the guest list instantly.<br><br>Please note: Campaigns can be created for future events only (not past events).",
-				"q2": "Can I change the registration deadline of a campaign?",
-				"a2": "Yes, you can. Even if the registration is closed. However, there are two different deadline limitations based on the campaign type.<br><br><i>RSVP registration page</i><br>The campaign deadline should be before the event start date / time.<br><br><i>Ticket registration page</i><br>The campaign deadline should be before the event end date / time.",
-				"q3": "What is a registration contingent and how does it affect my guest credits?",
-				"a3": "In the campaign settings you can define a contingent (a quota for available registration spots).<br><br><i>RSVP registration campaign</i><br>When the registration is closed only the set max. quota (contingent) will be added to your guest list. i.e. If you have 100 available spots and more people registered, only the first 100 names will be added to your guest list and those registrants will also receive the final winner email. It is still possible to capture more RSVPs than the contingent allows. These names are available for download in the RSVPs list of the campaign.<br><br><i>Ticketed campaign</i><br>The registration campaign automatically closes as soon as the contingent limit has been reached. It is possible to increase the contingent and open the campaign again.<br><br><i>Campaign contingent vs. Guest credits</i><br>If you have an open registration page campaign, the set contingent will reserve guest list spots and therefore deducts the number from the total guest credits of this event.<br>After the registration campaign has closed, the reserved spaces are released and only real registered guests on the guest list are deducted from your credits.",
-				"q4": "How to upload an event image?",
-				"a4": "To upload a static JPG, GIF or PNG event image, go to the 'Event' settings tab in the Snafflz web app and click the image placeholder. If the image is larger than 600 x 900 pixels, it will be resized and converted. File size limit is 1 MB.<br>It is possible to add images in the description box editor, too.",
-				"q5": "How to publish a registration page?",
-				"a5": "If you are satisfied with your registration page you can publish it by clicking the orange eye icon in the top header. Any future campaign changes need to be saved in order to be published.",
-				"q6": "Can I use my own domain name for my registration page?",
-				"a6": "Yes, you can include your own domain name in a Snafflz registration page URL.<br><br>Please contact us at <a href='mailto:support@snafflz.com'>support@snafflz.com</a> for further information.",
-				"q7": "What are Email Invitations and how to send them?",
-				"a7": "With the Snafflz web app you are able to send email invitations to your guests and let them 'RSVP' or 'Decline' directly in the email. Those accepting the invitation are automatically added as guests on the guest list and the invitation status is reflected in the invitation status field.<br><br><i>How?</i><br>Press the 'Create campaign' button in guest list view of the web app and choose the 'Email Invitation' campaign. You will then be redirected to the Invitation campaign editor. In the Dashboard and Audience tab you can create an invitation and add an Audience first. The Audience is the pool of Contacts. Select Contacts and add them as Recipients to each of your customizable invitation messages.",
-				"q8": "Can I customize the e-Invitation?",
-				"a8": "Yes. The subject and the message body are fully customizable. You can change your sender email and more options are included in the Message settings.<br><br>You are able to insert variables in the message body (e.g. the QR code, any guest data field, ...), upload an image or add your own HTML code and much more.",
-				"q9": "What are the benefits of creating a landing page for my Invitation message?",
-				"a9": "Snafflz allows you to create and publish a landing registration page that can be linked to your e-invitations. The RSVP button in the email links to that landing page and guests can enter additional information (i.e. allergies, companions). All information added by them is reflected in the guest data instantly.<br><br><i>How to create a landing page?</i><br>Enable the corresponding option switch in the tab menu of your invitation campaign.",
-				"q10": "Why is my sender email replaced by a @snafflz.com address?",
-				"a10": "'gmail' and 'yahoo' email addresses get substituted by the default @snafflz.com email address to avoid spam detection and blocking of email messages.",
-				"q11": "Can I schedule my invitation messages and receive an email delivery report?",
-				"a11": "Yes, you can schedule messages. An email statistics report will be sent to your email address once all messages have been delivered. You can also view and download the statistics in the recipients list and dashboard of your campaign."
-			},
-			"security": {
-				"title": "Security + Permissions",
-				"select": "Security + Permissions",
-				"q1": "Does Snafflz store the information of my guests?",
-				"a1": "Only you own your data. Once you delete an event or name, all relevant data is deleted from our system. We guarantee the highest privacy standards, including SSL data encryption (the same as used for electronic banking).",
-				"q2": "Who can see my data?",
-				"a2": "Your data is fully protected and secured by your password. Only the main user or an invited contributor with the right login credentials can view or read data.",
-				"q3": "How do I delete my account?",
-				"a3": "Please go to your Account page on the web app and select the 'Delete account' option at the bottom of the page. A confirmation box will appear. Please note that by deleting the account all your data will be removed, as well as any active subscription plans.",
-				"q4": "Are there multiple access levels for team members?",
-				"a4": "Yes, Snafflz offers various authorization levels for different access rights. These rights apply for the Snafflz online service and tablet/mobile app alike.",
-				"q5": "What are the different types of contributors available?",
-				"a5": "Snafflz has designed three levels of access so you can assign roles that match different needs.<br><br>'Administrator': has access to all events. Cannot create/edit/delete events, invite team members, edit account information.<br><br>'Collaborator': Same permissions as the Administrator but can only view the shared event. Cannot see the Master List.<br><br>'Door manager' ('Hostess'): cannot add and delete guests, see/add/edit registration pages and registrations. Cannot see the Master List. Has full editing rights for names on the mobile guest list to enable smooth check-in.<br><br>Once an administrator is removed s/he has no access to any of your data in Snafflz any more.<br><br>The number of allowed contributors is shown in your pricing plan. You are able to purchase contributors through our Top Up plan."
-			},
-			"pricing": {
-				"title": "Pricing + Payment",
-				"select": "Pricing + Payment",
-				"q1": "How do I pay for the Snafflz service?",
-				"a1": "We accept all usual credit cards / debit cards and PayPal as payment method. It is also possible to pay by bank transfer per request.",
-				"q2": "How to receive an invoice/receipt for my payments?",
-				"a2": "Your invoice is attached to our email payment confirmation message and can be viewed on the 'invoices' page on the web app. Address and VAT number can be changed within 30 days on our website. If you purchased an iOS inapp plan, you receive a payment confirmation and receipt by Apple iTunes.",
-				"q3": "Are there any plans for enterprise clients with special requirements?",
-				"a3": "Yes. Just drop us a line and let us know your requirements: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. We are experienced in complex guest list requirements and we are sure we can find an easy solution tailored to your needs. We are proud to be trusted partners for thousands of event professionals worldwide and always happy to help. Do not hesitate to contact us: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. In the meantime take a look at our advantageous 1-year-pre-paid subscription offers.",
-				"q4": "Do you offer non-profit discounts?",
-				"a4": "Yes, we do offer a 20% discount on our Pro package and a 10% discount on our subscription plans for non-profit organizations.",
-				"q5": "How to change and upgrade pricing plans?",
-				"a5": "You can upgrade from 'Pro' to the 'Premium' or 'Diamond' subscription plan and from 'Premium' to 'Diamond' or from a monthly plan to a yearly plan without a problem. As soon as the new upgrade is active, the plan restrictions get updated. This includes the 'Guest Credits', 'Check-in Credits', 'Email Credits', 'Contributor Allowance' etc. Already used up credits are reset to '0' at the time the new upgrade gets active.<br><br><b>Please note</b>: Any purchased Top Up plans are lost when upgrading to a different plan.<br><br>Please contact us by email if you have any further questions regarding the usage of our pricing plans.",
-				"q6": "Can I purchase Top Up plans to increase my credits or include more features?",
-				"a6": "Snafflz offers various Top Up plans to add<br><br>- additional features like Registration/Invitation Campaigns, VIP Arrival notification, Advanced Badge printing options, ...<br><br>- guest credits / check-in credits / email credits and invite more contributors as team members.",
-				"q7": "When does my Pro plan expire and are the Subscriptions auto-renewing?",
-				"a7": "Our pay-per-use Pro plan (including any purchased Top-ups) expires after 30 days of purchase.<br><br>Subscription plans do not expire until the recurring payment profile gets cancelled by you. After cancellation you can use Snafflz until the subscription period ends.",
-				"q8": "Can I cancel a subscription any time for free?",
-				"a8": "You can cancel your recurring payment profile anytime free of charge and you will not get billed again. To cancel your subscription plan, please go to your Account page on the web app and select the 'Cancel subscription' option."
-			},
-			"troubleshoot": {
-				"title": "Troubleshoot",
-				"select": "Troubleshoot",
-				"q1": "Can data get lost?",
-				"a1": "Your data will not get lost. Snafflz generates automatic backups of your data.In the unlikely event that your mobile app logged out with unsynced changes, your data is still stored on your mobile device and we can retrieve it. Please contact us at <a href='mailto:support@snafflz.com'>support@snafflz.com</a>",
-				"q2": "What if data does not sync with the server when online?",
-				"a2": "It is possible to retrieve and export all your data stored on the device with the 'Export guest list' function (mobile app v1, app v2 implementation coming soon...) Important note: Only device data showing up in your guestlist can be exported and retrieved.",
-				"q3": "Excel list upload error messages. How can I solve this?",
-				"a3": "Please download the error report file (link provided in the corresponding pop up window) to check which inconsistencies are generating invalid data. See the red rows and the error info in the right column. Please do not change, rearrange or remove any rows or columns. Just leave columns empty if not needed.",
-				"q4": "My credit balance seems to be incorrect. What can I do?",
-				"a4": "If you have an open registration page campaign, the set contingent will reserve guestlist spots and therefore consume guest credits. To increase the available guest credits, please decrease the registration campaign contingent. When the registration is closed only taken spots are deducted from your guest credits.<br><br>If you have used Snafflz for another event in the past, please delete this event/guest data to get previously used guest credits back. If you'd like to save data of the event, just export all data by clicking the 'Export' button in guestlist view.",
-				"q5": "How to contact Snafflz support?  Do you offer localized support?",
-				"a5": "Please get in touch at any time.<br>A friendly team awaits you: <a href='mailto:support@snafflz.com'>support@snafflz.com</a><br><br>We provide support in English, German, Portuguese, French and Spanish."
-			}
-		}
-	},
-	"terms": {
-		"menutitle": "Terms",
-		"headertitle": "Terms of Service",
-		"pageheadertitle": "Welcome to Snafflz"
-	},
-	"gdpr": {
-		"menutitle": "GDPR",
-		"headertitle": "GDPR",
-		"pageheadertitle": "General Data Protection Regulation (GDPR)"
-	},
-	"privacy": {
-		"menutitle": "Privacy",
-		"headertitle": "Privacy Policy",
-		"pageheadertitle": "Privacy Policy"
-	},
-	"error": {
-		"title": "Ooops, there was an error :(",
-		"general": {
-			"headertitle": "Error",
-			"message": "Please try again later."
-		},
-		"401": {
-			"headertitle": "401",
-			"message": "Sorry, you don't have permission to view this page."
-		},
-		"404": {
-			"headertitle": "404",
-			"message": "Sorry, this page cannot be found.<br>Please try again later."
-		},
-		"500": {
-			"headertitle": "500",
-			"message": "Internal error.<br>Please try again later."
-		},
-		"502": {
-			"headertitle": "502",
-			"message": "Gateway time-out.<br>The server encountered a temporary error and could not complete your request.<br>Please try again later."
-		},
-		"503": {
-			"headertitle": "503",
-			"message": "Sorry, the service is temporarily unavailable.<br>Please try again later.<br><br>We'll be back shortly!"
-		}
-	}
+    "home": {
+        "headertitle": "Your Guest List App test from poeditor",
+        "clients": "More than 3,000 happy clients<br>They all trust Snafflz",
+        "sections": {
+            "s1": {
+                "title": "Simple visitor registration.<br>Reliable Event Check-in.",
+                "description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
+                "signup": "Sign up for free"
+            },
+            "s2": {
+                "pre": "Check-in easy with Snafflz",
+                "title": "Free Android / iOS App",
+                "description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
+            },
+            "s3": {
+                "title": "Pre-Event Campaigns",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "items": {
+                    "i1": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i2": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i3": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    }
+                }
+            },
+            "s4": {
+                "title": "On-Site",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "items": {
+                    "i1": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i2": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i3": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    }
+                }
+            },
+            "s5": {
+                "title": "Post Event Report",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "items": {
+                    "i1": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i2": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    },
+                    "i3": {
+                        "title": "Heading",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                    }
+                }
+            },
+            "s6": {
+                "title": "Lorem ipsum dolor sit amet elit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "s7": {
+                "title": "Call to action",
+                "description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
+                "signup": "Sign up for free"
+            }
+        },
+        "features": {
+            "title": "Features",
+            "setup": {
+                "title": "Easy setup",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "checkin": {
+                "title": "Fast Check-in",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "vip": {
+                "title": "VIP Arrival Alerts",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "badges": {
+                "title": "Print Badges",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "invitation": {
+                "title": "e-invitation & RSVP management",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "campaigns": {
+                "title": "Registration Pages & Ticketing",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "stats": {
+                "title": "Statistics & Reports",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "export": {
+                "title": "Data Export",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            },
+            "support": {
+                "title": "Friendly Support",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+            }
+        }
+    },
+    "pricing": {
+        "menutitle": "Pricing",
+        "headertitle": "Pricing",
+        "loggedout": {
+            "pageheadertitle": "Our plans.<br>Flexible and affordable.",
+            "included": "<br>",
+            "join": "Join here for our Free Taster",
+            "details": "No obligation, no credit card required.<br>Tablet/Mobile apps, SSL encryption and daily backups included.<br>For 1 event and 50 guests.",
+            "signup": "Start now"
+        },
+        "loggedin": {
+            "headertitle": "Upgrade Options"
+        },
+        "custom": "Looking for Public API, Custom URL and Priority Support?",
+        "custombutton": "Contact us for custom solutions",
+        "topups": "Top-Up plans",
+        "toggle": {
+            "monthly": "Monthly",
+            "yearly": "Yearly - <b>Save 2 months!</b>"
+        },
+        "plans": {
+            "snafflzProBasic": {
+                "title": "PRO<br>Single Event",
+                "description": "Includes 300 guest credits in total.<br>30 day license.",
+                "p1": "Fast & reliable Check-in",
+                "p2": "Name Badge Print",
+                "p3": "Live Event Statistics + Post Reports",
+                "p4": "Import Sheets / Export data",
+                "price": "$39",
+                "period": "One time payment",
+                "button": "Buy now"
+            },
+            "snafflzPremiumBasicMonthly": {
+                "title": "PREMIUM<br>Unlimited Events",
+                "description": "Includes 500 guests credits per list.<br>500 email credits per month.",
+                "p1": "All PRO Features",
+                "p2": "Full Campaigns Package incl.<br>e-Invitation +RSVP +Ticketing",
+                "p3": "1 Contributor account",
+                "p4": "VIP Arrival Notifications",
+                "price": "$69",
+                "period": "Billed monthly",
+                "button": "Buy now"
+            },
+            "snafflzPremiumBasicYearly": {
+                "title": "PREMIUM<br>Unlimited Events",
+                "description": "Includes 500 guests credits per list.<br>500 email credits per month.",
+                "p1": "All PRO Features",
+                "p2": "Full Campaigns Package incl.<br>e-Invitation +RSVP +Ticketing",
+                "p3": "1 Contributor account",
+                "p4": "VIP Arrival Notifications",
+                "price": "$690",
+                "period": "Billed yearly",
+                "button": "Buy now"
+            },
+            "snafflzDiamondBasicMonthly": {
+                "title": "DIAMOND<br>Unlimited Events",
+                "description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
+                "p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
+                "p2": "Advanced Badge Print Options",
+                "p3": "Check-in Feedback Emails",
+                "p4": "Priority Support",
+                "price": "$259",
+                "period": "Billed monthly",
+                "button": "Buy now"
+            },
+            "snafflzDiamondBasicYearly": {
+                "title": "DIAMOND<br>Unlimited Events",
+                "description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
+                "p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
+                "p2": "Advanced Badge Print Options",
+                "p3": "Check-in Feedback Emails",
+                "p4": "Priority Support",
+                "price": "$2590",
+                "period": "Billed yearly",
+                "button": "Buy now"
+            },
+            "snafflzTUGuest": {
+                "title": "GUEST<br>Top-Up",
+                "description": {
+                    "ppu": "Per plan license period",
+                    "monthly": "Per month",
+                    "yearly": "Per year"
+                }
+            },
+            "snafflzTU500Guest": {
+                "title": "500 Credits",
+                "button": "Add for $29"
+            },
+            "snafflzTU1000Guest": {
+                "title": "1,000 Credits",
+                "button": "Add for $49"
+            },
+            "snafflzTU3000Guest": {
+                "title": "3,000 Credits",
+                "button": "Add for $129"
+            },
+            "snafflzTU500GuestMonthly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $29"
+            },
+            "snafflzTU1000GuestMonthly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $49"
+            },
+            "snafflzTU3000GuestMonthly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $129"
+            },
+            "snafflzTU500GuestYearly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $290"
+            },
+            "snafflzTU1000GuestYearly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $490"
+            },
+            "snafflzTU3000GuestYearly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $1,290"
+            },
+            "snafflzTUEmail": {
+                "title": "EMAIL<br>Top-Up",
+                "description": {
+                    "ppu": "Per plan license period",
+                    "monthly": "Per month",
+                    "yearly": "Per year"
+                }
+            },
+            "snafflzTU500Email": {
+                "title": "500 Credits",
+                "button": "Add for $19"
+            },
+            "snafflzTU1000Email": {
+                "title": "1,000 Credits",
+                "button": "Add for $29"
+            },
+            "snafflzTU3000Email": {
+                "title": "3,000 Credits",
+                "button": "Add for $79"
+            },
+            "snafflzTU500EmailMonthly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $19"
+            },
+            "snafflzTU1000EmailMonthly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $29"
+            },
+            "snafflzTU3000EmailMonthly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $79"
+            },
+            "snafflzTU500EmailYearly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $190"
+            },
+            "snafflzTU1000EmailYearly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $290"
+            },
+            "snafflzTU3000EmailYearly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $790"
+            },
+            "snafflzTUGuestEmail": {
+                "title": "GUEST + EMAIL<br>Top-Up",
+                "description": {
+                    "ppu": "Per plan license period",
+                    "monthly": "Per month",
+                    "yearly": "Per month, billed yearly"
+                }
+            },
+            "snafflzTU500GuestEmail": {
+                "title": "500 Credits",
+                "button": "Add for $39"
+            },
+            "snafflzTU1000GuestEmail": {
+                "title": "1,000 Credits",
+                "button": "Add for $69"
+            },
+            "snafflzTU3000GuestEmail": {
+                "title": "3,000 Credits",
+                "button": "Add for $199"
+            },
+            "snafflzTU500GuestEmailMonthly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $39"
+            },
+            "snafflzTU1000GuestEmailMonthly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $69"
+            },
+            "snafflzTU3000GuestEmailMonthly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $199"
+            },
+            "snafflzTU500GuestEmailYearly": {
+                "title": "+ 500 Credits",
+                "button": "Add for $390"
+            },
+            "snafflzTU1000GuestEmailYearly": {
+                "title": "+ 1,000 Credits",
+                "button": "Add for $690"
+            },
+            "snafflzTU3000GuestEmailYearly": {
+                "title": "+ 3,000 Credits",
+                "button": "Add for $1,990"
+            },
+            "snafflzTUCampaign": {
+                "title": "CAMPAIGNS<br>Package",
+                "description": "Per plan license period",
+                "p": "e-Invitations + 500 Emails<br>Registration Pages / Ticketing",
+                "button": "Add for $59"
+            },
+            "snafflzTUVIP": {
+                "title": "VIP ARRIVAL<br>Notifications",
+                "description": "Per plan license period",
+                "p": "Send mobile push notifications<br>Send email notifications",
+                "button": "Add for $9"
+            },
+            "snafflzTUBadge": {
+                "title": "BADGE PRINT<br>Advanced",
+                "description": "Per plan license period",
+                "p": "Full badge customisation tools<br>More layout templates",
+                "button": "Add for $29"
+            },
+            "snafflzTUBadgeMonthly": {
+                "title": "BADGE PRINT<br>Advanced",
+                "description": "Per month",
+                "p": "Full badge customisation tools<br>More layout templates",
+                "button": "Add for $29"
+            },
+            "snafflzTUBadgeYearly": {
+                "title": "BADGE PRINT<br>Advanced",
+                "description": "Per year",
+                "p": "Full badge customisation tools<br>More layout templates",
+                "button": "Add for $290"
+            },
+            "snafflzTUContributorMonthly": {
+                "title": "CONTRIBUTOR<br>Top-Up",
+                "description": "Per month",
+                "p": "1 Contributor<br>(Admin/Collaborator/Hostess)",
+                "button": "Add for $9"
+            },
+            "snafflzTUContributorYearly": {
+                "title": "CONTRIBUTOR<br>Top-Up",
+                "description": "Per year",
+                "p": "1 Contributor<br>(Admin/Collaborator/Hostess)",
+                "button": "Add for $90"
+            }
+        }
+    },
+    "paymentconfirmation": {
+        "headertitle": "Payment",
+        "success": {
+            "pageheadertitle": "Thank you!<br>Your payment is complete.",
+            "message": "A receipt for your purchase has been emailed to you.",
+            "contact": "Need to contact us?<br>Just drop us a line: <a href='mailto:support@snafflz.com?subject=Payment'>support@snafflz.com</a>"
+        },
+        "error": {
+            "pageheadertitle": "Payment processing error.",
+            "message": "Something went wrong.",
+            "contact": "Please write an email to <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br>We will resolve the issue ASAP."
+        }
+    },
+    "signup": {
+        "menutitle": "Sign Up",
+        "headertitle": "Sign Up",
+        "pageheadertitle": "Register for free now!",
+        "firstname": "First name *",
+        "lastname": "Last name *",
+        "email": "Email *",
+        "company": "Company Name",
+        "password": "Password *",
+        "password2": "Password again *",
+        "agree": "I agree to the <a href='/terms'>Terms</a> & <a href='/privacy'>Privacy Policy</a>",
+        "button": "Sign up",
+        "separator": "with",
+        "success": {
+            "pageheadertitle": "Great!",
+            "message": "You are now ready to go. Get started with your Snafflz online guestlist here:"
+        },
+        "error": {
+            "pageheadertitle": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        }
+    },
+    "signupconfirm": {
+        "headertitle": "Email address confirmation",
+        "success": {
+            "pageheadertitle": "Great!",
+            "message": "Thank you, your email address is now confirmed:"
+        }
+    },
+    "login": {
+        "menutitle": "Login",
+        "headertitle": "Login",
+        "pageheadertitle": "Sign in",
+        "email": "Email",
+        "password": "Password",
+        "button": "Log in",
+        "forgot": "Forgot your password?",
+        "separator": "with",
+        "success": {
+            "header": "Success!",
+            "message": "Thank you! Your submission has been received."
+        },
+        "error": {
+            "header": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        },
+        "loggedin": "You are already logged in. You can log out <a href='/app?snafflzLogout=1'>here</a>."
+    },
+    "resetpassword": {
+        "headertitle": "Reset Password",
+        "pageheadertitle": "Please enter your email address.",
+        "email": "Your sign up email",
+        "button": "Submit",
+        "success": {
+            "message": "Thank you, an e-mail with a password reset link has been sent to your inbox."
+        },
+        "error": {
+            "header": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        }
+    },
+    "resetpasswordconfirm": {
+        "headertitle": "Update Password",
+        "pageheadertitle": "Please create a password for your account.",
+        "email": "Your email address",
+        "password": "Your new password",
+        "password2": "Confirm new password",
+        "button": "Submit",
+        "success": {
+            "message": "Thank you! Your password is now updated. "
+        },
+        "error": {
+            "header": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        }
+    },
+    "invitationconfirm": {
+        "headertitle": "Sign up as Team Member",
+        "pageheadertitle": "Please create a password for your account",
+        "email": "Your email address",
+        "password": "Your new password",
+        "password2": "Confirm new password",
+        "button": "Submit",
+        "success": {
+            "message": "Thank you! Your password for your user is now set."
+        },
+        "error": {
+            "header": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        }
+    },
+    "senderconfirm": {
+        "headertitle": "Sender Email Update",
+        "success": {
+            "pageheadertitle": "Great!",
+            "message": "You have successfully verified the new email sender address."
+        }
+    },
+    "gotoapp": {
+        "menutitle": "Go to app"
+    },
+    "logout": {
+        "menutitle": "Log out"
+    },
+    "faq": {
+        "menutitle": "FAQ",
+        "headertitle": "Frequently Asked Questions",
+        "topic": {
+            "select": "Select topic",
+            "basics": {
+                "title": "Basics",
+                "select": "Basics",
+                "q1": "What is Snafflz?",
+                "a1": "A practical all-in-one solution handling guest/attendee lists, memberships, invitations and event registration. It also lets you check-in easy, print name tags on-site and offers self-service registration.<br><br>Thanks to the system's flexibility Snafflz streamlines all types of events:<br><br>• Red carpet events, fashion shows, store openings<br>• Conferences and trade shows<br>• Corporate events, internal staff meetings, workshops<br>• Graduation celebrations, on-campus events<br>• VIP receptions, luncheons<br>• Weddings, anniversaries",
+                "q2": "How do I sign up?",
+                "a2": "Go to our webpage <a href='/signup'>Signup</a> or install the iOS/Android app to sign up.<br>You can either sign up by filling in your email and setting a password or you can sign up directly with Facebook or Apple ID.",
+                "q3": "Do you offer a free trial version?",
+                "a3": "Yes, we call it 'Free Taster'. This trial version allows you to:<br><br>• add 1 event with up to 50 guests<br>• use the campaign feature to create 2 registration pages and send 3 invitations<br>• test almost all other paid features for free",
+                "q4": "What are the system requirements?",
+                "a4": "The Snafflz web service is running in all common browsers.<br><br><i>Mobile App v1</i><br>• iOS: minimum requirement iOS9, iOS10+ recommended. Older devices like iPad mini (1st generation), iPad (2nd/3rd generation) and iPhone 4S are not recommended.<br>• Android: requires Android 4.4 and up<br><br><i>Mobile App v2</i><br>• iOS: supported by any device running iOS10 or higher<br>• Android: supported by any device running Android 4.1 or higher<br><br>All apps are localised in English, German, French, Portuguese and Spanish.",
+                "q5": "Can I sell tickets with Snafflz?",
+                "a5": "You can create a ticketed event campaign and send QR tickets but ticket holders cannot purchase a paid ticket directly at the moment. We will provide a solution with a common payment provider soon. In the meantime you can fill in a concession price for each guest and collect the fee directly at the entrance when you check-in your guests.",
+                "q6": "How many user accounts can I add?",
+                "a6": "Once you have signed up you are the owner of the account. It is possible to sign in on mutilple devices simultaneously with the same user credentials.<br><br>If you want to create separate team member accounts and assign different access user roles, you can invite other contributors on the web app account page. Contributors can be purchased together with a Premium/Diamond subscription or through a Top Up plan.",
+                "q7": "What are guest, check-in and email credits?",
+                "a7": "1 'guest credit' stands for 1 person on the guest list. If your event has 500 attendees you need 500 guest credits. If 1 guest is deleted from the list, 1 credit can be used again.<br><br>1 'check-in credit' counts for 1 guest check-in. Another check-in and check-out of the same person counts '0'. Once 1 Check-in credit is used, it cannot be undone.<br><br>1 'email credit' is used to send 1 email-invitation. Each email counts for 1 email-credit.<br><br>Your actual credit status is displayed at the top of the guest list pages.<br><br>Credits can be purchased via our Top Up plans or together with our main basic packages. For more information please click here: Pricing Plans.",
+                "q8": "How to change the account email address?",
+                "a8": "Please send an email to <a href='mailto:support@snafflz.com'>support@snafflz.com</a> and let us know your preferred new email address. We will change that for you.",
+                "q9": "How to reset my password?",
+                "a9": "Please use this link to change your password: <a href='/reset-password'>Reset Password</a>"
+            },
+            "tablet": {
+                "title": "Tablet / Mobile App",
+                "select": "Tablet / Mobile App",
+                "q1": "Where can I get the free Snafflz tablet and mobile app from?",
+                "a1": "Download the iOS app from the iTunes App Store<br>Download the Android app from the Play store.<br><br>Install the app on all devices you plan to use.",
+                "q2": "I need to rent Tablets for my event. Can Snafflz help me on that?",
+                "a2": "Snafflz does not offer in-house tablet rentals at the moment. Let us know your requirements so we can connect you with our rental partner.",
+                "q3": "How do I check-in a guest?",
+                "a3": "<i>Web App</i><br>Click the check-mark in a guest row of the guest list page. Click again for consecutive Check-ins. Right click for all Check-in/out options.<br><br><i>Mobile App v1</i><br>Tap on the check-mark in a guest row or swipe a guest from left to right for all Check-in/out options.<br><br><i>Mobile App v2</i><br>Tap on a guest name and the guest check-in details open.<br><br>The same way you can check-in/-out guest companions.<br><br>You are able to undo a Check-in.",
+                "q4": "Does Snafflz provide check-in by scan?",
+                "a4": "Yes, the QR code / Bar code reader is embedded in the Snafflz mobile apps.<br>It is possible to read the following codes:<br>QR / Code 128 / Code 39 / Code93 / UPC-E / EAN13 / EAN8 / PDF417 / Aztec / Interleaved 2 of 5 / ITF14/DataMatrix.",
+                "q5": "Do you provide a kiosk mode for self registration and check in?",
+                "a5": "Yes, a customizable kiosk mode is available on the v1 of our iOS/Android app. It allows self check-in by email or QR code and self registration to collect attendee data.",
+                "q6": "Can I use the tablet/mobile app without network connection?",
+                "a6": "<i>Web app</i><br>In order to save your data you need to have internet/Wi-Fi connectivity. Just refresh the browser for the latest updated status.<br><br><i>Mobile app v1 / iOS</i><br>You can use the iOS v1 app without network connection, the mobile app switches to offline mode until the signal comes back on. In this mode, the app is still fully functional but the devices will not sync until the network signal comes back. All guest data is stored locally on your devices.<br>Note: It is important that a) your devices go online at some point to retrieve data and that b) your devices go online in order to sync up the latest changes with the cloud.<br>The Android v1 app does not have this offline feature.<br><br><i>Mobile app v2</i><br>At the moment you need network connection to use the v2 app. We are working on an offline solution and let you know once it is ready to be used.",
+                "q7": "Can I customize the app with my own branding?",
+                "a7": "Yes, on the iOS app. Uploaded images on the web app can be displayed as logo and screen image on the mobile app v1 for iOS."
+            },
+            "guestlist": {
+                "title": "Guest List + Check-in",
+                "select": "Guest List + Check-in",
+                "q1": "How to upload lists?",
+                "a1": "Click on the 'Import' button on the top right in 'Guest List View' on the Snafflz web app. To upload names from an Excel spreadsheet, select 'Bulk Uploader'. Use the Excel upload template for a valid upload.",
+                "q2": "Can I customize data fields?",
+                "a2": "Yes, you can create your own custom data fields. Snafflz offers 3 different types of custom data fields: Text, Checkbox and Dropdown menu.",
+                "q3": "How are QR codes created and can I upload my own codes?",
+                "a3": "Snafflz QR Codes are generated automatically for each guest and master list contact.<br><br><i>How do guests receive their QR codes (name badges/tickets)?</i><br>Upon online registration: Create a registration campaign. Registrants receive their QR code in the email confirming their registration.<br><br>Sending email invitations: Create an invitation campaign. Send out QR codes to recipients attaching a PDF badge/ticket file.<br><br><i>How do I scan a guest QR code?</i><br>Print QR name tags through the Snafflz apps or display on screen. Use the embedded code reader of the mobile apps.<br><br><i>How to upload own QR codes or bar codes?</i><br>Fill in the column 'QR-/Barcode' in the Snafflz Excel template. Upload it via the 'Bulk Uploader' in the 'Import' menu.<br><br>If you need to create your own QR codes:<br>1. Go to <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Check plain text as data type and encoding as static<br>3. Fill in a text and/or a number and generate the code",
+                "q4": "How to enable VIP arrival notifications?",
+                "a4": "Switch on the VIP notification functionality in your Snafflz mobile app. You can enable VIP arrival alerts for each device used. Snafflz automatically sends a push notification as soon as a marked VIP has been checked-in. Each user can disable and enable the notifications anytime. There are no limits regarding the number of devices used or notifications sent. It is not possible to send VIP arrival notifications through SMS at the moment.<br><br><i>How to enable VIP arrival email alerts on the web app?</i><br>Tick the checkbox 'VIP email notifications' in 'Event Details View'. Snafflz sends an email to the user's email address to inform about a VIP's arrival. It is possible to send a VIP arrival alert email to other email addresses besides the user email address. Just fill an email in the 'VIP Arrival Email' data field of the corresponding VIP guest. This feature comes for free with the Premium and Diamond subscriptions or can be purchased separately through a Top Up plan.",
+                "q5": "How to export or print my guest list?",
+                "a5": "<i>Export</i><br>Press the 'Export' button in the web app or inside the mobile app. You can choose to download an Excel (XLS) file of 'registered guests only' or 'all guest data'. The mobile app automatically adds the 'all guest data' and a PDF report as attachment to the export email.<br><br><i>Print</i><br>Press the 'Print' button in the web app.<br>The data columns (grid) you see on screen are the ones that will be printed. In the 'Data Fields' window you can set which data fields should be visible.",
+                "q6": "Does Snafflz provide event analytics and live statistics?",
+                "a6": "The system offers insightful attendee analytics and live reports such as number of checked-in guests, no shows, VIPs, invitations, check-in time stamp, average time of arrival, concessions, etc.",
+                "q7": "What is the Master List and what is it for?",
+                "a7": "The Master List (members list) is our contacts database feature. It's your pool of guest data. Each person in the master list counts as a contact.<br><br><i>Can I check a guest in via the Master List?</i><br>No. The master list is not a guestlist. Hence it is not possible to check contacts. A check-in is always connected to an event guestlist.<br><br><i>How do I manage my Master List?</i><br>You can filter the master list, add & import & delete individual contacts or export it just like your guest list.<br><br><i>How do I populate a guest list with contacts of the Master List?</i><br>You can select and copy names to an existing guestlist or create a new guestlist with the names. That way the collected event data is aggregated within one contact and you have access to guest statistics spanning over all events.<br><br><i>Can I find out which or how many events a contact from my Master List has attended?</i><br>Yes. The contact details window shows statistics of all the events the contact has been checked in as a guest.<br><br><i>Does a contact copied to various events have the same QR code?</i><br>Yes, it does. So you can check-in the same guest QR code in all different event guest lists."
+            },
+            "campaigns": {
+                "title": "Campaigns<br>Registration Pages & Invitations",
+                "select": "RSVP and Invitation Campaigns",
+                "q1": "What types of registration page campaigns exist?",
+                "a1": "Press the 'Create campaign' button in the event guest list view of the web app.<br>Here you can choose between two types of campaigns:<br><b>RSVP registration page</b> and <b>Ticket registration page</b>.<br><br>The main difference between those 2 campaigns are:<br><br><i>RSVP registration campaign</i><br>Registrants are not added to the guest list instantly and can be removed from the list until the registration closes. Once the deadline is reached the registrants are added to the guest list and receive a customizable 'winner' email automatically. If more people registered than your contingent (capacity) allows, then the system picks registrants on a first-come first-served basis. You still can collect all the registrant data for a waiting list.<br><br><i>Ticket registration campaign</i><br>People who registered on the registration page receive a customizable email message with a ticket and are added to the guest list instantly.<br><br>Please note: Campaigns can be created for future events only (not past events).",
+                "q2": "Can I change the registration deadline of a campaign?",
+                "a2": "Yes, you can. Even if the registration is closed. However, there are two different deadline limitations based on the campaign type.<br><br><i>RSVP registration page</i><br>The campaign deadline should be before the event start date / time.<br><br><i>Ticket registration page</i><br>The campaign deadline should be before the event end date / time.",
+                "q3": "What is a registration contingent and how does it affect my guest credits?",
+                "a3": "In the campaign settings you can define a contingent (a quota for available registration spots).<br><br><i>RSVP registration campaign</i><br>When the registration is closed only the set max. quota (contingent) will be added to your guest list. i.e. If you have 100 available spots and more people registered, only the first 100 names will be added to your guest list and those registrants will also receive the final winner email. It is still possible to capture more RSVPs than the contingent allows. These names are available for download in the RSVPs list of the campaign.<br><br><i>Ticketed campaign</i><br>The registration campaign automatically closes as soon as the contingent limit has been reached. It is possible to increase the contingent and open the campaign again.<br><br><i>Campaign contingent vs. Guest credits</i><br>If you have an open registration page campaign, the set contingent will reserve guest list spots and therefore deducts the number from the total guest credits of this event.<br>After the registration campaign has closed, the reserved spaces are released and only real registered guests on the guest list are deducted from your credits.",
+                "q4": "How to upload an event image?",
+                "a4": "To upload a static JPG, GIF or PNG event image, go to the 'Event' settings tab in the Snafflz web app and click the image placeholder. If the image is larger than 600 x 900 pixels, it will be resized and converted. File size limit is 1 MB.<br>It is possible to add images in the description box editor, too.",
+                "q5": "How to publish a registration page?",
+                "a5": "If you are satisfied with your registration page you can publish it by clicking the orange eye icon in the top header. Any future campaign changes need to be saved in order to be published.",
+                "q6": "Can I use my own domain name for my registration page?",
+                "a6": "Yes, you can include your own domain name in a Snafflz registration page URL.<br><br>Please contact us at <a href='mailto:support@snafflz.com'>support@snafflz.com</a> for further information.",
+                "q7": "What are Email Invitations and how to send them?",
+                "a7": "With the Snafflz web app you are able to send email invitations to your guests and let them 'RSVP' or 'Decline' directly in the email. Those accepting the invitation are automatically added as guests on the guest list and the invitation status is reflected in the invitation status field.<br><br><i>How?</i><br>Press the 'Create campaign' button in guest list view of the web app and choose the 'Email Invitation' campaign. You will then be redirected to the Invitation campaign editor. In the Dashboard and Audience tab you can create an invitation and add an Audience first. The Audience is the pool of Contacts. Select Contacts and add them as Recipients to each of your customizable invitation messages.",
+                "q8": "Can I customize the e-Invitation?",
+                "a8": "Yes. The subject and the message body are fully customizable. You can change your sender email and more options are included in the Message settings.<br><br>You are able to insert variables in the message body (e.g. the QR code, any guest data field, ...), upload an image or add your own HTML code and much more.",
+                "q9": "What are the benefits of creating a landing page for my Invitation message?",
+                "a9": "Snafflz allows you to create and publish a landing registration page that can be linked to your e-invitations. The RSVP button in the email links to that landing page and guests can enter additional information (i.e. allergies, companions). All information added by them is reflected in the guest data instantly.<br><br><i>How to create a landing page?</i><br>Enable the corresponding option switch in the tab menu of your invitation campaign.",
+                "q10": "Why is my sender email replaced by a @snafflz.com address?",
+                "a10": "'gmail' and 'yahoo' email addresses get substituted by the default @snafflz.com email address to avoid spam detection and blocking of email messages.",
+                "q11": "Can I schedule my invitation messages and receive an email delivery report?",
+                "a11": "Yes, you can schedule messages. An email statistics report will be sent to your email address once all messages have been delivered. You can also view and download the statistics in the recipients list and dashboard of your campaign."
+            },
+            "security": {
+                "title": "Security + Permissions",
+                "select": "Security + Permissions",
+                "q1": "Does Snafflz store the information of my guests?",
+                "a1": "Only you own your data. Once you delete an event or name, all relevant data is deleted from our system. We guarantee the highest privacy standards, including SSL data encryption (the same as used for electronic banking).",
+                "q2": "Who can see my data?",
+                "a2": "Your data is fully protected and secured by your password. Only the main user or an invited contributor with the right login credentials can view or read data.",
+                "q3": "How do I delete my account?",
+                "a3": "Please go to your Account page on the web app and select the 'Delete account' option at the bottom of the page. A confirmation box will appear. Please note that by deleting the account all your data will be removed, as well as any active subscription plans.",
+                "q4": "Are there multiple access levels for team members?",
+                "a4": "Yes, Snafflz offers various authorization levels for different access rights. These rights apply for the Snafflz online service and tablet/mobile app alike.",
+                "q5": "What are the different types of contributors available?",
+                "a5": "Snafflz has designed three levels of access so you can assign roles that match different needs.<br><br>'Administrator': has access to all events. Cannot create/edit/delete events, invite team members, edit account information.<br><br>'Collaborator': Same permissions as the Administrator but can only view the shared event. Cannot see the Master List.<br><br>'Door manager' ('Hostess'): cannot add and delete guests, see/add/edit registration pages and registrations. Cannot see the Master List. Has full editing rights for names on the mobile guest list to enable smooth check-in.<br><br>Once an administrator is removed s/he has no access to any of your data in Snafflz any more.<br><br>The number of allowed contributors is shown in your pricing plan. You are able to purchase contributors through our Top Up plan."
+            },
+            "pricing": {
+                "title": "Pricing + Payment",
+                "select": "Pricing + Payment",
+                "q1": "How do I pay for the Snafflz service?",
+                "a1": "We accept all usual credit cards / debit cards and PayPal as payment method. It is also possible to pay by bank transfer per request.",
+                "q2": "How to receive an invoice/receipt for my payments?",
+                "a2": "Your invoice is attached to our email payment confirmation message and can be viewed on the 'invoices' page on the web app. Address and VAT number can be changed within 30 days on our website. If you purchased an iOS inapp plan, you receive a payment confirmation and receipt by Apple iTunes.",
+                "q3": "Are there any plans for enterprise clients with special requirements?",
+                "a3": "Yes. Just drop us a line and let us know your requirements: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. We are experienced in complex guest list requirements and we are sure we can find an easy solution tailored to your needs. We are proud to be trusted partners for thousands of event professionals worldwide and always happy to help. Do not hesitate to contact us: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. In the meantime take a look at our advantageous 1-year-pre-paid subscription offers.",
+                "q4": "Do you offer non-profit discounts?",
+                "a4": "Yes, we do offer a 20% discount on our Pro package and a 10% discount on our subscription plans for non-profit organizations.",
+                "q5": "How to change and upgrade pricing plans?",
+                "a5": "You can upgrade from 'Pro' to the 'Premium' or 'Diamond' subscription plan and from 'Premium' to 'Diamond' or from a monthly plan to a yearly plan without a problem. As soon as the new upgrade is active, the plan restrictions get updated. This includes the 'Guest Credits', 'Check-in Credits', 'Email Credits', 'Contributor Allowance' etc. Already used up credits are reset to '0' at the time the new upgrade gets active.<br><br><b>Please note</b>: Any purchased Top Up plans are lost when upgrading to a different plan.<br><br>Please contact us by email if you have any further questions regarding the usage of our pricing plans.",
+                "q6": "Can I purchase Top Up plans to increase my credits or include more features?",
+                "a6": "Snafflz offers various Top Up plans to add<br><br>- additional features like Registration/Invitation Campaigns, VIP Arrival notification, Advanced Badge printing options, ...<br><br>- guest credits / check-in credits / email credits and invite more contributors as team members.",
+                "q7": "When does my Pro plan expire and are the Subscriptions auto-renewing?",
+                "a7": "Our pay-per-use Pro plan (including any purchased Top-ups) expires after 30 days of purchase.<br><br>Subscription plans do not expire until the recurring payment profile gets cancelled by you. After cancellation you can use Snafflz until the subscription period ends.",
+                "q8": "Can I cancel a subscription any time for free?",
+                "a8": "You can cancel your recurring payment profile anytime free of charge and you will not get billed again. To cancel your subscription plan, please go to your Account page on the web app and select the 'Cancel subscription' option."
+            },
+            "troubleshoot": {
+                "title": "Troubleshoot",
+                "select": "Troubleshoot",
+                "q1": "Can data get lost?",
+                "a1": "Your data will not get lost. Snafflz generates automatic backups of your data.In the unlikely event that your mobile app logged out with unsynced changes, your data is still stored on your mobile device and we can retrieve it. Please contact us at <a href='mailto:support@snafflz.com'>support@snafflz.com</a>",
+                "q2": "What if data does not sync with the server when online?",
+                "a2": "It is possible to retrieve and export all your data stored on the device with the 'Export guest list' function (mobile app v1, app v2 implementation coming soon...) Important note: Only device data showing up in your guestlist can be exported and retrieved.",
+                "q3": "Excel list upload error messages. How can I solve this?",
+                "a3": "Please download the error report file (link provided in the corresponding pop up window) to check which inconsistencies are generating invalid data. See the red rows and the error info in the right column. Please do not change, rearrange or remove any rows or columns. Just leave columns empty if not needed.",
+                "q4": "My credit balance seems to be incorrect. What can I do?",
+                "a4": "If you have an open registration page campaign, the set contingent will reserve guestlist spots and therefore consume guest credits. To increase the available guest credits, please decrease the registration campaign contingent. When the registration is closed only taken spots are deducted from your guest credits.<br><br>If you have used Snafflz for another event in the past, please delete this event/guest data to get previously used guest credits back. If you'd like to save data of the event, just export all data by clicking the 'Export' button in guestlist view.",
+                "q5": "How to contact Snafflz support?  Do you offer localized support?",
+                "a5": "Please get in touch at any time.<br>A friendly team awaits you: <a href='mailto:support@snafflz.com'>support@snafflz.com</a><br><br>We provide support in English, German, Portuguese, French and Spanish."
+            }
+        }
+    },
+    "terms": {
+        "menutitle": "Terms",
+        "headertitle": "Terms of Service",
+        "pageheadertitle": "Welcome to Snafflz"
+    },
+    "gdpr": {
+        "menutitle": "GDPR",
+        "headertitle": "GDPR",
+        "pageheadertitle": "General Data Protection Regulation (GDPR)"
+    },
+    "privacy": {
+        "menutitle": "Privacy",
+        "headertitle": "Privacy Policy",
+        "pageheadertitle": "Privacy Policy"
+    },
+    "error": {
+        "title": "Ooops, there was an error :(",
+        "general": {
+            "headertitle": "Error",
+            "message": "Please try again later."
+        },
+        "401": {
+            "headertitle": "401",
+            "message": "Sorry, you don't have permission to view this page."
+        },
+        "404": {
+            "headertitle": "404",
+            "message": "Sorry, this page cannot be found.<br>Please try again later."
+        },
+        "500": {
+            "headertitle": "500",
+            "message": "Internal error.<br>Please try again later."
+        },
+        "502": {
+            "headertitle": "502",
+            "message": "Gateway time-out.<br>The server encountered a temporary error and could not complete your request.<br>Please try again later."
+        },
+        "503": {
+            "headertitle": "503",
+            "message": "Sorry, the service is temporarily unavailable.<br>Please try again later.<br><br>We'll be back shortly!"
+        }
+    }
 }

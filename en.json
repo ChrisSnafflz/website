@@ -5,43 +5,43 @@
         "sections": {
             "s1": {
                 "title": "Simple visitor registration.<br>Reliable Event Check-in.",
-                "description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
+                "description": "All-in-one Visitor Management<br><br>‍We're able to help our clients navigate and comply with ever-changing Corona rules and regulations, government requests. Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
                 "signup": "Sign up for free"
             },
             "s2": {
-                "pre": "Check-in easy with Snafflz",
-                "title": "Free Android / iOS App",
+                "pre": "Check-in with confidence",
+                "title": "Free Snafflz Android / iOS App",
                 "description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
             },
             "s3": {
                 "title": "Pre-Event Campaigns",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "description": "Benefit from extensive email capacity and customise registration pages. Compile guest lists efficiently with Snafflz: take advantage of automatically collected registrations. Monitor RSVPs coming in real-time. Snafflz builds your final guest list automatically, ready for check-in. ",
                 "items": {
                     "i1": {
-                        "title": "Email Invitation Campaign",
+                        "title": "Email Invitation",
                         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
                     },
                     "i2": {
-                        "title": "Registration Page Campaign",
+                        "title": "Registration Page",
                         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
                     },
                     "i3": {
-                        "title": "Uploading existing sheets",
+                        "title": "Excel sheet upload",
                         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
                     }
                 }
             },
             "s4": {
                 "title": "On-Site",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "description": "Add attendees, control venue capacity, quick-search for registrations or read QR codes at a pace that spreadsheets can't match. With the mobile Snafflz Check-in manager for tablets and phones a streamlined entry is guaranteed: Amend your guest list directly on your mobile device, safe in the knowledge that all changes are synced across all devices.",
                 "items": {
                     "i1": {
                         "title": "Capture Guest Data",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": "Capture signatures and receive live notifications of VIP arrivals."
                     },
                     "i2": {
                         "title": "Check-in and Check-out ",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": "Find names in seconds, scan QR and check-in guests easily."
                     },
                     "i3": {
                         "title": "Print Badges & Control capacity",
@@ -51,7 +51,7 @@
             },
             "s5": {
                 "title": "Post Event Report",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+                "description": "Gain insightful analytics: attendee statistics, time of arrival, guest profiles, loyalty etc. The Snafflz mobile guest list is bulletproof - online & offline.",
                 "items": {
                     "i1": {
                         "title": "Analyse Guest Data ",
@@ -73,7 +73,7 @@
             },
             "s7": {
                 "title": "Call to action",
-                "description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
+                "description": "No time for hassles at the entrance.<br>\nBenefit from the perfect guest list app.",
                 "signup": "Sign up for free"
             }
         },
@@ -96,23 +96,23 @@
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
             },
             "invitation": {
-                "title": "e-invitation & RSVP management",
+                "title": "e-invitation & RSVP management ",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
             },
             "campaigns": {
-                "title": "Registration Pages & Ticketing",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "title": "Real-time Sync",
+                "description": "Enjoy immediate 24-hour access to your synced collaborative guest lists: accurate data, that's always up to date, across every device your team uses. "
             },
             "stats": {
                 "title": "Statistics & Reports",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
             },
             "export": {
-                "title": "Data Export",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "title": "Role-based access accounts",
+                "description": "Multiple user accounts and authorisation levels enable you to delegate and still ensure the strictest privacy policies. "
             },
             "support": {
-                "title": "Friendly Support",
+                "title": "Friendly Support / Registration Pages & Ticketing",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
             }
         }

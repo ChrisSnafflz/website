@@ -4,7 +4,7 @@
         "clients": "More than 5,000 happy clients trust Snafflz",
         "sections": {
             "s1": {
-                "title": "The All-in-one Guest List Solution for live, virtual, and hybrid events<br>\nTrusted by top event professionals.",
+                "title": "All-in-one Guest List Solution for live, virtual, and hybrid events<br>\nTrusted by top event professionals.",
                 "description": "Here comes the ultimate Guest Registration Software that lets you control guest data, venue capacity and Check-in with ease.<br><br>With Snafflz we're able to help our clients comply with ever-changing Corona rules and government requests.<br>‍<br>Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
                 "signup": "Sign up for free"
             },
@@ -73,7 +73,7 @@
             },
             "s7": {
                 "title": "No time for hassles at the entrance.<br>\nBenefit from the perfect guest list app.",
-                "description": "",
+                "description": " ",
                 "signup": "Sign up for free"
             }
         },
@@ -81,31 +81,31 @@
             "title": "Features",
             "setup": {
                 "title": "Easy setup",
-                "description": ""
+                "description": " "
             },
             "checkin": {
                 "title": "Fast Check-in",
-                "description": ""
+                "description": " "
             },
             "vip": {
                 "title": "VIP Arrival Alerts",
-                "description": ""
+                "description": " "
             },
             "badges": {
                 "title": "Print Badges",
-                "description": ""
+                "description": " "
             },
             "invitation": {
                 "title": "Online Invitation & RSVP management ",
-                "description": ""
+                "description": " "
             },
             "campaigns": {
                 "title": "Collaboration in Real-time ",
-                "description": ""
+                "description": " "
             },
             "stats": {
                 "title": "Statistics & Reports",
-                "description": ""
+                "description": " "
             },
             "export": {
                 "title": "Role-based access accounts",
@@ -113,7 +113,7 @@
             },
             "support": {
                 "title": "Friendly Support / Registration Pages & Ticketing",
-                "description": ""
+                "description": " "
             }
         }
     },

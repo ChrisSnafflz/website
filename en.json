@@ -81,31 +81,31 @@
             "title": "Features",
             "setup": {
                 "title": "Easy setup",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             },
             "checkin": {
                 "title": "Fast Check-in",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             },
             "vip": {
                 "title": "VIP Arrival Alerts",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             },
             "badges": {
                 "title": "Print Badges",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             },
             "invitation": {
-                "title": "e-invitation & RSVP management ",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "title": "Online Invitation & RSVP management ",
+                "description": ""
             },
             "campaigns": {
-                "title": "Real-time Sync",
-                "description": "Enjoy immediate 24-hour access to your synced collaborative guest lists: accurate data, that's always up to date, across every device your team uses. "
+                "title": "Collaboration in Real-time ",
+                "description": ""
             },
             "stats": {
                 "title": "Statistics & Reports",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             },
             "export": {
                 "title": "Role-based access accounts",
@@ -113,7 +113,7 @@
             },
             "support": {
                 "title": "Friendly Support / Registration Pages & Ticketing",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                "description": ""
             }
         }
     },

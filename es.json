@@ -1,0 +1,552 @@
+{
+    "pricing": {
+        "menutitle": "Precios",
+        "headertitle": "Precios",
+        "loggedout": {
+            "pageheadertitle": "Nuestros planos",
+            "included": "Aplicaciones gratuitas (iOS / Android), con encriptación SSL y copias de seguridad diarias incluidas",
+            "join": "Pruébalo gratis",
+            "details": "Sin compromiso, sin tarjeta de crédito y siempre gratis.<br>Para 1 evento com hasta 25 invitados",
+            "signup": "Empezar ahora"
+        },
+        "loggedin": {
+            "headertitle": "Actualizaciones"
+        },
+        "custom": "¿Necesita API pública, URL personalizada y soporte prioritario?",
+        "custombutton": "Contáctenos para soluciones personalizadas",
+        "topups": "Planes de recarga",
+        "toggle": {
+            "monthly": "Mensual",
+            "yearly": "Anual - <b>2 meses gratis!</b>"
+        },
+        "plans": {
+            "snafflzProBasic": {
+                "title": "PROFESIONAL<br>Un evento",
+                "description": "Incluye 300 créditos de invitados.<br>Válido por 30 días.",
+                "p1": "Check-in fácil y seguro",
+                "p2": "Impresión de gafetes con nombres",
+                "p3": "Estadísticas en vivo + Informes",
+                "p4": "Importar desde Excel / Exportar datos",
+                "price": "€35",
+                "period": "Pago único",
+                "button": "Comprar"
+            },
+            "snafflzPremiumBasicMonthly": {
+                "title": "PREMIUM<br>Eventos Ilimitados",
+                "description": "Incluye 500 créditos de invitados por lista.<br>500 créditos de correo electrónico al mês.",
+                "p1": "Todas las herramientas del plan Profesional",
+                "p2": "Paquete de campañas completo",
+                "p3": "e-Invitaciones / Páginas RSVP / Entradas",
+                "p4": "Alerta de llegadas VIP",
+                "price": "€59",
+                "period": "Pago mensual",
+                "button": "Comprar"
+            },
+            "snafflzPremiumBasicYearly": {
+                "title": "PREMIUM<br>Eventos ilimitados",
+                "description": "Incluye 500 créditos de invitados por lista.<br>500 créditos de correo electrónico al mês.",
+                "p1": "Todas las herramientas del plan Profesional",
+                "p2": "Paquete de campañas completo",
+                "p3": "e-Invitaciones / Páginas RSVP / Entradas",
+                "p4": "Alerta de llegadas VIPs",
+                "price": "€590",
+                "period": "Pago anual",
+                "button": "Comprar"
+            },
+            "snafflzDiamondBasicMonthly": {
+                "title": "DIAMOND<br>Eventos ilimitados",
+                "description": "Incluye 5,000 créditos de invitados por lista.<br>10,000 créditos de correo electrónico al mês.",
+                "p1": "Todas las herramientas del plan Premium",
+                "p2": "Opciones avanzadas de gafetes",
+                "p3": "Emails de comentarios",
+                "p4": "Soporte dedicado",
+                "price": "€229",
+                "period": "Pago mensual",
+                "button": "Comprar"
+            },
+            "snafflzDiamondBasicYearly": {
+                "title": "DIAMOND<br>Eventos ilimitados",
+                "description": "Incluye 5,000 créditos de invitados por lista.<br>10,000 créditos de correo electrónico al mês.",
+                "p1": "Todas las herramientas del plan Premium",
+                "p2": "Opciones avanzadas de gafetes",
+                "p3": "Emails de comentarios",
+                "p4": "Soporte dedicado",
+                "price": "€2290",
+                "period": "Pago anual",
+                "button": "Comprar"
+            },
+            "snafflzTUGuest": {
+                "title": "Recarga de invitados",
+                "description": {
+                    "ppu": "Válido mientras dure su plan",
+                    "monthly": "Por mes",
+                    "yearly": "Por año"
+                }
+            },
+            "snafflzTU500Guest": {
+                "title": "500 Créditos",
+                "button": "Incluir por €25"
+            },
+            "snafflzTU1000Guest": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por €45"
+            },
+            "snafflzTU3000Guest": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por €119"
+            },
+            "snafflzTU500GuestMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €25"
+            },
+            "snafflzTU1000GuestMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €45"
+            },
+            "snafflzTU3000GuestMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €119"
+            },
+            "snafflzTU500GuestYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €250"
+            },
+            "snafflzTU1000GuestYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €450"
+            },
+            "snafflzTU3000GuestYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €1,190"
+            },
+            "snafflzTUEmail": {
+                "title": "Recarga de Emails",
+                "description": {
+                    "ppu": "Válido mientras dure su plan",
+                    "monthly": "Por mes",
+                    "yearly": "Por año"
+                }
+            },
+            "snafflzTU500Email": {
+                "title": "500 Créditos",
+                "button": "Incluir por €15"
+            },
+            "snafflzTU1000Email": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por €29"
+            },
+            "snafflzTU3000Email": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por €79"
+            },
+            "snafflzTU500EmailMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €15"
+            },
+            "snafflzTU1000EmailMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €29"
+            },
+            "snafflzTU3000EmailMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €79"
+            },
+            "snafflzTU500EmailYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €150"
+            },
+            "snafflzTU1000EmailYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €290"
+            },
+            "snafflzTU3000EmailYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €790"
+            },
+            "snafflzTUGuestEmail": {
+                "title": "Recarga de invitados + emails",
+                "description": {
+                    "ppu": "Válido mientras dure su plan",
+                    "monthly": "Por mes",
+                    "yearly": "Créditos por mes, pago anual"
+                }
+            },
+            "snafflzTU500GuestEmail": {
+                "title": "500 Créditos",
+                "button": "Incluir por €39"
+            },
+            "snafflzTU1000GuestEmail": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por €69"
+            },
+            "snafflzTU3000GuestEmail": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por €169"
+            },
+            "snafflzTU500GuestEmailMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €39"
+            },
+            "snafflzTU1000GuestEmailMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €65"
+            },
+            "snafflzTU3000GuestEmailMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €169"
+            },
+            "snafflzTU500GuestEmailYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por €390"
+            },
+            "snafflzTU1000GuestEmailYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por €690"
+            },
+            "snafflzTU3000GuestEmailYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por €1,690"
+            },
+            "snafflzTUCampaign": {
+                "title": "CAMPAÑAS<br>Paquete",
+                "description": "Válido mientras dure su plan",
+                "p": "Invitaciones RSVP + 500 créditos<br>de correo + Páginas de registro",
+                "button": "Incluir por €59"
+            },
+            "snafflzTUVIP": {
+                "title": "LLEGADAS VIP<br>Alertas y notificaciones",
+                "description": "Válido mientras dure su plan",
+                "p": "Notificaciones push<br>y por correo electrónico",
+                "button": "Incluir por €9"
+            },
+            "snafflzTUBadge": {
+                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "description": "Válido mientras dure su plan",
+                "p": "Personalización completa<br>Más plantillas y diseños",
+                "button": "Incluir por $29"
+            },
+            "snafflzTUBadgeMonthly": {
+                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "description": "Por mes",
+                "p": "Personalización completa<br>Más plantillas y diseños",
+                "button": "Incluir por $29"
+            },
+            "snafflzTUBadgeYearly": {
+                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "description": "Por año",
+                "p": "Personalización completa<br>Más plantillas y diseños",
+                "button": "Incluir por $290"
+            },
+            "snafflzTUContributorMonthly": {
+                "title": "MIEMBRO DEL EQUIPO<br>Recarga",
+                "description": "Por mes",
+                "p": "1 usuario adicional<br>(Admin/Colaborador/Portero)",
+                "button": "Incluir por $9"
+            },
+            "snafflzTUContributorYearly": {
+                "title": "MIEMBRO DEL EQUIPO<br>Recarga",
+                "description": "Por año",
+                "p": "1 usuario adicional<br>(Admin/Colaborador/Portero)",
+                "button": "Incluir por $90"
+            }
+        }
+    },
+    "paymentconfirmation": {
+        "headertitle": "Pago",
+        "success": {
+            "pageheadertitle": "¡Gracias!<br>Pago realizado.",
+            "message": "Se envió un recibo del pago por correo electrónico.",
+            "contact": "¿Quier hablar con nosotros?<br>Envíanos un mensaje: <a href='mailto:support@snafflz.com?subject=Pago'>support@snafflz.com</a>"
+        },
+        "error": {
+            "pageheadertitle": "Error al procesar el pago.",
+            "message": "Algo salió mal.",
+            "contact": "Envíe un correo electrónico a <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br>Lo resolveremos rápidamente."
+        }
+    },
+    "signup": {
+        "menutitle": "Registrarse",
+        "headertitle": "Registrarse",
+        "pageheadertitle": "Crea una cuenta",
+        "firstname": "Nombre *",
+        "lastname": "Apellido *",
+        "email": "E-mail *",
+        "company": "Nombre de la empresa",
+        "password": "Contraseña *",
+        "password2": "Confirmar contraseña *",
+        "agree": "Acepto las <a href='/terms'>Condiciones de servicio</a> y la <a href='/privacy'>Política de privacidad</a>",
+        "button": "Crear una cuenta",
+        "separator": "-o-",
+        "success": {
+            "pageheadertitle": "Perfecto!",
+            "message": "¡Listo! Comience a hacer sus listas y eventos en Snafflz aquí:"
+        },
+        "error": {
+            "pageheadertitle": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        }
+    },
+    "signupconfirm": {
+        "headertitle": "Confirmar el correo",
+        "success": {
+            "pageheadertitle": "¡Hecho!",
+            "message": "Gracias, su dirección de correo electrónico está confirmada."
+        }
+    },
+    "login": {
+        "menutitle": "Iniciar sesión",
+        "headertitle": "Iniciar sesión",
+        "pageheadertitle": "Iniciar sesión en la aplicación web",
+        "email": "E-mail",
+        "password": "Contraseña",
+        "button": "Iniciar sesión",
+        "forgot": "¿Olvidó su contraseña?",
+        "separator": "-o-",
+        "success": {
+            "header": "¡Hecho!",
+            "message": "¡Gracias! Registro completado."
+        },
+        "error": {
+            "header": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        },
+        "loggedin": "Ya se ha autentificado(a). Puede cerrar sesión <a href='/app?snafflzLogout=1'>aquí</a>."
+    },
+    "resetpassword": {
+        "headertitle": "Cambiar la contraseña",
+        "pageheadertitle": "Por favor, introduzca su dirección de correo electrónico.",
+        "email": "Ingrese el utilizado en el registro de la cuenta",
+        "button": "Enviar",
+        "success": {
+            "message": "Se le envió un correo electrónico con un enlace para crear una nueva contraseña. Por favor revise su bandeja de entrada."
+        },
+        "error": {
+            "header": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        }
+    },
+    "resetpasswordconfirm": {
+        "headertitle": "Cambiar la contraseña",
+        "pageheadertitle": "Cree una nueva contraseña para su cuenta Snafflz.",
+        "email": "Su dirección de correo electrónico",
+        "password": "Su nueva contraseña",
+        "password2": "Confirmar nueva contraseña",
+        "button": "Enviar",
+        "success": {
+            "message": "¡Nueva contraseña confirmada! Gracias."
+        },
+        "error": {
+            "header": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        }
+    },
+    "invitationconfirm": {
+        "headertitle": "Registrarse como miembro del equipo",
+        "pageheadertitle": "Crea una contraseña para tu cuenta",
+        "email": "Su dirección de correo electrónico",
+        "password": "Su contraseña",
+        "password2": "Confirmar la contraseña",
+        "button": "Enviar",
+        "success": {
+            "message": "¡Gracias! ¡Confirmación recibida!"
+        },
+        "error": {
+            "header": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        }
+    },
+    "senderconfirm": {
+        "headertitle": "Cambiar el correo electrónico del remitente",
+        "success": {
+            "pageheadertitle": "Sucesso!",
+            "message": "Se ha verificado el nuevo correo electrónico del remitente."
+        }
+    },
+    "gotoapp": {
+        "menutitle": "Ir a la aplicación"
+    },
+    "logout": {
+        "menutitle": "Cerrar sesión"
+    },
+    "faq": {
+        "menutitle": "FAQ",
+        "headertitle": "Preguntas más frecuentes",
+        "topic": {
+            "select": "Seleccionar tema",
+            "basics": {
+                "title": "Principio",
+                "select": "Principio",
+                "q1": "¿Qué es Snafflz?",
+                "a1": "Una solución práctica y eficiente para gestionar invitados, listas, RSVPs, participaciones e inscripciones en cualquier tipo de evento. Registre fácilmente a los invitados, imprima gafetes en el momento y cree páginas de registro personalizadas e inteligentes.<br><br>Snafflz es súper flexible y tiene varios perfiles de eventos:<br><br>• Alfombras rojas, desfiles de moda e inauguraciones de tiendas<br>• Conferencias y ferias<br>• Eventos corporativos, reuniones de empleados, talleres<br>• Actos de graduación, reuniones y actividades universitarias<br>• Recepciones y almuerzos VIP<br>• Bodas, aniversarios y celebraciones",
+                "q2": "¿Cómo me registro?",
+                "a2": "A través de nuestra <a href='/signup'>página de registro</a> o instalando la aplicación iOS / Android y creando su cuenta fácilmente.<br>Use correo electrónico y contraseña o la opción de registro automático por Facebook o ID de Apple.",
+                "q3": "¿Puedo probar gratis?",
+                "a3": "¡Si! Simplemente use nuestra versión 'Free Taster'. Con él, puede:<br><br>•  crear 1 evento con hasta 25 invitados<br>• usar la herramienta de campaña para crear 2 páginas de registro diferentes y enviar 3 invitaciones<br>• puede probar casi todas las funciones de pago de Snafflz de forma gratuita",
+                "q4": "¿Cuáles son los requerimientos del sistema?",
+                "a4": "La aplicación web Snafflz funciona en todos los navegadores principales.<br><br><i>Aplicación Móvil v1</i><br>• iOS: iOS9 mínimo, iOS10 deseable o superior. No se recomiendan dispositivos más antiguos como iPad mini (1.ª generación), iPad (2.ª / 3.ª generación) y iPhone 4S.<br>• Android: requiere Android 4.4 o superior<br><br><i>Aplicación móvil v2</i><br>• iOS: funciona en cualquier dispositivo con iOS10 o superior<br>• Android: funciona em cualquier dispositivo con Android 4.1 o superior<br><br>Todas las aplicaciones tienen versiones en español, portugués, inglés, alemán y francés.",
+                "q5": "¿Puedo vender entradas con Snafflz?",
+                "a5": "Puede crear una campaña \"Evento con entradas\" y enviar las entradas (tickets) con códigos QR a los invitados, pero no pueden comprar a través de Snafflz en este momento. Pronto ofreceremos una forma de pagar por nuestra aplicación, pero hasta entonces ya es posible ingresar un precio para el boleto y cobrar el pago directamente en la entrada, al momento de registrar el invitado (check-in).",
+                "q6": "¿Cuántos miembros del equipo puedo asociar con mi cuenta?",
+                "a6": "Cuando se registra en Snafflz, señor, inmediatamente se convierte en el propietario de la cuenta y puede iniciar sesión en varios dispositivos al mismo tiempo (utilizando el mismo correo electrónico y contraseña).<br><br>Si desea crear cuentas individuales para otros miembros del equipo, puede invitarlos a la aplicación web. Recibirán un correo electrónico con un enlace para crear perfiles individuales asociados con la cuenta principal, con restricciones de acceso determinadas por usted. Los planes Premium y Diamond ya dan derecho a los miembros del equipo, pero también se pueden comprar por separado en paquetes de recarga.",
+                "q7": "¿Qué son los créditos de invitado, de check-in y de correo electrónico?",
+                "a7": "1 'crédito de invitado' corresponde a 1 persona de la lista. Si su evento tiene 500 asistentes, necesitará 500 créditos para invitados. Cuando se elimina un nombre de una lista, el crédito vuelve a estar disponible para ser utilizado nuevamente.<br><br>1 'crédito de check-in' permite que una persona haga check-in. Otro check-in o check-out de la misma persona en el mismo evento cuenta como '0'. Cuando se usa 1 crédito de check-in, no se puede volver a poner a disposición.<br><br> 1 'crédito de correo electrónico' se usa para enviar 1 invitación por correo electrónico. Cada correo electrónico requiere 1 crédito.<br><br>Su saldo actual siempre está visible en la parte superior de las listas de invitados.<br><br>Los créditos se pueden comprar en planes de recarga o junto con los paquetes principales. Para obtener más información, haga clic aquí: Precios.",
+                "q8": "¿Cómo cambio el correo electrónico de la cuenta principal?",
+                "a8": "Envíe un mensaje a <a href='mailto:support@snafflz.com'>support@snafflz.com</a> indicando el nuevo correo electrónico que desea utilizar. Lo cambiaremos rápidamente.",
+                "q9": "¿Como puedo cambiar mi contraseña?",
+                "a9": "Haga clic aquí: <a href='/reset-password'>cambiar contraseña</a>"
+            },
+            "tablet": {
+                "title": "Aplicación / Smartphones y Tablets",
+                "select": "Aplicación / Smartphones y Tablets",
+                "q1": "¿Dónde puedo descargar la aplicación Snafflz?",
+                "a1": "Descargue la aplicación de iOS en iTunes AppStore<br>Descargue la aplicación de Android en Play Store.<br><br>Instale la aplicación en todos los dispositivos que se utilizarán.",
+                "q2": "Necesito alquilar tablets para mi evento. ¿Me puede ayudar Snafflz?",
+                "a2": "Snafflz no alquila tabletas, pero podemos recomendar empresas de confianza para ello. Háganos saber lo que necesita y lo pondremos en contacto con las mejores empresas del sector.",
+                "q3": "¿Como hago el check-in de un invitado?",
+                "a3": "<i>Aplicación Web</i><br>Haga clic en el icono de marca de verificación junto al nombre del invitado correspondiente. Haga clic más veces para registros consecutivos. Utilice el botón derecho para ver más opciones de check-in / check-out.<br><br><i>Aplicación Móvil v1</i><br>Presione el ícono de la marca de verificación junto al nombre del invitado o deslice el dedo hacia la derecha y vea todas las opciones de check-in / check-out.<br><br><i>Aplicación Móvil v2</i><br>Toque el nombre del invitado y aparecerá la información del check-in.<br><br>El check-in y el check-out de los acompañantes funcionan exactamente de la misma manera.<br><br>Es posible deshacer los check-ins.",
+                "q4": "¿Snafflz tiene check-in mediante código QR?",
+                "a4": "Sí, el lector de códigos QR y códigos de barras ya está integrado en la aplicación móvil Snafflz.<br>Lee los siguientes códigos:<br>QR / Code 128 / Code 39 / Code93 / UPC-E / EAN13 / EAN8 / PDF417 / Aztec / Interleaved 2 of 5 / ITF14/DataMatrix.",
+                "q5": "¿Existe un modo de quiosco para que los invitados puedan hacer su propio check-in en la puerta o registrarse para un evento?",
+                "a5": "Sí, hay un modo de quiosco personalizable disponible en la versión 1 de nuestras aplicaciones para iOS y Android. Con él, los invitados pueden hacer el propio check-in ingresando su dirección de correo electrónico o usando un código QR, e incluso completar formularios de registro con las preguntas que desee.",
+                "q6": "¿Puedo usar la aplicación móvil sin estar conectado a una red Wi-Fi?",
+                "a6": "<i>Aplicación Web</i><br>Para guardar los datos ingresados, es necesario tener conexión a Internet / Wi-Fi. Simplemente actualice su navegador para ver los últimos cambios.<br><br><i>Aplicación móvil v1 / iOS</i><br>Es posible utilizar la aplicación para iOS v1 sin una conexión a Internet. La aplicación cambia automáticamente al modo 'fuera de línea' hasta que se restablece la conexión. En este modo funciona normalmente, pero la sincronización solo ocurre cuando hay una señal / red nuevamente. Todos los datos se almacenan localmente, en los dispositivos, hasta que se puedan sincronizar y almacenar en la nube.<br>Atención: es importante que a) los dispositivos tengan una conexión en algún momento para guardar datos y b) que tengan una conexión para sincronizar con la nube.<br>La aplicación de Android v1 no tiene modo fuera de línea.<br><br><i>Aplicación móvil v2</i><br>Por el momento todavía es necesario tener conexión Wi-Fi para usar la aplicación v2. Estamos trabajando en modo fuera de línea para esta versión y le informaremos tan pronto como esté disponible.",
+                "q7": "¿Puedo personalizar Snafflz con mi marca?",
+                "a7": "Sí, la aplicación para iOS ofrece opciones de personalización de marca. Simplemente importe las imágenes que desea usar como logotipo y protector de pantalla en iPhones y iPads a través de la aplicación web."
+            },
+            "guestlist": {
+                "title": "Lista de Invitados y Check-in",
+                "select": "Lista de Invitados y Check-in",
+                "q1": "¿Como importar listas en Excel?",
+                "a1": "Haga clic en \"Importar\" en la esquina superior derecha de la aplicación web y seleccione la opción \"Hoja de cálculo de Excel\". Utilice nuestra plantilla para importar.",
+                "q2": "¿Puedo personalizar los campos de datos?",
+                "a2": "Sí, puede crear sus propios campos. Snafflz ofrece 3 tipos: texto, casilla de verificación y menú desplegable.",
+                "q3": "¿Cómo se generan los códigos QR de Snafflz? ¿Puedo usar otros?",
+                "a3": "Los códigos QR de Snafflz se generan automáticamente para cada invitado y para cada contacto en la Lista Principal.<br><br><i>¿Cómo reciben los invitados los códigos (y / o gafetes / entradas)?</i><br>Al registrarse para un evento: simplemente cree una campaña en la página de registro y quienes se registren recibirán el código QR en el correo electrónico de confirmación.<br><br>Junto con la invitación: cree una campaña de invitación por correo electrónico y envíe los códigos a los destinatarios dentro de la credencial o ticket (entrada), en PDF.<br><br><i>¿Cómo escaneo el código QR de un invitado?</i><br>Imprima las gafetes con nombres y códigos QR a través de Snafflz y utilice el escáner integrado en la aplicación móvil para leer en papel o directamente en el dispositivo de cada invitado.<br><br><i>¿Cómo usar mis propios códigos QR o códigos de barras?</i><br>Complete la columna 'QR- / Código de barras' de la plantilla de Excel con los datos de cada código y luego cárguelo en la pestaña 'Hoja de cálculo' de la opción 'Importar'.<br><br>Si desea crear sus propios códigos QR:<br>1. Haga clic en <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Seleccione \"plain text\" como data type y \"static\" como encoding.<br>3. Ingrese texto y / o número y genere el código.",
+                "q4": "¿Cómo recibo alertas de llegadas VIP?",
+                "a4": "Habilite la opción de notificación VIP dentro de la aplicación Snafflz. La función debe ser activada por dispositivo. Snafflz enviará una notificación automática inmediatamente cuando cada invitado VIP llegue (haga check-in) en el evento. Cada usuario puede activar y desactivar las notificaciones en cualquier momento, y la cantidad de dispositivos y notificaciones es ilimitada. Por el momento, todavía no es posible enviar notificaciones por SMS.<br><br><i>¿Cómo habilitar las notificaciones VIP en la aplicación web?\n</i><br>Haga clic en la opción 'enviar email de llegada VIP' en la pestaña 'Evento' de la lista de invitados. Snafflz enviará un correo electrónico automático a la dirección de la cuenta en cada check-in VIP. También es posible enviar alertas por correo electrónico a direcciones que no sean la cuenta principal. Solo informe en el campo 'Email que recibe alerta VIP' de cada invitado. Esta función se incluye de forma gratuita en los planes Premium y Diamond y se puede adquirir por separado (como recarga) para el plan Professional.",
+                "q5": "¿Cómo exporto o imprimo mis listas de invitados en Snafflz?",
+                "a5": "<i>Exportar</i><br>Haga clic en \"Exportar\" en la aplicación web o en la aplicación móvil. Puede descargar dos tipos de archivos de Excel (XLS): solamente los datos de invitados registrados o todos los datos de invitados. En la aplicación móvil, siempre se envían todos los datos, así como un informe en PDF. <br><br><i>Imprimir</i><br>Haga clic en 'Imprimir' en la aplicación web.<br>Se imprimirán las columnas visibles en la pantalla. Al hacer clic en 'Campos de datos', es posible elegir otras.",
+                "q6": "¿Snafflz produce informes con estadísticas? ¿E información en vivo durante el evento?",
+                "a6": "Sí, Snafflz genera automáticamente informes útiles y presenta un saldo minuto a minuto de información clave, como: número de invitados que ya han llegado, los \"no-shows\", VIP, invitaciones enviadas y aceptadas, tiempo promedio de check-in, monto cobrado (en eventos con entrada paga) etc.",
+                "q7": "¿Qué es la \"Lista Principal\"?",
+                "a7": "La Lista Principal es su base de datos de contactos. Contiene todas las personas agregadas a todas y cada una de las listas de invitados. Cada nombre de la Lista principal cuenta como un contacto diferente.<br><br><i>¿Puedo hacer check-in de un invitado a través de la Lista Principal?</i><br>No. La Lista principal no es una lista de invitados y, dado que no está asociada a un evento específico, no permite check-ins.<br><br><i>¿Cómo uso la Lista Principal?</i><br>Puede aplicar filtros, agregar, importar o eliminar contactos y cualquier otra cosa que necesite. También puede exportar la lista completa, como una lista de invitados.<br><br><i>¿Cómo transfiero nombres de la lista principal a una lista de invitados (evento)?</i><br>Puede seleccionar y copiar nombres a una lista existente o crear una nueva directamente desde una selección de contactos en la Lista principal. De esta forma, la información se agrega en el contacto y se pueden ver las estadísticas del mismo invitado en diferentes eventos.<br><br><i>¿Posso descobrir em quantos e quais eventos um mesmo contato compareceu?</i><br>Sí. La pestaña \"estadísticas\" muestra información sobre la presencia de cada invitado en diferentes eventos.<br><br><i>¿El mismo contacto tiene el mismo código QR asociado a diferentes eventos?</i><br>Sí . Siempre que el mismo contacto se exporta directamente de la lista principal a una lista de invitados, se mantendrá su QR."
+            },
+            "campaigns": {
+                "title": "RSVP y Campañas",
+                "select": "RSVP y Campañas",
+                "q1": "¿Qué tipos de campañas con páginas de registro existen?",
+                "a1": "Al hacer clic en el botón \"Crear campaña\" dentro de la lista de invitados en la aplicación web, puede elegir entre dos tipos:<br><b>Evento RSVP</b> e <b>Evento con entradas</b>.<br><br>Las principales diferencias son:<br><br><i>Evento RSVP</i><br>Los inscritos no se incluyen automáticamente en la lista final de invitados y se pueden eliminar mientras el período de inscripción está abierto. Cuando finalice el plazo, los nombres que queden se moverán a la lista de invitados y recibirán una confirmación de \"ganador\" personalizable. Si hay más inscritos que lugares disponibles en el evento, el sistema moverá los nombres a la lista final en orden de inscripción. Aún así, es posible recopilar todos los datos de los que quedaron fuera para construir una lista de espera.<br><br><i>Evento con entradas</i><br>Los inscritos se confirman automáticamente en la lista final de invitados y reciben un correo electrónico personalizable con la entrada (ticket).<br><br>Atención: solo es posible crear campañas en eventos que aún van a suceder (la fecha debe ser en el futuro).",
+                "q2": "¿Puedo cambiar el plazo de registro de una campaña?",
+                "a2": "Sí, incluso después de que esté cerrado. Solo hay dos condiciones relacionadas con los tipos de campaña:<br><br><i>Evento RSVP </i><br>El período de registro debe finalizar antes del inicio del evento.<br><br><i>Evento con entrada</i><br>El período de registro debe finalizar antes de que finalice el evento.",
+                "q3": "¿Qué significa el \"cupo máximo\" de inscripciones? ¿Cómo se relaciona esto con mis créditos de invitado?",
+                "a3": "En las configuraciones es posible definir una cuota máxima de inscripción (número máximo de plazas disponibles en la lista).<br><br><i>Evento RSVP</i><br>Cuando finalice el período de registro, solo se moverá a la lista de invitados el número correspondiente al cupo. Ejemplo: si tiene 100 asientos disponibles y 150 suscriptores, solo 100 ingresarán a la lista de invitados efectiva y recibirán el correo electrónico de confirmación del \"ganador\". Los otros 50 se guardarán, con todos los datos, para su descarga, en la lista RSVP de la campaña.<br><br><i>Evento con entradas</i><br>La campaña finaliza el plazo automáticamente cuando se alcanza la cuota de suscriptores. Si lo desea, es posible aumentar el cupo en ese momento y reabrir la campaña, permitiendo nuevos registros y en consecuencia el aumento de la lista de invitados.<br><br><i>Cupo y créditos de invitados</i><br>Si tiene una campaña de inscripción abierta, la cuota se reservará para acomodar las inscripciones y, por lo tanto, se deducirá del saldo total de créditos de invitados para ese evento.<br>Cuando expira el plazo, los asientos no reservados se liberan y solo el número real se deduce del saldo de créditos.",
+                "q4": "¿Cómo importar una imagen para ilustrar la página de registro del evento?",
+                "a4": "Para importar una imagen fija en JPG, GIF o PNG, haga clic en la pestaña 'Evento' de la aplicación web. Si la imagen tiene un tamaño superior a 600 x 900 píxeles, se cambiará de tamaño. El límite de tamaño del archivo es de 1 MB.<br>También es posible agregar imágenes en el cuerpo del texto, junto con detalles escritos.",
+                "q5": "¿Cómo publico la página de registro?",
+                "a5": "Cuando el diseño de la página esté listo, haga clic en el icono del ojo naranja en la esquina superior de la página. Los cambios posteriores deben guardarse antes de volver a publicarse.",
+                "q6": "¿Puedo usar mi propio dominio para la dirección en mi página de registro?",
+                "a6": "Sí, es posible incluir su dominio en la URL de las páginas de registro de Snafflz.<br><br>Contáctenos en <a href='mailto:support@snafflz.com'>support@snafflz.com</a> para obtener más información.",
+                "q7": "¿Cómo funcionan las invitaciones RSVP?",
+                "a7": "Con la aplicación web Snafflz puede enviar invitaciones por correo electrónico a sus contactos y ellos aceptan o rechazan directamente en el mensaje. Las respuestas se registran inmediatamente y los invitados que aceptan serán confirmados en la lista.<br><br><i>¿Cómo creo invitaciones?</i><br>Haga clic en el botón \"Crear campaña\" dentro del evento en la aplicación web y elija la opción \"Invitación por correo electrónico\". Luego cree la invitación y componga la 'Audiencia' (grupo de contactos asociados con ese evento). Luego seleccione los destinatarios de cada mensaje (se pueden crear varios tipos de mensajes para el mismo evento, con diferentes destinatarios).",
+                "q8": "¿Puedo personalizar las invitaciones?",
+                "a8": "Sí. Tanto el asunto como el cuerpo del mensaje son completamente personalizables. También es posible cambiar el correo electrónico del remitente para cada mensaje.<br><br>Además, Snafflz le permite insertar variables (por ejemplo, código QR o cualquier campo de datos), adjuntar imágenes y archivos, su propio código HTML y mucho más.",
+                "q9": "¿Cuál es la ventaja de crear y asociar una 'página de destino' a la invitación?",
+                "a9": "Snafflz le permite crear y publicar una página de destino asociada con invitaciones con RSVP. El botón \"aceptar\" redirige automáticamente a los invitados a la página, para que puedan responder preguntas (ejemplos: si llevarán acompañantes, cuáles son sus preferencias alimentarias, si tienen necesidades especiales, o elegir opciones y expresar requisitos de cualquier tipo). Toda la información ingresada se sincroniza automáticamente en la lista de invitados.<br><br><i>¿Cómo creo la página de destino?</i><br>Simplemente habilite la opción en el menú de la campaña de invitación.",
+                "q10": "¿Por qué se reemplazó la dirección de correo electrónico de mi remitente por una dirección @snafflz.com?",
+                "a10": "Direcciones de 'gmail' y 'yahoo' se reemplazan por @snafflz.com para evitar que se marquen como spam o se bloqueen y no se entreguen.",
+                "q11": "Quiero programar el envío de mis invitaciones para una fecha específica y luego recibir un informe de entrega. ¿Cómo hago eso?",
+                "a11": "Por supuesto, usted elige la fecha y hora de envío que desee. El informe con las estadísticas se generará tan pronto como se entreguen todas las invitaciones / mensajes. También es posible ver o descargar las mismas estadísticas en la lista de destinatarios y / o en la página principal de la campaña."
+            },
+            "security": {
+                "title": "Seguridad y Permisos",
+                "select": "Seguridad y Permisos",
+                "q1": "¿Snafflz almacena la información de mis invitados?",
+                "a1": "Eres el único propietario de tus datos. Cuando elimina un evento o un invitado, toda la información también se elimina de nuestro sistema. Garantizamos los más altos niveles de privacidad, incluido el cifrado SSL (el mismo que se utiliza en la banca en casa).",
+                "q2": "¿Quién puede ver los datos y la información de mis eventos y listas?",
+                "a2": "Sus datos están completamente protegidos y seguros con su contraseña. Solo las personas con acceso autorizado por usted pueden ver o editar información: administradores, colaboradores y gestores de puerta.",
+                "q3": "¿Cómo borro mi cuenta?",
+                "a3": "Ingrese a la pestaña 'Cuenta' de la aplicación web y elija la opción 'Eliminar cuenta' en la parte inferior de la página. Al borrar la cuenta se eliminan todos los datos, así como cualquier suscripción de plan que pueda estar activa.",
+                "q4": "¿Existen diferentes niveles de acceso / permisos?",
+                "a4": "Sí, Snafflz ofrece diferentes categorías de colaboradores. Estas categorías funcionan en la aplicación web y en la aplicación móvil de la misma manera.",
+                "q5": "¿Qué categorías de miembros del equipo están disponibles?",
+                "a5": "Snafflz ha creado tres perfiles de acceso diferentes, compatibles con las necesidades de nuestros clientes:<br><br>'Administrador': tem acesso a todos os eventos. Não pode criar/editar/deletar eventos, incluir membros nem editar as informações gerais da conta.<br><br>'Colaborador': solo tendrá acceso al evento específico que se comparte con él. No tiene acceso a la Lista Principal (Master List).<br><br>'Portero(a)' ('Host/ess'): tiene todas las restricciones del administrador y además no puede incluir ni eliminar invitados ni ver / crear / editar registro y páginas de registro. No tiene acceso a la Lista Principal. Puede editar la información de los invitados en la aplicación móvil para facilitar el check-in.<br><br>Cuando se quita a un administrador, ya no tiene acceso a ninguna información de Snafflz.<br><br>El número de miembros que tiene cada cuenta está en la página de precios. Es posible comprar más licencias individuales (recarga)."
+            },
+            "pricing": {
+                "title": "Precios e Pago",
+                "select": "Precios e Pago",
+                "q1": "¿Cómo puedo pagar un paquete o plan?",
+                "a1": "Aceptamos las principales tarjetas de crédito o débito y PayPal. También es posible pagar mediante transferencia bancaria.",
+                "q2": "¿Cómo obtengo un recibo / factura de mis pagos?",
+                "a2": "La factura se enviará por correo electrónico junto con la confirmación del pago y siempre estará disponible en la pestaña 'Facturas' de la aplicación web. La dirección y el número de IVA se pueden cambiar dentro de los 30 días posteriores a la emisión. Si compró el plan a través de la aplicación iOS, la confirmación del pago y el recibo se emitirán a través de Apple / iTunes.",
+                "q3": "¿Existen planes para clientes corporativos con requisitos específicos?",
+                "a3": "Sí. Escríbanos diciéndonos lo que necesita: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. Tenemos experiencia en todo tipo de eventos y encontraremos una solución a medida para lo que necesites. Nos sentimos honrados de tener miles de marcas y profesionales de eventos en todo el mundo como clientes, y siempre estamos listos para ayudar. Contáctenos en cualquier momento: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. Mientras tanto, asegúrese de consultar nuestros planes anuales, con aún más beneficios y descuentos.",
+                "q4": "¿Existen descuentos para empresas y entidades sin ánimo de lucro?",
+                "a4": "Sí, Snafflz ofrece 20% de descuento en paquetes PRO y 10% en suscripciones para entidades sin fines de lucro.",
+                "q5": "¿Cómo cambiar o actualizar un plan?",
+                "a5": "Es posible actualizar el paquete 'Pro' a un plan 'Premium' o 'Diamond', de 'Premium' a 'Diamond' o de un plan mensual a un plan anual sin ningún problema. Tan pronto como se activa la actualización, los balances se actualizan para reflejar el nuevo plan. Esto incluye 'Créditos de invitados', 'Créditos de check-in', 'Créditos de correo electrónico', 'Número de miembros del equipo', etc. Los créditos que ya se hayan utilizado se restablecerán a cero cuando se active la actualización.<br><br><b>Atenção</b>: todas las recargas activas se perderán porque están asociadas con el plan anterior.<br><br>Por favor contáctenos si tiene alguna pregunta sobre el funcionamiento de nuestros planes.",
+                "q6": "¿Puedo recargar cualquier plan para obtener más créditos o herramientas adicionales?",
+                "a6": "Sí. Snafflz ofrece varios tipos de recargas, para poder incluir:<br><br>- herramientas extra como campañas con páginas de registro o invitaciones, alerta de llegada de VIP, opciones avanzadas e impresión de gafetes, o...<br><br>- créditos de invitados / check-ins / correos electrónicos y agregar más perfiles para diferentes miembros del equipo.",
+                "q7": "¿Cuándo vence mi paquete Pro? ¿Se renuevan automáticamente las suscripciones y los planes?",
+                "a7": "Nuestro paquete Pro (y cualquier recarga asociada) vence 30 días después de la compra.<br><br>Las suscripciones no vencen a menos que el propietario de la cuenta las cancele. Si cancela su plan, podrá seguir utilizándolo hasta el último día cubierto por el pago anterior.",
+                "q8": "¿Puedo finalizar la suscripción en cualquier momento? ¿Tiene algún costo?",
+                "a8": "Puede cancelar el plan en cualquier momento, sin cargos ni penalizaciones por hacerlo. Para cancelar, vaya a la pestaña 'Cuenta' de la aplicación web y haga clic en 'Cancelar suscripción'."
+            },
+            "troubleshoot": {
+                "title": "Solución de Problemas",
+                "select": "Solución de Problemas",
+                "q1": "¿Se puede perder alguna información?",
+                "a1": "Sus datos no se perderán. Snafflz realiza copias de seguridad diarias, e incluso en el raro caso de que la aplicación móvil se desconecte con cambios no guardados, los datos se seguirán grabando en el dispositivo y podemos recuperarlos. Por favor contáctenos en <a href='mailto:support@snafflz.com'>support@snafflz.com</a>",
+                "q2": "¿Qué pasa si la sincronización no funciona incluso con una conexión Wi-Fi?",
+                "a2": "Es posible recuperar y exportar todos los datos registrados en el dispositivo a través de la opción 'Exportar lista' (disponible en la v1 de la aplicación móvil, ¡en la v2 ya casi está!) Importante saber: solo la información que está visible en la lista se puede exportar y recuperar.",
+                "q3": "Aparece un mensaje de error al cargar la hoja de cálculo de Excel. ¿Como resolver?",
+                "a3": "Simplemente descargue el informe (el enlace está en la misma ventana) para ver qué está causando errores. Las líneas con problemas estarán en rojo, y la respectiva explicación en el lado derecho. Es fundamental no eliminar ni reorganizar filas o columnas en la plantilla. Simplemente deje en blanco los campos que no necesita usar.",
+                "q4": "Mi saldo de créditos parece incorrecto. ¿Qué debo hacer?",
+                "a4": "Si tiene una campaña con una página de registro abierta, la cuota de posibles inscritos establecida se descontará por adelantado del saldo de invitados, para que el registro sea factible. Si desea liberar créditos de invitado, simplemente reduzca la cuota. Al final del período de registro, solo se deducirá del saldo de crédito la cantidad real de inscritos.<br><br>Si ha usado Snafflz antes, puede eliminar eventos pasados ​​para liberar créditos usados. Si desea guardar los datos y la información del evento antes de eliminarlo, haga clic en el botón 'Exportar' dentro de la lista de invitados.",
+                "q5": "¿Cómo puedo ponerme en contacto con el soporte de Snafflz? ¿Qué idiomas están disponibles?",
+                "a5": "¡Contáctenos en cualquier momento!<br>Un equipo amigable y accesible está esperando:: <a href='mailto:support@snafflz.com'>support@snafflz.com</a><br><br>Ofrecemos soporte en español, portugués, inglés, alemán y francés."
+            }
+        }
+    },
+    "terms": {
+        "menutitle": "Condiciones",
+        "headertitle": "Condiciones de Servicio",
+        "pageheadertitle": "Bienvenido a Snafflz"
+    },
+    "gdpr": {
+        "menutitle": "GDPR",
+        "headertitle": "GDPR",
+        "pageheadertitle": "General Data Protection Regulation (GDPR)"
+    },
+    "privacy": {
+        "menutitle": "Privacidad",
+        "headertitle": "Política de Privacidad",
+        "pageheadertitle": "Política de Privacidad"
+    },
+    "error": {
+        "title": "Vaya, hubo un error :(",
+        "general": {
+            "headertitle": "Error",
+            "message": "Inténtalo de nuevo."
+        },
+        "401": {
+            "headertitle": "401",
+            "message": "Lo sentimos, pero no tienes permiso para acceder a esta página."
+        },
+        "404": {
+            "headertitle": "404",
+            "message": "Página no encontrada.<br>Vuelve a intentarlo más tarde."
+        },
+        "500": {
+            "headertitle": "500",
+            "message": "Error interno.<br>Vuelve a intentarlo más tarde."
+        },
+        "502": {
+            "headertitle": "502",
+            "message": "Gateway time-out.<br>El servidor encontró un error temporal y no pudo completar la solicitud.<br>Vuelve a intentarlo más tarde."
+        },
+        "503": {
+            "headertitle": "503",
+            "message": "Lo sentimos, el servicio no está disponible temporalmente.<br>Vuelva a intentarlo en un momento.<br><br>¡Volveremos pronto!"
+        }
+    }
+}

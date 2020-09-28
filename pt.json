@@ -1,0 +1,670 @@
+{
+	"home": {
+		"headertitle": "Your Guest List App",
+		"clients": "More than 3,000 happy clients<br>They all trust Snafflz",
+		"sections": {
+			"s1": {
+				"title": "Simple visitor registration.<br>Reliable Event Check-in.",
+				"description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
+				"signup": "Sign up for free"
+			},
+			"s2": {
+				"pre": "Check-in easy with Snafflz",
+				"title": "Free Android / iOS App",
+				"description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
+			},
+			"s3": {
+				"title": "Pre-Event Campaigns",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s4": {
+				"title": "On-Site",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s5": {
+				"title": "Post Event Report",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s6": {
+				"title": "Lorem ipsum dolor sit amet elit",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"s7": {
+				"title": "Call to action",
+				"description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
+				"signup": "Sign up for free"
+			}
+		},
+		"features": {
+			"title": "Features",
+			"setup": {
+				"title": "Easy setup",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"checkin": {
+				"title": "Fast Check-in",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"vip": {
+				"title": "VIP Arrival Alerts",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"badges": {
+				"title": "Print Badges",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"invitation": {
+				"title": "e-invitation & RSVP management",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"campaigns": {
+				"title": "Registration Pages & Ticketing",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"stats": {
+				"title": "Statistics & Reports",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"export": {
+				"title": "Data Export",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"support": {
+				"title": "Friendly Support",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			}
+		}
+	},
+    "pricing": {
+        "menutitle": "Preços",
+        "headertitle": "Preços",
+        "loggedout": {
+            "pageheadertitle": "Os nossos planos",
+            "included": "Apps grátis (iOS/Android), com criptografia SSL e backups diários incluídos",
+            "join": "Teste já gratuitamente",
+            "details": "Sem compromisso, sem cartão de crédito e grátis sempre.<br>Para 1 evento com até 50 convidados",
+            "signup": "Começar agora"
+        },
+        "loggedin": {
+            "headertitle": "Upgrade Options"
+        },
+        "custom": "Precisa de API pública, URL personalizada e suporte prioritário?",
+        "custombutton": "Entre em contato para soluções personalizadas",
+        "topups": "Planos de Top-Up",
+        "toggle": {
+            "monthly": "Mensal",
+            "yearly": "Anual - <b>2 meses grátis!</b>"
+        },
+        "plans": {
+            "snafflzProBasic": {
+                "title": "PROFISSIONAL<br>Um evento",
+                "description": "Inclui 300 créditos de convidados.<br>Válido por 30 dias.",
+                "p1": "Check-in fácil e seguro",
+                "p2": "Impressão de crachás com nomes",
+                "p3": "Estatísticas ao vivo + Relatórios",
+                "p4": "Importe em Excel / Exporte de dados",
+                "price": "$39",
+                "period": "Pagamento único",
+                "button": "Comprar"
+            },
+            "snafflzPremiumBasicMonthly": {
+                "title": "PREMIUM<br>Eventos Ilimitados",
+                "description": "Inclui 500 créditos de convidados por lista.<br>500 créditos de email por mês.",
+                "p1": "Todas as ferramentas do plano Profissional",
+                "p2": "Pacote completo de campanhas",
+                "p3": "e-Convites / Páginas de RSVP / Ingressos",
+                "p4": "Alerta de chegadas VIPs",
+                "price": "$69",
+                "period": "Cobrança mensal",
+                "button": "Comprar"
+            },
+            "snafflzPremiumBasicYearly": {
+                "title": "PREMIUM<br>Eventos ilimitados",
+                "description": "Inclui 500 créditos de convidados por lista.<br>500 créditos de emails por mês.",
+                "p1": "Todas as ferramentas do plano Profissional",
+                "p2": "Pacote completo de campanhas",
+                "p3": "e-Convites / Páginas de RSVP / Ingressos",
+                "p4": "Alerta de chegadas VIPs",
+                "price": "$690",
+                "period": "Cobrança anual",
+                "button": "Comprar"
+            },
+            "snafflzDiamondBasicMonthly": {
+                "title": "DIAMOND<br>Eventos ilimitados",
+                "description": "Inclui 5,000 créditos de convidados por lista.<br>10,000 créditos de email por mês.",
+                "p1": "Todas as ferramentas do plano Premium",
+                "p2": "Opções avançadas de crachás",
+                "p3": "Emails de Feedback automáticos",
+                "p4": "Suporte dedicado",
+                "price": "$259",
+                "period": "Cobrança mensal",
+                "button": "Comprar"
+            },
+            "snafflzDiamondBasicYearly": {
+                "title": "DIAMOND<br>Eventos ilimitados",
+                "description": "Inclui 5,000 créditos de convidados por lista.<br>10,000 créditos de email por mês.",
+                "p1": "Todas as ferramentas do plano Premium",
+                "p2": "Opções avançadas de crachás",
+                "p3": "Emails de Feedback automáticos",
+                "p4": "Suporte dedicado",
+                "price": "$2590",
+                "period": "Cobrança anual",
+                "button": "Comprar"
+            },
+            "snafflzTUGuest": {
+                "title": "Top-Up de convidados",
+                "description": {
+                    "ppu": "Válido enquanto durar o seu plano",
+                    "monthly": "Mensal",
+                    "yearly": "Anual"
+                }
+            },
+            "snafflzTU500Guest": {
+                "title": "500 Créditos",
+                "button": "Incluir por $29"
+            },
+            "snafflzTU1000Guest": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por $49"
+            },
+            "snafflzTU3000Guest": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por $129"
+            },
+            "snafflzTU500GuestMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $29"
+            },
+            "snafflzTU1000GuestMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $49"
+            },
+            "snafflzTU3000GuestMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $129"
+            },
+            "snafflzTU500GuestYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $290"
+            },
+            "snafflzTU1000GuestYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $490"
+            },
+            "snafflzTU3000GuestYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $1,290"
+            },
+            "snafflzTUEmail": {
+                "title": "Top-Up de Emails",
+                "description": {
+                    "ppu": "Válido enquanto durar o seu plano",
+                    "monthly": "Mensal",
+                    "yearly": "Anual"
+                }
+            },
+            "snafflzTU500Email": {
+                "title": "500 Créditos",
+                "button": "Incluir por $19"
+            },
+            "snafflzTU1000Email": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por $29"
+            },
+            "snafflzTU3000Email": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por $79"
+            },
+            "snafflzTU500EmailMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $19"
+            },
+            "snafflzTU1000EmailMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $29"
+            },
+            "snafflzTU3000EmailMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $79"
+            },
+            "snafflzTU500EmailYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $190"
+            },
+            "snafflzTU1000EmailYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $290"
+            },
+            "snafflzTU3000EmailYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $790"
+            },
+            "snafflzTUGuestEmail": {
+                "title": "Top-Up de convidados + emails",
+                "description": {
+                    "ppu": "Válido enquanto durar o seu plano",
+                    "monthly": "Por mês",
+                    "yearly": "Créditos por mês, cobrança anual"
+                }
+            },
+            "snafflzTU500GuestEmail": {
+                "title": "500 Créditos",
+                "button": "Incluir por $39"
+            },
+            "snafflzTU1000GuestEmail": {
+                "title": "1,000 Créditos",
+                "button": "Incluir por $69"
+            },
+            "snafflzTU3000GuestEmail": {
+                "title": "3,000 Créditos",
+                "button": "Incluir por $199"
+            },
+            "snafflzTU500GuestEmailMonthly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $39"
+            },
+            "snafflzTU1000GuestEmailMonthly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $69"
+            },
+            "snafflzTU3000GuestEmailMonthly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $199"
+            },
+            "snafflzTU500GuestEmailYearly": {
+                "title": "+ 500 Créditos",
+                "button": "Incluir por $390"
+            },
+            "snafflzTU1000GuestEmailYearly": {
+                "title": "+ 1,000 Créditos",
+                "button": "Incluir por $690"
+            },
+            "snafflzTU3000GuestEmailYearly": {
+                "title": "+ 3,000 Créditos",
+                "button": "Incluir por $1,990"
+            },
+            "snafflzTUCampaign": {
+                "title": "CAMPANHAS<br>Pacote",
+                "description": "Válido enquanto durar o seu plano",
+                "p": "Convites com RSVP + 500 Créditos de Emails<br>Páginas de Inscrição e de Ingressos",
+                "button": "Incluir por $59"
+            },
+            "snafflzTUVIP": {
+                "title": "CHEGADAS de VIPs<br>Alertas e notificações",
+                "description": "Válido enquanto durar o seu plano",
+                "p": "Notificações por push<br>e por email",
+                "button": "Incluir por $9"
+            },
+            "snafflzTUBadge": {
+                "title": "IMPRESSÃO DE CRACHÁS<br>Opções avançadas",
+                "description": "Válido enquanto durar o seu plano",
+                "p": "Customização total<br>Vários modelos e layouts",
+                "button": "Incluir por $29"
+            },
+            "snafflzTUBadgeMonthly": {
+                "title": "IMPRESSÃO DE CRACHÁS<br>Opções avançadas",
+                "description": "Por mês",
+                "p": "Customização total<br>Vários modelos e layouts",
+                "button": "Incluir por $29"
+            },
+            "snafflzTUBadgeYearly": {
+                "title": "IMPRESSÃO DE CRACHÁS<br>Avançadas",
+                "description": "Anual",
+                "p": "Customização total<br>Vários modelos e layouts",
+                "button": "Incluir por $290"
+            },
+            "snafflzTUContributorMonthly": {
+                "title": "MEMBRO DA EQUIPE<br>Top-Up",
+                "description": "Mensal",
+                "p": "1 usuário extra<br>(Admin/Colaborador/Hostess)",
+                "button": "Incluir por $9"
+            },
+            "snafflzTUContributorYearly": {
+                "title": "MEMBRO DE EQUIPE<br>Top-Up",
+                "description": "Por ano",
+                "p": "1 usuário extra<br>(Admin/Colaborator/Hostess)",
+                "button": "Incluir por $90"
+            }
+        }
+    },
+    "paymentconfirmation": {
+        "headertitle": "Pagamento",
+        "success": {
+            "pageheadertitle": "Obrigado!<br>Pagamento efetuado.",
+            "message": "Um recibo do pagamento foi enviado por email.",
+            "contact": "Quer falar com a gente?<br>É só mandar uma mensagem: <a href='mailto:support@snafflz.com?subject=Pagamento'>support@snafflz.com</a>"
+        },
+        "error": {
+            "pageheadertitle": "Erro ao processar pagamento.",
+            "message": "Algo deu errado.",
+            "contact": "Por favor envie um email para <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br>Iremos resolver rapidamente."
+        }
+    },
+    "signup": {
+        "menutitle": "Cadastro",
+        "headertitle": "Cadastro",
+        "pageheadertitle": "Cadastro efetuado com sucesso!",
+        "firstname": "Nome *",
+        "lastname": "Sobrenome *",
+        "email": "Email *",
+        "company": "Nome da empresa",
+        "password": "Senha *",
+        "password2": "Repetir senha *",
+        "agree": "Concordo com os <a href='/terms'>Termos</a> & <a href='/privacy'>Política de Privacidade</a>",
+        "button": "Criar conta",
+        "separator": "-ou-",
+        "success": {
+            "pageheadertitle": "Perfeito!",
+            "message": "Tudo pronto! Comece a fazer suas listas e eventos no Snafflz aqui:"
+        },
+        "error": {
+            "pageheadertitle": "Erro! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        }
+    },
+    "signupconfirm": {
+        "headertitle": "Confirmar endereço de email",
+        "success": {
+            "pageheadertitle": "Sucesso!",
+            "message": "Obrigado, o seu endereço de email está confirmado."
+        }
+    },
+    "login": {
+        "menutitle": "Entrar",
+        "headertitle": "Entrar",
+        "pageheadertitle": "Entrar",
+        "email": "Email",
+        "password": "Senha",
+        "button": "Entrar",
+        "forgot": "Esqueceu sua senha?",
+        "separator": "-ou-",
+        "success": {
+            "header": "Successo!",
+            "message": "Thank you! Your submission has been received."
+        },
+        "error": {
+            "header": "Erro! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        },
+        "loggedin": "Você já está logado(a). Pode sair <a href='/app?snafflzLogout=1'>aqui</a>."
+    },
+    "resetpassword": {
+        "headertitle": "Mudar senha",
+        "pageheadertitle": "Por favor, informe o seu endereço de email.",
+        "email": "Insira o usado no cadastro da conta",
+        "button": "Enviar",
+        "success": {
+            "message": "Um email com link para criar uma nova senha foi enviado. Por favor verifique o seu inbox."
+        },
+        "error": {
+            "header": "Erro! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        }
+    },
+    "resetpasswordconfirm": {
+        "headertitle": "Trocar senha",
+        "pageheadertitle": "Crie uma nova senha para a sua conta do Snafflz.",
+        "email": "Seu endereço de email",
+        "password": "Sua nova senha",
+        "password2": "Confirme a nova senha",
+        "button": "Enviar",
+        "success": {
+            "message": "Nova senha confirmada! Obrigado."
+        },
+        "error": {
+            "header": "Erro! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        }
+    },
+    "invitationconfirm": {
+        "headertitle": "Cadastrar-se como membro de equipe",
+        "pageheadertitle": "Crie uma senha para a sua conta",
+        "email": "Seu endereço de email",
+        "password": "Sua nova senha",
+        "password2": "Confirme a nova senha",
+        "button": "Enviar",
+        "success": {
+            "message": "Thank you! Your submission has been received!"
+        },
+        "error": {
+            "header": "Error! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        }
+    },
+    "senderconfirm": {
+        "headertitle": "Troca de email de remetente",
+        "success": {
+            "pageheadertitle": "Sucesso!",
+            "message": "O novo email de remetente foi verificado."
+        }
+    },
+    "gotoapp": {
+        "menutitle": "Ir para o app"
+    },
+    "logout": {
+        "menutitle": "Sair"
+    },
+    "faq": {
+        "menutitle": "FAQ",
+        "headertitle": "FAQ",
+        "topic": {
+            "select": "Selecionar tópico",
+            "basics": {
+                "title": "Início",
+                "select": "Início",
+                "q1": "O que é o Snafflz?",
+                "a1": "Uma solução prática e eficiente para gerir convidados, listas, RSVPs, participações e inscrições em qualquer tipo de evento. Faça check-in de pessoas facilmente, imprima crachás de convidados na hora e crie páginas de inscrição customizadas e inteligentes.<br><br>O Snafflz é super flexível e comporta diversos perfis de eventos:<br><br>• Tapetes vermelhos, desfiles de moda e inaugurações de lojas<br>• Conferências e trade shows<br>• Eventos corporativos, encontros de funcionários, workshops<br>• Cerimônias de formatura, encontros e atividades universitárias<br>• Recepções VIPs e almoços<br>• Casamentos, aniversários e comemorações",
+                "q2": "Como me cadastro?",
+                "a2": "Entre na nossa <a href='/signup'>página de cadastro</a> ou instale o app para iOS/Android e crie a sua conta facilmente.<br>Use email e senha ou a opção de cadastro automático por Facebook ou Apple ID.",
+                "q3": "Posso testar gratuitamente?",
+                "a3": "Sim! É só usar a versão 'Free Taster'. Com ela, é possível:<br><br>• criar 1 evento com até 50 convidados<br>• usar a ferramenta de campanhas para criar 2 páginas de inscrição diferentes e enviar 3 convites<br>• testar quase todos os recursos pagos do Snafflz de graça",
+                "q4": "Quais os requisitos do sistema?",
+                "a4": "O web app do Snafflz funciona em todos os principais browsers.<br><br><i>Mobile App v1</i><br>• iOS: mínimo iOS9, desejável iOS10 ou superior. Aparelhos mais antigos como iPad mini (1ª geração), iPad (2ª/3ª geração) e iPhone 4S não são recomendados.<br>• Android: requer Android 4.4 ou superior<br><br><i>Mobile App v2</i><br>• iOS: funciona em qualquer aparelho com iOS10 ou superior<br>• Android: funciona em qualquer aparelho com Android 4.1 ou superior<br><br>Todos os apps possuem versões nos idiomas Português, Inglês, Alemão, Francês e Espanhol.",
+                "q5": "Posso vender ingressos usando o Snafflz?",
+                "a5": "Você pode criar uma campanha com ingressos e enviar os bilhetes com Códigos QR para os convidados, mas eles não podem efetuar a compra através do Snafflz no momento. Em breve iremos oferecer uma maneira de pagar pelo nosso app, mas até lá já é possível inserir um preço para o ingresso e coletar o pagamento diretamente na entrada, ao fazer o check-in do convidado.",
+                "q6": "Quantos membros de equipe posso associar à minha conta?",
+                "a6": "Ao se cadastrar, você se torna o dono da conta e já pode fazer login em vários aparelhos ao mesmo tempo usando o mesmo email e senha.<br><br>Caso queira criar contas individuais para outros membros da equipe, pode convidá-los no web app. Eles receberão um email com link para criar perfis individuais associados à conta principal, com restrições de acesso determinadas por você. Os planos Premium e Diamond já dão direito a membros de equipe, mas eles também podem ser adquiridos separadamente em pacotes de Top Up.",
+                "q7": "O que são créditos de convidados, de check-ins e de emails?",
+                "a7": "1 'crédito de convidado' corresponde a 1 pessoa na lista. Se o seu evento tem 500 participantes você precisará de 500 créditos de convidados. Quando um nome é apagado de uma lista, o crédito volta a ficar disponível para ser usado novamente.<br><br>1 'crédito de check-in' permite o check-in de 1 pessoa. Outro check-in ou check-out da mesma pessoa no mesmo evento conta '0'. Quando 1 crédito de check-in é usado, não pode ser re-disponibilizado.<br><br>1 'crédito de email' é usado para enviar 1 convite por email. Cada email requer 1 crédito.<br><br>O seu balanço atual fica sempre visível no topo das listas de convidados.<br><br>Créditos podem ser comprados em planos de Top Up ou junto com os pacotes principais. Para mais informações, clique aqui: Preços.",
+                "q8": "Como altero o email principal da conta?",
+                "a8": "Por favor envie uma mensagem para <a href='mailto:support@snafflz.com'>support@snafflz.com</a> informando o email que deseja utilizar. Trocaremos rapidamente para você.",
+                "q9": "Como altero a minha senha?",
+                "a9": "Basta clicar neste link: <a href='/reset-password'>Alterar senha</a>"
+            },
+            "tablet": {
+                "title": "App / Smartphones e Tablets",
+                "select": "App / Smartphones e Tablets",
+                "q1": "Onde posso fazer o download do app Snafflz?",
+                "a1": "Baixe o app para iOS na AppStore do iTunes<br>Baixe o app para Android na Play store.<br><br>Instale o app em todos os aparelhos que forem ser utilizados.",
+                "q2": "Preciso alugar tablets para o meu evento. O Snafflz pode me ajudar?",
+                "a2": "O Snafflz não aluga tablets, mas podemos recomendar empresas de confiança para isso. É só nos informar o que precisa que colocaremos em contato com os melhores parceiros do ramo.",
+                "q3": "Como faço o check-in de um convidado?",
+                "a3": "<i>Web App</i><br>Clique no ícone de check-mark ao lado do nome do respectivo convidado. Clique mais vezes para check-ins consecutivos. Use o botão direito para mais opções de check-in/out.<br><br><i>Mobile App v1</i><br>Toque no ícone de check-mark ao lado do nome do convidado ou deslize para a direita e veja todas as opções de check-in/out.<br><br><i>Mobile App v2</i><br>Toque no nome do convidado e as informações de check-in aparecerão.<br><br>O check-in e check-out de acompanhantes funciona exatamente da mesma maneira.<br><br>É possível desfazer check-ins.",
+                "q4": "O Snafflz faz check-ins por Código QR?",
+                "a4": "Sim, o leitor de Códigos QR e Códigos de barra já vem embutido no app móvel do Snafflz.<br>É possível ler os seguintes códigos:<br>QR / Code 128 / Code 39 / Code93 / UPC-E / EAN13 / EAN8 / PDF417 / Aztec / Interleaved 2 of 5 / ITF14/DataMatrix.",
+                "q5": "Existe algum modo quiosque para que os convidados possam se inscrever ou fazer check-in sozinhos?",
+                "a5": "Sim, um modo quiosque customizável está disponível na v1 dos nossos apps para iOS e Android. Como ele os convidados podem fazer o próprio check-in inserindo o endereço de email ou usando Código QR, e até preencher formulários de inscrição com as perguntas que você quiser.",
+                "q6": "Posso usar o app móvel sem estar conectado a uma rede Wi-Fi?",
+                "a6": "<i>Web app</i><br>Para salvar os dados inseridos, é necessário ter internet/ conexão Wi-Fi. Basta atualizar o browser para ver as últimas alterações.<br><br><i>App móvel - v1 / iOS</i><br>É possível usar o App para iOS v1 sem conexão à internet. O app muda automaticamente para o modo offline até que a conexão seja restabelecida. Neste modo funciona normalmente, mas a sincronização só acontece quando houver novamente sinal/rede. Todos os dados são armazenados localmente, nos aparelhos, até poderem ser sincronizados e armazenados na nuvem.<br>Atenção: é importante que a) os aparelhos tenham conexão em algum momento para salvar os dados e b) que tenham conexão para sincronizar com a nuvem.<br>O app para Android v1 não possui modo offline.<br><br><i>App móvel - v2</i><br>No momento ainda é necessário ter conexão Wi-Fi para usar o app v2. Estamos trabalhando em um modo offline para esta versão e informaremos assim que estiver disponível.",
+                "q7": "Posso customizar o Snafflz com a minha marca?",
+                "a7": "Sim, o app para iOS oferece opções de inserção de marca. É só importar pelo web app as imagens que quiser usar como logo e proteção de tela em iPhones e iPads."
+            },
+            "guestlist": {
+                "title": "Lista de Convidados e Check-in",
+                "select": "Lista de Convidados e Check-in",
+                "q1": "Como importar listas em Excel?",
+                "a1": "Clique em \"Importar convidados\" no canto superior direito do web app e selecione a opção \"Planilha Excel\". Use o nosso template para importar.",
+                "q2": "Posso customizar os campos de dados?",
+                "a2": "Sim, você pode criar seus próprios campos. O Snafflz oferece 3 tipos: Texto, Caixa de seleção (checkbox) e Menu suspenso.",
+                "q3": "Como são gerados os Códigos QR do Snafflz? Posso usar outros?",
+                "a3": "Os Códigos QR do Snafflz são gerados automaticamente para cada convidado e para cada contato da Master List (Lista Principal).<br><br><i>Como os convidados recebem os códigos (e/ou crachás / ingressos)?</i><br>Ao se inscrever em um evento: basta criar uma campanha de página de inscrições e quem se registrar receberá o código QR no email de confirmação.<br><br>Dentro do convite: crie uma campanha de convites por email e envie os códigos para os destinatários dentro do crachá ou do ingresso, em PDF.<br><br><i>Como escaneio o código QR de um convidado?</i><br>Imprima as etiquetas com nome e QR no Snafflz ou use o scanner embutido no app móvel para ler em papel ou diretamente no aparelho de cada convidado.<br><br><i>Como usar os meus próprios códigos QR ou barcodes?</i><br>Preencha a coluna 'QR-/Barcode' do template Excel com os dados de cada código e depois faça o upload na aba 'Planilha Excel' da opção 'Importar'.<br><br>Caso queira criar os seus próprios códigos QR:<br>1. Acesse <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Escolha \"plain text\" como data type e \"static\" como encoding.<br>3. Insira um texto e/ou número e gere o código.",
+                "q4": "Como receber alertas de chegadas de VIPs?",
+                "a4": "Habilite a opção de notificação de VIPs dentro do app Snafflz. A função deve ser acionada por aparelho. O Snafflz enviará imediatamente uma notificação por push quando cada convidado VIP chegar (fizer check-in) no evento. Cada usuário pode ligar e desligar as notificações a hora que desejar, e o número de aparelhos e notificações é ilimitado. No momento ainda não é possível enviar as notificações por SMS.<br><br><i>Como habilitar as notificações de VIPs no web app?</i><br>Clique na opção 'enviar email de chegadas VIPs' na aba 'Evento' da lista de convidados. O Snafflz enviará um email automático para o endereço da conta a cada chegada (check-in) de VIP. É possível enviar os alertas por email para outros endereços além do principal da conta. Basta informar no campo 'Email que recebe alerta VIP' de cada convidado. Essa função está incluída gratuitamente nos planos Premium e Diamond e pode ser adquirida separadamente para o plano Profissional como Top Up.",
+                "q5": "Como exportar ou imprimir as minhas listas de convidados no Snafflz?",
+                "a5": "<i>Exportar</i><br>Clique em 'Exportar' no web app ou no app móvel e escolha descarregar um arquivo Excel (XLS) com os dados dos convidados que efetivamente compareceram ou de todos que estão na lista. No app móvel todos os dados são enviados, assim como um relatório em PDF.<br><br><i>Imprimir</i><br>Clique em 'Impressão' no web app.<br>As colunas visíveis na tela serão impressas, e clicando em 'Campos de dados' é possível personalizar a escolha.",
+                "q6": "O Snafflz produz relatórios com estatísticas do evento? E informações ao vivo?",
+                "a6": "Sim, o Snafflz produz automaticamente relatórios úteis e apresenta um balanço minuto a minuto de informações fundamentais como: número de convidados que já chegou, no-shows, VIPs, convites enviados e aceitos, hora média de check-ins, valor arrecadado (em eventos pagos) etc.",
+                "q7": "O que é a \"Lista Principal\" (\"Master List\")?",
+                "a7": "A Lista Principal (Master List) é o seu banco de dados de contatos. Nela ficam reunidos todas as pessoas que estiveram em toda e qualquer lista de convidados. Cada nome na Lista Principal conta como um contato diferente.<br><br><i>Posso fazer check-in de um convidado através da Lista Principal?</i><br>Não. A Lista Principal não é uma lista de convidados, e por não estar associada a um evento específico não permite check-ins.<br><br><i>Como uso a Lista Principal?</i><br>Você pode aplicar filtros, adicionar, importar ou deletar contatos e o que mais precisar. Também pode exportar a lista inteira, da mesma forma que uma lista de convidados. <br><br><i>Como transfiro nomes da Lista Principal para um evento?</i><br>É possível selecionar e copiar nomes para uma lista já existente ou criar uma nova diretamente a partir da seleção de contatos feita na Lista Principal. Desta forma, as informações ficam agregadas no contato e você pode ver as estatísticas do mesmo convidado em eventos diferentes.<br><br><i>Posso descobrir em quantos e quais eventos um mesmo contato compareceu?</i><br>Sim. A aba 'estatísticas' mostra várias informações diferentes relativas à presença de cada convidado nos eventos.<br><br><i>Um mesmo contato fica com o mesmo código QR associado para diferentes eventos?</i><br>Sim. Sempre um mesmo convidado  for exportado diretamente da Lista Principal para uma lista de convidados, o QR será mantido."
+            },
+            "campaigns": {
+                "title": "Páginas de Inscrição e Convites por Email",
+                "select": "RSVPs e Campanhas",
+                "q1": "Quais são os tipos de campanhas com páginas de inscrição disponíveis? Para que servem?",
+                "a1": "Clicando no botão 'Criar campanha' dentro da lista de convidados no web app é possível escolher entre dois tipos:<br><b>Evento com RSVP</b> e <b>Evento com ingresso</b>.<br><br>As principais diferenças são:<br><br><i>Evento com RSVP</i><br>Quem se inscrever para participar não é automaticamente incluído na lista final de convidados, podendo ser removido enquanto o período de inscrições estiver aberto. Quando que o prazo se encerra, os nomes que permanecerem serão movidos para a lista de convidados e receberão um 'email de ganhador' customizável de confirmação. Caso haja mais inscritos do que lugares disponíveis (quota estabelecida por evento), o sistema irá mover os nomes para a lista final por ordem de inscrição. Ainda assim é possível reunir todos os dados de quem ficou de fora para montar uma lista de espera.<br><br><i>Evento com ingresso</i><br>Quem se inscrever para participar é automaticamente confirmado, recebendo um email customizável com o ingresso e tendo inclusão imediata na lista de convidados.<br><br>Atenção: só é possível criar campanhas para eventos que ainda irão acontecer (a data tem que estar no futuro).",
+                "q2": "Posso mudar o prazo de inscrição de uma campanha?",
+                "a2": "Sim, e mesmo depois de encerrado. Há apenas duas condições relacionadas ao tipo de campanha:<br><br><i>Evento com RSVP </i><br>O período de inscrições deve terminar antes do início do evento.<br><br><i>Evento com ingresso</i><br>O período de inscrições deve terminar antes da hora final do evento.",
+                "q3": "O que significa a \"quota\" de inscrições? Como isso se relaciona com os meus créditos de convidados?",
+                "a3": "Nas configurações é possível definir uma quota de inscrições (número máximo disponível de lugares na lista).<br><br><i>Evento com RSVP</i><br>Quando o prazo de inscrição se encerra, apenas o número correspondente à quota será movido para a lista de convidados. Exemplo: caso tenha 100 lugares disponíveis e 150 inscritos, apenas 100 entrarão na lista efetiva de convidados e receberão o email 'ganhador' de confirmação. Os outros 50 ficarão guardados, com todos os dados, para download, na lista de RSVP da campanha.<br><br><i>Evento com ingresso</i><br>A campanha encerra o prazo automaticamente quando a quota de inscritos é atingida. Caso deseje, é possível aumentar a quota nesse momento e reabrir a campanha, permitindo novas inscrições e consequentemente o aumento da lista de convidados.<br><br><i>Quota e créditos de convidados</i><br>Se você tiver uma campanha com prazo de inscrição aberto, a quota de lugares será reservada para comportar as inscrições, e por isso deduzida do balanço total de créditos de convidados para esse evento.<br>Quando o prazo se encerrar, os lugares não preenchidos são libertados e apenas o número real de inscritos fica deduzido do balanço de créditos.",
+                "q4": "Como importar uma imagem para ilustrar a página de inscrições do evento?",
+                "a4": "Para importar uma imagem estática em JPG, GIF ou PNG, clique na aba 'Evento' do web app. Caso a imagem tenha mais do que 600 x 900 pixels, será redimensionada. O limite de tamanho do arquivo é 1 MB.<br>Também é possível adicionar imagens no corpo do texto, junto aos detalhes por escrito.",
+                "q5": "Como publico a página de inscrições?",
+                "a5": "Quando o design da página estiver pronto, clique no ícone laranja em forma de olho no canto superior da página. Quaisquer alterações posteriores devem ser salvas antes de novamente publicadas.",
+                "q6": "Posso usar meu próprio domínio no endereço da minha página de inscrições?",
+                "a6": "Sim, é possível incluir o seu domínio na URL das páginas do Snafflz.<br><br>Entre em contato conosco pelo <a href='mailto:support@snafflz.com'>support@snafflz.com</a> para mais informações.",
+                "q7": "Como funcionam os convites com RSVP?",
+                "a7": "Com o web app do Snafflz você envia convites por email para os seus convidados e eles podem recusar ou aceitar diretamente na mensagem! Os que aceitam ficam automaticamente confirmados na lista, com o status atualizado.<br><br><i>Como faço convites?</i><br>Clique no botão 'Criar campanha' dentro do evento no web app e escolha a opção 'Convite por Email'. Em seguida crie modelos de convites e componha o 'Público alvo' (grupo de contatos associado àquele evento). Depois selecione os destinatários de cada mensagem (podem ser várias dentro de um mesmo evento, com destinatários diferentes).",
+                "q8": "Posso customizar os convites?",
+                "a8": "Sim. Tanto o assunto quanto o corpo da mensagem são totalmente customizáveis. Também é possível alterar o email de remetente de cada mensagem.<br><br>Além disso, o Snafflz permite inserir variáveis no corpo da mensagem (por exemplo, código QR ou qualquer campo de dados), anexar imagens e arquivos, o seu próprio código HTML e muito mais.",
+                "q9": "Qual a vantagem de criar e associar uma landing page ao convite?",
+                "a9": "O Snafflz permite criar e publicar uma landing page associada aos convites com RSVP. O botão \"aceitar\" redireciona automaticamente os convidados para a página, de modo que respondam a perguntas feitas por você (exemplos: quantos convidados querem levar, quais as preferências alimentares, escolher opções ou requisitos de qualquer tipo). Todas as informações inseridas são automaticamente sincronizadas na lista de convidados.<br><br><i>Como crio a landing page?</i><br>Basta habilitar a opção no menu da campanha de convites.",
+                "q10": "Por que o meu email de remetente foi substituído por um endereço @snafflz.com?",
+                "a10": "Endereços 'gmail' e 'yahoo' são substituídos por @snafflz.com para evitar que caiam em caixas de spam ou que sejam bloqueados e não entregues.",
+                "q11": "Quero programar o envio dos meus convites para uma data específica e depois receber um relatório de entrega. Como faço isso?",
+                "a11": "Claro, você escolhe a data e hora de envio que quiser. O relatório com as estatísticas será gerado assim que todas os convites/mensagens forem entregues. Também é possível ver ou descarregar as mesmas estatísticas na lista de destinatários e/ou na página principal das campanhas."
+            },
+            "security": {
+                "title": "Segurança e Permissões",
+                "select": "Segurança e Permissões",
+                "q1": "O Snafflz armazena as informações dos meus convidados?",
+                "a1": "Você é o único dono dos seus dados. Ao apagar um evento ou um convidado, todas as informações também são apagadas do nosso sistema. Asseguramos os mais altos níveis de privacidade, incluindo criptografia SSL (a mesma usada em home banking).",
+                "q2": "Quem pode ver os dados e as informações dos meus eventos e listas?",
+                "a2": "Os seus dados são totalmente protegidos e seguros com a sua senha. Somente pessoas com acesso autorizado por você podem ver ou editar informações: administradores, colaboradores e hostess.",
+                "q3": "Como apago a minha conta?",
+                "a3": "Entre na aba 'Conta' do web app e escolha a opção 'Deletar conta' no final da página. Ao eliminar a conta, todos os dados serão apagados, assim como qualquer assinatura de plano que por ventura esteja ativa.",
+                "q4": "Existem níveis de acesso/permissões diferentes?",
+                "a4": "Sim, o Snafflz oferece categorias distintas de colaboradores. Elas se aplicam no web app e no app móvel da mesma maneira.",
+                "q5": "Quais as categorias de membros de equipe disponíveis?",
+                "a5": "O Snafflz criou três perfis de acesso diferentes, compatíveis com as necessidades dos nossos clientes:<br><br>'Administrador': tem acesso a todos os eventos. Não pode criar/editar/deletar eventos, incluir membros nem editar as informações gerais da conta.<br><br>'Colaborador': só tem acesso ao evento específico que foi compartilhado com ele. Não tem acesso à Lista Principal (Master List).<br><br>'Door manager' ('Hostess'): possui todas as restrições do administrador e além disso também não pode incluir ou apagar convidados nem ver/criar/editar páginas de inscrições e inscrições. Não tem acesso à Lista Principal (Master List). Pode editar qualquer informação dos convidados no app móvel para facilitar o check-in.<br><br>Quando um administrador é removido, ele não possui mais acesso a nenhuma informação do Snafflz.<br><br>O número de membros que cada conta comporta está na página de preços. É possível comprar mais licenças avulsas (Top Up)."
+            },
+            "pricing": {
+                "title": "Preços e Pagamento",
+                "select": "Preços e Pagamento",
+                "q1": "Como posso pagar o pacote ou plano?",
+                "a1": "Aceitamos os principais cartões de crédito ou débito e PayPal. Também é possível pagar por transferência bancária.",
+                "q2": "Como obtenho um recibo/invoice dos meus pagamentos?",
+                "a2": "A invoice será enviada por email juntamente com a confirmação de pagamento, e também estará sempre disponível na aba 'Faturas' do web app. Endereço e número VAT podem ser alterados em um prazo de até 30 dias a partir da emissão. Caso tenha adquirido o plano via app iOS, a confirmação de pagamento e o recibo serão emitidos pela Apple / iTunes.",
+                "q3": "Há planos para clientes corporativos com requisitos específicos?",
+                "a3": "Sim. Escreva para nós contando o que precisa: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. Temos experiência em todos os tipos de eventos e acharemos uma solução sob medida para o que precisar. Temos a honra de ser parceiros de milhares de marcas e profissionais de eventos no mundo todo, e estamos sempre prontos a ajudar. Entre em contato a qualquer momento: <a href='mailto:support@snafflz.com'>support@snafflz.com</a>. Enquanto isso, não deixe de conferir os nossos plano anuais, com ainda mais vantagens e descontos.",
+                "q4": "Há descontos para empresas e entidades sem fins lucrativos?",
+                "a4": "Sim, o Snafflz oferece um desconto de 20% nos packs PRO e 10% nas assinaturas para entidades sem fins lucrativos.",
+                "q5": "Como mudar ou fazer upgrade de plano?",
+                "a5": "É possível fazer upgrade do pacote 'Pro' para um plano 'Premium' ou 'Diamond', do 'Premium' para o 'Diamond' ou de um plano mensal para um anual sem qualquer problema. Assim que o upgrade é ativado, os balanços são atualizadas para refletir o novo plano. Isso inclui os 'Créditos de convidados', 'Créditos de Check-in', 'Créditos de Email', 'Número de membros de equipe' etc. Os créditos que já tiverem sido usados serão zerados no momento que o upgrade ficar ativo.<br><br><b>Atenção</b>: todos os Top Ups ativos serão perdidos por estarem associados ao plano anterior.<br><br>Por favor contacte-nos por email caso tenha qualquer dúvida em relação ao funcionamento dos nossos planos.",
+                "q6": "Posso fazer Top Up em qualquer plano para ter mais créditos ou ferramentas extras?",
+                "a6": "Sim. O Snafflz oferece diversos tipos de Top Up, para incluir:<br><br>- ferramentas extras como Campanhas com páginas de inscrição ou convites, alerta de chegada de VIPs, opções avançadas de configuração e impressão de crachás, ou...<br><br>- créditos de convidados / check-in / email e inclusão de mais perfis para diferentes membros de equipe.",
+                "q7": "Quando acaba a validade do meu pacote Pro? As assinaturas e planos são renovadas automaticamente?",
+                "a7": "O nosso pack Pro (e qualquer Top-up associado) expira 30 dias depois da compra.<br><br>As assinaturas não expiram a não ser que sejam canceladas pelo dono da conta. Caso cancele o seu plano, continuará podendo usá-lo até o último dia coberto pelo pagamento anterior.",
+                "q8": "Posso terminar a assinatura a qualquer momento? Tem algum custo?",
+                "a8": "Você pode cancelar o plano a qualquer momento. Não há taxas ou penalidades. Para cancelar, entre na aba 'Conta' do web app e clique em 'Cancelar assinatura'."
+            },
+            "troubleshoot": {
+                "title": "Solução de Problemas",
+                "select": "Solução de Problemas",
+                "q1": "Alguma informação pode ser perdida?",
+                "a1": "Os seus dados não serão perdidos. O Snafflz faz backups diários, e mesmo no caso raro do app móvel se desconectar com alterações não salvas, os dados ainda estarão gravados no aparelho e podemos recuperá-los. Por favor entre em contato conosco em <a href='mailto:support@snafflz.com'>support@snafflz.com</a>",
+                "q2": "E se os dados não sincronizarem quando estiver online?",
+                "a2": "É possível recuperar e exportar todos os dados gravados no aparelho através da opção 'Exportar lista' (disponível na v1 do app móvel, na v2 está quase!) Importante saber: apenas as informações que estiverem visíveis na lista podem ser exportadas e recuperadas.",
+                "q3": "Recebo uma mensagem de erro no upload de Excel. Como resolver?",
+                "a3": "Basta fazer o download do relatório de erros (o link está na mesma janela da mensagem) para ver o que está causando o problema. As linhas com problemas estarão em vermelho, com a respectiva explicação do lado direito. É fundamental não apagar nem rearranjar linhas ou colunas do template. Apenas deixe em branco caso não precise usar.",
+                "q4": "Meu saldo de créditos parece incorreto. O que devo fazer?",
+                "a4": "Caso tenha alguma campanha com página de inscrição aberta, a quota de possíveis inscritos estabelecida será deduzida previamente do saldo de convidados, para viabilizar as inscrições. Se desejar libertar créditos de convidados, basta diminuir a quota. Quando o período de inscrições terminar, só a quantidade real de inscritos será deduzida do saldo de créditos.<br><br>Se você já tiver usado o Snafflz antes, pode apagar eventos passados para libertar créditos utilizados. Caso queira guardar os dados e informações do evento antes de apagá-lo, clique no botão 'Exportar' dentro da lista de convidados.",
+                "q5": "Como posso contactar o suporte do Snafflz? Há atendimento em quais idiomas?",
+                "a5": "Entre em contato com a gente a qualquer momento!<br>Uma equipe amigável e acessível está à espera: <a href='mailto:support@snafflz.com'>support@snafflz.com</a><br><br>Oferecemos suporte em português, inglês, alemão, francês e espanhol."
+            }
+        }
+    },
+    "terms": {
+        "menutitle": "Termos",
+        "headertitle": "Terms of Service",
+        "pageheadertitle": "Welcome to Snafflz"
+    },
+    "gdpr": {
+        "menutitle": "GDPR",
+        "headertitle": "GDPR",
+		"pageheadertitle": "General Data Protection Regulation (GDPR)"
+    },
+    "privacy": {
+        "menutitle": "Privacidade",
+		"headertitle": "Privacy Policy",
+		"pageheadertitle": "Privacy Policy"
+    },
+    "error": {
+        "title": "Ooops, houve algum erro :(",
+        "general": {
+            "headertitle": "Erro",
+            "message": "Por favor, tente novamente."
+        },
+        "401": {
+            "headertitle": "401",
+            "message": "Desculpe, mas você não possui permissão para acessar esta página."
+        },
+        "404": {
+            "headertitle": "404",
+            "message": "Desculpe, página não encontrada.<br>Por favor tente novamente mais tarde."
+        },
+        "500": {
+            "headertitle": "500",
+            "message": "Erro interno.<br>Tente novamente mais tarde."
+        },
+        "502": {
+            "headertitle": "502",
+            "message": "Gateway time-out.<br>O servidor encontrou um erro temporário e não pôde completar o pedido.<br>Tente novamente mais tarde."
+        },
+        "503": {
+            "headertitle": "503",
+            "message": "Desculpe, serviço temporariamente indisponível.<br>Por favor tente de novo em breve.<br><br>Estaremos de volta rapidamente!"
+        }
+    }
+}

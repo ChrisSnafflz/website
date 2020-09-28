@@ -1,4 +1,122 @@
 {
+	"home": {
+		"headertitle": "Your Guest List App",
+		"clients": "More than 3,000 happy clients<br>They all trust Snafflz",
+		"sections": {
+			"s1": {
+				"title": "Simple visitor registration.<br>Reliable Event Check-in.",
+				"description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
+				"signup": "Sign up for free"
+			},
+			"s2": {
+				"pre": "Check-in easy with Snafflz",
+				"title": "Free Android / iOS App",
+				"description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
+			},
+			"s3": {
+				"title": "Pre-Event Campaigns",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s4": {
+				"title": "On-Site",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s5": {
+				"title": "Post Event Report",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+				"items": {
+					"i1": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i2": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					},
+					"i3": {
+						"title": "Heading",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+					}
+				}
+			},
+			"s6": {
+				"title": "Lorem ipsum dolor sit amet elit",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"s7": {
+				"title": "Call to action",
+				"description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
+				"signup": "Sign up for free"
+			}
+		},
+		"features": {
+			"title": "Features",
+			"setup": {
+				"title": "Easy setup",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"checkin": {
+				"title": "Fast Check-in",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"vip": {
+				"title": "VIP Arrival Alerts",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"badges": {
+				"title": "Print Badges",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"invitation": {
+				"title": "e-invitation & RSVP management",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"campaigns": {
+				"title": "Registration Pages & Ticketing",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"stats": {
+				"title": "Statistics & Reports",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"export": {
+				"title": "Data Export",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			},
+			"support": {
+				"title": "Friendly Support",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+			}
+		}
+	},
     "pricing": {
         "menutitle": "Precios",
         "headertitle": "Precios",

@@ -1,122 +1,122 @@
 {
-	"home": {
-		"headertitle": "Your Guest List App",
-		"clients": "More than 3,000 happy clients<br>They all trust Snafflz",
-		"sections": {
-			"s1": {
-				"title": "Simple visitor registration.<br>Reliable Event Check-in.",
-				"description": "Here comes the ultimate intuitive guest list app that lets you control venue capacity, check-in time and attendee status with ease.<br><br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
-				"signup": "Sign up for free"
-			},
-			"s2": {
-				"pre": "Check-in easy with Snafflz",
-				"title": "Free Android / iOS App",
-				"description": "Our mobile apps let you capture data, check-in easy, manage lists, control entry, check live statistics."
-			},
-			"s3": {
-				"title": "Pre-Event Campaigns",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s4": {
-				"title": "On-Site",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s5": {
-				"title": "Post Event Report",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-				"items": {
-					"i1": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i2": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					},
-					"i3": {
-						"title": "Heading",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-					}
-				}
-			},
-			"s6": {
-				"title": "Lorem ipsum dolor sit amet elit",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"s7": {
-				"title": "Call to action",
-				"description": "This section uses a <b>container</b> element to ensure the content looks right on every device. It’s centered with the class 'Centered Container.'",
-				"signup": "Sign up for free"
-			}
-		},
-		"features": {
-			"title": "Features",
-			"setup": {
-				"title": "Easy setup",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"checkin": {
-				"title": "Fast Check-in",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"vip": {
-				"title": "VIP Arrival Alerts",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"badges": {
-				"title": "Print Badges",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"invitation": {
-				"title": "e-invitation & RSVP management",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"campaigns": {
-				"title": "Registration Pages & Ticketing",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"stats": {
-				"title": "Statistics & Reports",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"export": {
-				"title": "Data Export",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			},
-			"support": {
-				"title": "Friendly Support",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
-			}
-		}
-	},
+    "home": {
+        "headertitle": "O seu App de Eventos",
+        "clients": "Escolhido por mais de 5,000 grandes marcas e empresas ",
+        "sections": {
+            "s1": {
+                "title": "A solução perfeita para eventos presenciais<br>e virtuais.<br><br>\nAdequada às políticas de segurança e<br> rastreio COVID.",
+                "description": "<br>‍Poupe tempo e evite tarefas repetitivas e estresses na hora do evento.",
+                "signup": "Criar conta grátis"
+            },
+            "s2": {
+                "pre": "Check-in de convidados Contactless",
+                "title": "App grátis para Android e iOS",
+                "description": "O Snafflz é a solução inteligente e intuitiva para a sua gestão de eventos e listas de convidados. Seguro e confiável, tem busca imediata de nomes, scan de QRs/ingressos dentro do próprio app e notificações em tempo real de chegadas VIPs."
+            },
+            "s3": {
+                "title": "Campanhas Pré-Evento",
+                "description": "Usufrua da extensa capacidade de envio de emails ou customize páginas de inscrição. Forme listas de maneira eficiente com a coleta automática de registros. Monitore os RSVPs em tempo real. E poupe trabalho: o Snafflz monta a sua lista de convidados final automaticamente, já pronta para o check-in dos convidados. ",
+                "items": {
+                    "i1": {
+                        "title": "Convites por email com RSVP",
+                        "description": " "
+                    },
+                    "i2": {
+                        "title": "Páginas de Inscrição",
+                        "description": " "
+                    },
+                    "i3": {
+                        "title": "Ingressos",
+                        "description": " "
+                    }
+                }
+            },
+            "s4": {
+                "title": "No local",
+                "description": "Adicione nomes em listas, controle a lotação dos espaços, busque convidados e/ou inscritos em diferentes eventos e faça scan por código QR: tudo a uma velocidade que papéis ou planilhas jamais poderiam ter. Com o app do Snafflz para tablets e smartphones, a organização dos seus eventos está garantida.",
+                "items": {
+                    "i1": {
+                        "title": "Registros de entrada e saída<br>Múltiplos pontos de acesso",
+                        "description": " "
+                    },
+                    "i2": {
+                        "title": "Modo quiosque<br>Estatísticas em tempo real",
+                        "description": " "
+                    },
+                    "i3": {
+                        "title": "Impressão de Crachás & Alerta de chegadas VIPs",
+                        "description": " "
+                    }
+                }
+            },
+            "s5": {
+                "title": "Pós-Venda ",
+                "description": "Receba informações úteis e consolidadas: estatísticas de participantes, hora de chegada, perfil dos convidados, adesão etc. Com o Snafflz, sua lista é à prova de balas - online e offline.",
+                "items": {
+                    "i1": {
+                        "title": "Exporte e analise dados",
+                        "description": " "
+                    },
+                    "i2": {
+                        "title": "Emails de Feedback",
+                        "description": " "
+                    },
+                    "i3": {
+                        "title": "Relatórios",
+                        "description": " "
+                    }
+                }
+            },
+            "s6": {
+                "title": "Por que escolher Snafflz? ",
+                "description": "O check-in dos convidados é uma das etapas mais importantes do seu evento.  Pensando nisso, o Snafflz criou uma solução segura, fácil de usar, 100% confiável e com busca rápida de nomes e scan embutido de ingressos com QRs e barcodes.<br><br>\n\nSem taxas extras. Todos os nossos planos incluem uso em ilimitados aparelhos e ferramentas Snafflz:<br><br>\n‍\nConvites inteligentes com RSVP e barcodes, estatísticas minuto a minuto de convidados durante todo o evento, check-ins e check-outs múltiplos para sessões com coffee break, diferentes pontos de acesso, pós-venda, integração com API e muito, muito mais!\n<br><br>\nPara poder criar o Snafflz, trabalhamos fundo com grandes organizadores de eventos dos mais diversos setores."
+            },
+            "s7": {
+                "title": "Sem tempo para inconvenientes.<br>\nAproveite o melhor app de eventos.",
+                "description": " ",
+                "signup": "Cadastre-se já gratuitamente"
+            }
+        },
+        "features": {
+            "title": "Recursos",
+            "setup": {
+                "title": "Fácil configuração e importação de listas",
+                "description": " "
+            },
+            "checkin": {
+                "title": "Convites com RSVP integrado",
+                "description": " "
+            },
+            "vip": {
+                "title": "Páginas de inscrição / Ingressos",
+                "description": " "
+            },
+            "badges": {
+                "title": "Check-in Contactless",
+                "description": " "
+            },
+            "invitation": {
+                "title": "Impressão de crachás",
+                "description": " "
+            },
+            "campaigns": {
+                "title": "Alerta de chegadas VIPs",
+                "description": " "
+            },
+            "stats": {
+                "title": "Trabalho em equipe",
+                "description": "Perfis personalizados e com diferentes níveis de acesso permitem delegar tarefas mantendo total controle de segurança e privacidade."
+            },
+            "export": {
+                "title": "Relatórios de Pós-Venda / Estatísticas ao vivo",
+                "description": " "
+            },
+            "support": {
+                "title": "Suporte amigável e rápido",
+                "description": " "
+            }
+        }
+    },
     "pricing": {
         "menutitle": "Preços",
         "headertitle": "Preços",
@@ -633,12 +633,12 @@
     "gdpr": {
         "menutitle": "GDPR",
         "headertitle": "GDPR",
-		"pageheadertitle": "General Data Protection Regulation (GDPR)"
+        "pageheadertitle": "General Data Protection Regulation (GDPR)"
     },
     "privacy": {
         "menutitle": "Privacidade",
-		"headertitle": "Privacy Policy",
-		"pageheadertitle": "Privacy Policy"
+        "headertitle": "Privacy Policy",
+        "pageheadertitle": "Privacy Policy"
     },
     "error": {
         "title": "Ooops, houve algum erro :(",

@@ -36,15 +36,15 @@
                 "description": "Add attendees, control venue capacity, quick-search for registrations or read QR codes at a pace that spreadsheets can't match. With the mobile Snafflz Check-in manager for tablets and phones a streamlined entry is guaranteed: Amend your guest list directly on your mobile device, safe in the knowledge that all our plans include unlimited device access and team members.",
                 "items": {
                     "i1": {
-                        "title": "Capture Guest Data",
-                        "description": "Capture signatures and receive live notifications of VIP arrivals."
+                        "title": "Session Check-in, Multi-entry Point Check-in /-out",
+                        "description": " "
                     },
                     "i2": {
-                        "title": "Check-in and Check-out ",
-                        "description": "Find names in seconds, scan QR and check-in guests easily."
+                        "title": "Real-time Attendee Statistics",
+                        "description": " "
                     },
                     "i3": {
-                        "title": "Print Badges & Control capacity",
+                        "title": "Print Badges & VIP Arrival Notifications",
                         "description": " "
                     }
                 }
@@ -80,39 +80,39 @@
         "features": {
             "title": "Features",
             "setup": {
-                "title": "Easy setup",
+                "title": "Easy Setup & Guest List Upload",
                 "description": " "
             },
             "checkin": {
-                "title": "Contactless Check-in",
-                "description": " "
-            },
-            "vip": {
-                "title": "VIP Arrival Alerts",
-                "description": " "
-            },
-            "badges": {
-                "title": "Print Badges",
-                "description": " "
-            },
-            "invitation": {
                 "title": "Online Invitation",
                 "description": " "
             },
-            "campaigns": {
+            "vip": {
                 "title": "Registration Pages / Ticketing",
                 "description": " "
             },
-            "stats": {
-                "title": "Post-Event Reports",
+            "badges": {
+                "title": "Contactless Check-in",
                 "description": " "
             },
-            "export": {
+            "invitation": {
+                "title": "Print Badges",
+                "description": " "
+            },
+            "campaigns": {
+                "title": "VIP Arrival Alerts",
+                "description": " "
+            },
+            "stats": {
                 "title": "Role-based Access",
-                "description": "Multiple user accounts and authorisation levels enable you to delegate and still ensure the strictest privacy policies. "
+                "description": "Multiple user accounts and authorisation levels enable you to delegate and still ensure the strictest privacy policies."
+            },
+            "export": {
+                "title": "Post-Event Reports / Live Statistics",
+                "description": ""
             },
             "support": {
-                "title": "Friendly Support / Registration Pages & Ticketing",
+                "title": "Friendly Support",
                 "description": " "
             }
         }

@@ -1,11 +1,11 @@
 {
     "home": {
         "headertitle": "Your Guest List App ",
-        "clients": "More than 5,000 happy clients trust Snafflz",
+        "clients": "Trusted by more than 5,000 top event professionals",
         "sections": {
             "s1": {
-                "title": "All-in-one Solution for live and virtual events.<br><br>\nStay COVID Secure and Track & Trace Compliant.",
-                "description": "<br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.<br><br>Trusted by top event professionals.",
+                "title": "All-in-one Solution for live<br>and virtual events.<br><br>\nStay COVID Secure and<br>Track & Trace Compliant.",
+                "description": "<br>‍Free yourself from unnecessary repetitive tasks and last-minute hassles.",
                 "signup": "Sign up for free"
             },
             "s2": {

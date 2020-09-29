@@ -1,11 +1,11 @@
 {
     "home": {
-        "headertitle": "Your #1 Guest List App ",
+        "headertitle": "Your Guest List App ",
         "clients": "More than 5,000 happy clients trust Snafflz",
         "sections": {
             "s1": {
-                "title": "All-in-one Guest List Solution for live, virtual, and hybrid events<br>\nTrusted by top event professionals.",
-                "description": "Here comes the ultimate Guest Registration Software that lets you control guest data, venue capacity and Check-in with ease.<br><br>Snafflz Event Check-in<br>Helping your event stay COVID Secure & Track & Trace Compliant.<br><br>With Snafflz we're able to help our clients comply with ever-changing Corona rules and government requests.<br>‍<br>Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
+                "title": "All-in-one Solution for live / virtual / hybrid events<br><br>\nTrusted by top event professionals.",
+                "description": "Snafflz Event Check-in<br>Helping your event stay Corona Secure & Track & Trace Compliant.<br>‍<br>Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.",
                 "signup": "Sign up for free"
             },
             "s2": {
@@ -19,15 +19,15 @@
                 "items": {
                     "i1": {
                         "title": "Email Invitation",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     },
                     "i2": {
                         "title": "Registration Page",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     },
                     "i3": {
                         "title": "Excel sheet upload",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     }
                 }
             },
@@ -45,7 +45,7 @@
                     },
                     "i3": {
                         "title": "Print Badges & Control capacity",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     }
                 }
             },
@@ -55,15 +55,15 @@
                 "items": {
                     "i1": {
                         "title": "Analyse Guest Data ",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     },
                     "i2": {
                         "title": "Send out feedback emails",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     },
                     "i3": {
                         "title": "Create reports",
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique."
+                        "description": " "
                     }
                 }
             },

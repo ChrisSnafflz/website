@@ -4,8 +4,8 @@
         "clients": "More than 5,000 happy clients trust Snafflz",
         "sections": {
             "s1": {
-                "title": "All-in-one Solution for live / virtual / hybrid events<br><br>\nSnafflz Event Check-in<br>Helping your event stay Corona Secure & Track & Trace Compliant.",
-                "description": "<br>‍<br>Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.<br><br>Trusted by top event professionals.",
+                "title": "All-in-one Solution for live and virtual events.<br><br>\nStay COVID Secure and Track & Trace Compliant.",
+                "description": "<br>‍Free yourself from unnecessary overhead, repetitive tasks and last-minute hassles.<br><br>Trusted by top event professionals.",
                 "signup": "Sign up for free"
             },
             "s2": {
@@ -104,7 +104,7 @@
                 "description": " "
             },
             "stats": {
-                "title": "Event Reports & Statistics",
+                "title": "Post-Event Reports",
                 "description": " "
             },
             "export": {

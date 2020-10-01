@@ -1,94 +1,94 @@
 {
     "home": {
-        "headertitle": "Your Guest List App ",
-        "clients": "Trusted by more than 5,000 top event professionals",
+        "headertitle": "Su aplicación para listas de invitados",
+        "clients": "Preferido por más de 5000 marcas y empresas",
         "sections": {
             "s1": {
-                "title": "All-in-one Solution for live<br>and virtual events.<br><br>\nStay COVID Secure and<br>Track & Trace Compliant.",
-                "description": "<br>‍Free yourself from unnecessary repetitive tasks & last-minute hassles.",
-                "signup": "Sign up for free"
+                "title": "La solución perfecta para eventos presenciales<br>y virtuales.\n<br><br>",
+                "description": "Adáptese a las políticas de seguridad<br>y seguimiento de COVID.<br><br> ‍Ahorre tiempo y evite tareas repetitivas o<br>problemas en el momento del evento.",
+                "signup": "Regístrese gratis"
             },
             "s2": {
-                "pre": "Contactless Guest Check-in",
-                "title": "Free Android / iOS App",
-                "description": "Snafflz gives you an user friendly check-in solution that is secure, reliable and includes real time guest list search, ticket scanning and VIP arrival alerts. We support QR and barcoded media and most badge printers. "
+                "pre": "Check-in de invitados Contactless",
+                "title": "Aplicación gratuita<br>para Android / iOS",
+                "description": "Snafflz es una solución inteligente e intuitiva para administrar eventos y listas de invitados. Seguro y confiable, con búsqueda de nombre inmediata, escaneo QR en la aplicación y notificaciones en tiempo real de llegadas VIP."
             },
             "s3": {
-                "title": "Pre-Event Campaigns",
-                "description": "Benefit from extensive email capacity and customise registration pages. Compile guest lists efficiently with Snafflz: take advantage of automatically collected registrations. Monitor RSVPs coming in real-time. Snafflz builds your final guest list automatically, ready for check-in. ",
+                "title": "Campañas previas al evento",
+                "description": "Aproveche la amplia capacidad de enviar correos electrónicos y crear y personalizar páginas de suscripción. Recopile datos de eventos de manera eficiente. Supervise RSVPs en tiempo real. Snafflz prepara su lista final de invitados automáticamente, lista para registrar a los invitados.",
                 "items": {
                     "i1": {
-                        "title": "Email Invitations",
+                        "title": "Invitaciones por Email",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Registration Pages",
+                        "title": "Páginas de inscripción",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Ticketing",
+                        "title": "Entradas",
                         "description": " "
                     }
                 }
             },
             "s4": {
-                "title": "On-Site",
-                "description": "Add attendees, control venue capacity, quick-search for registrations or read QR codes at a pace that spreadsheets can't match. With the mobile Snafflz Check-in manager for tablets and phones a streamlined entry is guaranteed: Amend your guest list directly on your mobile device, safe in the knowledge that all our plans include unlimited device access and team members.",
+                "title": "En el momento",
+                "description": "Agregue nombres, controle la capacidad de los espacios, busque invitados y / o suscriptores en las listas y escanee códigos QR: todo a una velocidad que los papeles u hojas de cálculo nunca podrían tener. Con la aplicación Snafflz para tabletas y teléfonos inteligentes, la organización de eventos está garantizada.",
                 "items": {
                     "i1": {
-                        "title": "Session Check-in /-out<br>Multi-entry Points",
+                        "title": "Check-in y check-out<br>Múltiples puntos de acceso",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Kiosk Mode<br>Real-time Attendee Statistics",
+                        "title": "Modo quiosco (autoservicio)<br>Estadísticas en tiempo real",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Print Badges & VIP Arrival Notifications",
+                        "title": "Impresión de credenciales<br>Alertas de llegadas VIP",
                         "description": " "
                     }
                 }
             },
             "s5": {
-                "title": "Post-Event",
-                "description": "Gain insightful analytics: attendee statistics, time of arrival, guest profiles, loyalty etc. The Snafflz mobile guest list is bulletproof - online & offline.",
+                "title": "Posventa",
+                "description": "Obtenga análisis detallados: estadísticas de asistentes, hora de llegada, perfiles de invitados, lealtad, etc. La lista de invitados de Snafflz para dispositivos móviles es a prueba de balas, en línea y fuera de línea.",
                 "items": {
                     "i1": {
-                        "title": "Export & Analyse Guest Data ",
+                        "title": "Exportación y análisis de datos",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Feedback emails",
+                        "title": "Emails de comentarios",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Event reports",
+                        "title": "Informes y gráficos",
                         "description": " "
                     }
                 }
             },
             "s6": {
-                "title": "Why Snafflz ? ",
-                "description": "Event check-in is one of the most important stages of your event. Snafflz gives you a best in class check-in solution that is secure, user friendly, 100% reliable and includes real time guest list search and ticket scanning. We support QR and barcoded media.<br><br>\n\nThere are no hidden fees. All our plans include unlimited device access, unlimited team members and all available features:<br><br>\n‍\nBarcoded e-invites, real time attendee statistics, session check-in, multi-entry point check-in, post event reports, API integration and so much more!\n<br><br>\nWe’ve worked with leading event organisers in all industries to bring you Snafflz."
+                "title": "¿Por qué Snafflz?",
+                "description": "El check-in de los invitados es una de las etapas más importantes de cualquier evento. Pensando en ello, Snafflz creó una solución segura, fácil de usar y 100% confiable, con búsqueda rápida de nombres y escaneo integrado para QR y códigos de barras.<br><br>\n\nSin cargos extra. Todos los planes permiten su uso en dispositivos ilimitados e incluyen herramientas exclusivas de Snafflz:<br><br>\n‍\nInvitaciones inteligentes con RSVP y códigos de barras, estadísticas minuto a minuto durante los eventos, múltiples registros y salidas en cada sesión, diferentes puntos de entrada, informes posventa, integración de API y más.\n<br><br>\nPara crear Snafflz, trabajamos en estrecha colaboración con grandes organizadores de eventos en varios sectores."
             },
             "s7": {
-                "title": "No time for hassles.<br>\nBenefit from the perfect guest list app.",
+                "title": "No hay tiempo para problemas.<br>\nUtilice la mejor aplicación de eventos.",
                 "description": " ",
-                "signup": "Sign up for free"
+                "signup": "Regístrese gratis ahora"
             }
         },
         "features": {
-            "title": "Features",
+            "title": "Características",
             "setup": {
-                "title": "Easy Setup & Guest List Upload",
+                "title": "Fácil configuración y carga de listas",
                 "description": " "
             },
             "checkin": {
-                "title": "Online Invitation",
+                "title": "Invitaciones RSVP digitales",
                 "description": " "
             },
             "vip": {
-                "title": "Registration Pages / Ticketing",
+                "title": "Páginas de inscripción y entradas",
                 "description": " "
             },
             "badges": {
@@ -96,23 +96,23 @@
                 "description": " "
             },
             "invitation": {
-                "title": "Print Badges",
+                "title": "Impresión de credenciales",
                 "description": " "
             },
             "campaigns": {
-                "title": "VIP Arrival Alerts",
+                "title": "Alertas de llegadas VIP",
                 "description": " "
             },
             "stats": {
-                "title": "Role-based Access",
-                "description": "Multiple user accounts and authorisation levels enable you to delegate and still ensure the strictest privacy policies."
+                "title": "Trabajo en equipo",
+                "description": "Los perfiles personalizados con diferentes niveles de acceso permiten la delegación de tareas manteniendo un control total de la seguridad y privacidad."
             },
             "export": {
-                "title": "Post-Event Reports / Live Statistics",
+                "title": "Informes postventa / Estadísticas en vivo",
                 "description": " "
             },
             "support": {
-                "title": "Friendly Support",
+                "title": "Soporte rápido y amigable",
                 "description": " "
             }
         }
@@ -142,7 +142,7 @@
                 "title": "PROFESIONAL<br>Un evento",
                 "description": "Incluye 300 créditos de invitados.<br>Válido por 30 días.",
                 "p1": "Check-in fácil y seguro",
-                "p2": "Impresión de gafetes con nombres",
+                "p2": "Impresión de credenciales con nombres",
                 "p3": "Estadísticas en vivo + Informes",
                 "p4": "Importar desde Excel / Exportar datos",
                 "price": "€35",
@@ -175,7 +175,7 @@
                 "title": "DIAMOND<br>Eventos ilimitados",
                 "description": "Incluye 5,000 créditos de invitados por lista.<br>10,000 créditos de correo electrónico al mês.",
                 "p1": "Todas las herramientas del plan Premium",
-                "p2": "Opciones avanzadas de gafetes",
+                "p2": "Opciones avanzadas de credenciales",
                 "p3": "Emails de comentarios",
                 "p4": "Soporte dedicado",
                 "price": "€229",
@@ -186,7 +186,7 @@
                 "title": "DIAMOND<br>Eventos ilimitados",
                 "description": "Incluye 5,000 créditos de invitados por lista.<br>10,000 créditos de correo electrónico al mês.",
                 "p1": "Todas las herramientas del plan Premium",
-                "p2": "Opciones avanzadas de gafetes",
+                "p2": "Opciones avanzadas de credenciales",
                 "p3": "Emails de comentarios",
                 "p4": "Soporte dedicado",
                 "price": "€2290",
@@ -338,19 +338,19 @@
                 "button": "Incluir por €9"
             },
             "snafflzTUBadge": {
-                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "title": "IMPRESÍON DE CREDENCIALES<br>Opciones avanzadas",
                 "description": "Válido mientras dure su plan",
                 "p": "Personalización completa<br>Más plantillas y diseños",
                 "button": "Incluir por $29"
             },
             "snafflzTUBadgeMonthly": {
-                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "title": "IMPRESÍON DE CREDENCIALES<br>Opciones avanzadas",
                 "description": "Por mes",
                 "p": "Personalización completa<br>Más plantillas y diseños",
                 "button": "Incluir por $29"
             },
             "snafflzTUBadgeYearly": {
-                "title": "IMPRESÍON DE GAFETES<br>Opciones avanzadas",
+                "title": "IMPRESÍON DE CREDENCIALES<br>Opciones avanzadas",
                 "description": "Por año",
                 "p": "Personalización completa<br>Más plantillas y diseños",
                 "button": "Incluir por $290"
@@ -495,7 +495,7 @@
                 "title": "Principio",
                 "select": "Principio",
                 "q1": "¿Qué es Snafflz?",
-                "a1": "Una solución práctica y eficiente para gestionar invitados, listas, RSVPs, participaciones e inscripciones en cualquier tipo de evento. Registre fácilmente a los invitados, imprima gafetes en el momento y cree páginas de registro personalizadas e inteligentes.<br><br>Snafflz es súper flexible y tiene varios perfiles de eventos:<br><br>• Alfombras rojas, desfiles de moda e inauguraciones de tiendas<br>• Conferencias y ferias<br>• Eventos corporativos, reuniones de empleados, talleres<br>• Actos de graduación, reuniones y actividades universitarias<br>• Recepciones y almuerzos VIP<br>• Bodas, aniversarios y celebraciones",
+                "a1": "Una solución práctica y eficiente para gestionar invitados, listas, RSVPs, participaciones e inscripciones en cualquier tipo de evento. Registre fácilmente a los invitados, imprima credenciales en el momento y cree páginas de registro personalizadas e inteligentes.<br><br>Snafflz es súper flexible y tiene varios perfiles de eventos:<br><br>• Alfombras rojas, desfiles de moda e inauguraciones de tiendas<br>• Conferencias y ferias<br>• Eventos corporativos, reuniones de empleados, talleres<br>• Actos de graduación, reuniones y actividades universitarias<br>• Recepciones y almuerzos VIP<br>• Bodas, aniversarios y celebraciones",
                 "q2": "¿Cómo me registro?",
                 "a2": "A través de nuestra <a href='/signup'>página de registro</a> o instalando la aplicación iOS / Android y creando su cuenta fácilmente.<br>Use correo electrónico y contraseña o la opción de registro automático por Facebook o ID de Apple.",
                 "q3": "¿Puedo probar gratis?",
@@ -539,7 +539,7 @@
                 "q2": "¿Puedo personalizar los campos de datos?",
                 "a2": "Sí, puede crear sus propios campos. Snafflz ofrece 3 tipos: texto, casilla de verificación y menú desplegable.",
                 "q3": "¿Cómo se generan los códigos QR de Snafflz? ¿Puedo usar otros?",
-                "a3": "Los códigos QR de Snafflz se generan automáticamente para cada invitado y para cada contacto en la Lista Principal.<br><br><i>¿Cómo reciben los invitados los códigos (y / o gafetes / entradas)?</i><br>Al registrarse para un evento: simplemente cree una campaña en la página de registro y quienes se registren recibirán el código QR en el correo electrónico de confirmación.<br><br>Junto con la invitación: cree una campaña de invitación por correo electrónico y envíe los códigos a los destinatarios dentro de la credencial o ticket (entrada), en PDF.<br><br><i>¿Cómo escaneo el código QR de un invitado?</i><br>Imprima las gafetes con nombres y códigos QR a través de Snafflz y utilice el escáner integrado en la aplicación móvil para leer en papel o directamente en el dispositivo de cada invitado.<br><br><i>¿Cómo usar mis propios códigos QR o códigos de barras?</i><br>Complete la columna 'QR- / Código de barras' de la plantilla de Excel con los datos de cada código y luego cárguelo en la pestaña 'Hoja de cálculo' de la opción 'Importar'.<br><br>Si desea crear sus propios códigos QR:<br>1. Haga clic en <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Seleccione \"plain text\" como data type y \"static\" como encoding.<br>3. Ingrese texto y / o número y genere el código.",
+                "a3": "Los códigos QR de Snafflz se generan automáticamente para cada invitado y para cada contacto en la Lista Principal.<br><br><i>¿Cómo reciben los invitados los códigos (y / o credenciales / entradas)?</i><br>Al registrarse para un evento: simplemente cree una campaña en la página de registro y quienes se registren recibirán el código QR en el correo electrónico de confirmación.<br><br>Junto con la invitación: cree una campaña de invitación por correo electrónico y envíe los códigos a los destinatarios dentro de la credencial o ticket (entrada), en PDF.<br><br><i>¿Cómo escaneo el código QR de un invitado?</i><br>Imprima las credenciales con nombres y códigos QR a través de Snafflz y utilice el escáner integrado en la aplicación móvil para leer en papel o directamente en el dispositivo de cada invitado.<br><br><i>¿Cómo usar mis propios códigos QR o códigos de barras?</i><br>Complete la columna 'QR- / Código de barras' de la plantilla de Excel con los datos de cada código y luego cárguelo en la pestaña 'Hoja de cálculo' de la opción 'Importar'.<br><br>Si desea crear sus propios códigos QR:<br>1. Haga clic en <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Seleccione \"plain text\" como data type y \"static\" como encoding.<br>3. Ingrese texto y / o número y genere el código.",
                 "q4": "¿Cómo recibo alertas de llegadas VIP?",
                 "a4": "Habilite la opción de notificación VIP dentro de la aplicación Snafflz. La función debe ser activada por dispositivo. Snafflz enviará una notificación automática inmediatamente cuando cada invitado VIP llegue (haga check-in) en el evento. Cada usuario puede activar y desactivar las notificaciones en cualquier momento, y la cantidad de dispositivos y notificaciones es ilimitada. Por el momento, todavía no es posible enviar notificaciones por SMS.<br><br><i>¿Cómo habilitar las notificaciones VIP en la aplicación web?\n</i><br>Haga clic en la opción 'enviar email de llegada VIP' en la pestaña 'Evento' de la lista de invitados. Snafflz enviará un correo electrónico automático a la dirección de la cuenta en cada check-in VIP. También es posible enviar alertas por correo electrónico a direcciones que no sean la cuenta principal. Solo informe en el campo 'Email que recibe alerta VIP' de cada invitado. Esta función se incluye de forma gratuita en los planes Premium y Diamond y se puede adquirir por separado (como recarga) para el plan Professional.",
                 "q5": "¿Cómo exporto o imprimo mis listas de invitados en Snafflz?",
@@ -603,7 +603,7 @@
                 "q5": "¿Cómo cambiar o actualizar un plan?",
                 "a5": "Es posible actualizar el paquete 'Pro' a un plan 'Premium' o 'Diamond', de 'Premium' a 'Diamond' o de un plan mensual a un plan anual sin ningún problema. Tan pronto como se activa la actualización, los balances se actualizan para reflejar el nuevo plan. Esto incluye 'Créditos de invitados', 'Créditos de check-in', 'Créditos de correo electrónico', 'Número de miembros del equipo', etc. Los créditos que ya se hayan utilizado se restablecerán a cero cuando se active la actualización.<br><br><b>Atenção</b>: todas las recargas activas se perderán porque están asociadas con el plan anterior.<br><br>Por favor contáctenos si tiene alguna pregunta sobre el funcionamiento de nuestros planes.",
                 "q6": "¿Puedo recargar cualquier plan para obtener más créditos o herramientas adicionales?",
-                "a6": "Sí. Snafflz ofrece varios tipos de recargas, para poder incluir:<br><br>- herramientas extra como campañas con páginas de registro o invitaciones, alerta de llegada de VIP, opciones avanzadas e impresión de gafetes, o...<br><br>- créditos de invitados / check-ins / correos electrónicos y agregar más perfiles para diferentes miembros del equipo.",
+                "a6": "Sí. Snafflz ofrece varios tipos de recargas, para poder incluir:<br><br>- herramientas extra como campañas con páginas de registro o invitaciones, alerta de llegada de VIP, opciones avanzadas e impresión de credenciales, o...<br><br>- créditos de invitados / check-ins / correos electrónicos y agregar más perfiles para diferentes miembros del equipo.",
                 "q7": "¿Cuándo vence mi paquete Pro? ¿Se renuevan automáticamente las suscripciones y los planes?",
                 "a7": "Nuestro paquete Pro (y cualquier recarga asociada) vence 30 días después de la compra.<br><br>Las suscripciones no vencen a menos que el propietario de la cuenta las cancele. Si cancela su plan, podrá seguir utilizándolo hasta el último día cubierto por el pago anterior.",
                 "q8": "¿Puedo finalizar la suscripción en cualquier momento? ¿Tiene algún costo?",

@@ -1,21 +1,21 @@
 {
     "home": {
-        "headertitle": "Seu App de Eventos",
+        "headertitle": "O seu App para Listas de Convidados",
         "clients": "Escolhido por mais de 5,000 marcas e empresas ",
         "sections": {
             "s1": {
                 "title": "A solução perfeita para eventos presenciais<br>e virtuais.<br><br>",
-                "description": "Adequada às políticas de segurança e<br> rastreio de COVID.<br>‍<br>‍Poupe tempo e evite tarefas repetitivas ou problemas<br> na hora do evento.",
+                "description": "Adeque-se às políticas de segurança e<br> rastreio de COVID.<br>‍<br>‍Poupe tempo e evite tarefas repetitivas ou problemas<br> na hora do evento.",
                 "signup": "Criar conta grátis"
             },
             "s2": {
                 "pre": "Check-in de convidados Contactless",
-                "title": "App grátis - Android e iOS",
-                "description": "O Snafflz é uma solução inteligente e intuitiva para gerir eventos e listas de convidados. Seguro e confiável, com busca imediata de nomes, scan de QRs pelo próprio app e notificações em tempo real de chegadas VIPs."
+                "title": "App Android e iOS grátis",
+                "description": "O Snafflz é uma solução inteligente e intuitiva para a gestão de eventos e listas de convidados. Seguro e confiável, com busca imediata de nomes, scan de QRs no próprio app e notificações em tempo real de chegadas VIPs."
             },
             "s3": {
                 "title": "Campanhas Pré-Evento",
-                "description": "Usufrua de extensa capacidade de envio de emails e crie e customize páginas de inscrição. Beneficie-se da recolha eficiente de dados por evento. Monitore RSVPs em tempo real. O Snafflz monta a sua lista de convidados final automaticamente, já pronta para o check-in dos convidados. ",
+                "description": "Usufrua da extensa capacidade de envio de emails e crie e customize páginas de inscrição. Colete dados por evento eficientemente. Monitore RSVPs em tempo real. O Snafflz prepara a sua lista final de convidados automaticamente, já pronta para o check-in dos convidados.",
                 "items": {
                     "i1": {
                         "title": "Convites com RSVP",
@@ -33,7 +33,7 @@
             },
             "s4": {
                 "title": "Na hora do evento",
-                "description": "Adicione nomes, controle a lotação dos espaços, busque convidados e/ou inscritos em listas e faça scan de códigos QR: tudo numa velocidade que papéis ou planilhas jamais poderiam ter. Com o app do Snafflz para tablets e smartphones, a organização dos eventos está garantida.",
+                "description": "Adicione nomes, controle a lotação de espaços, busque convidados e/ou inscritos nas listas e escaneie códigos QR: tudo numa velocidade que papéis ou planilhas jamais poderiam ter. Com o app do Snafflz para tablets e smartphones, a organização dos eventos está garantida.",
                 "items": {
                     "i1": {
                         "title": "Registros de entrada e saída<br>Múltiplos pontos de acesso",
@@ -69,7 +69,7 @@
             },
             "s6": {
                 "title": "Por que escolher o Snafflz? ",
-                "description": "O check-in de convidados é uma das etapas mais importantes do evento.  Foi pensando nisso que o Snafflz criou uma solução segura, fácil de usar e 100% confiável, com busca rápida de nomes e scan embutido para ler QRs e barcodes.<br><br>\n\nSem taxas extras. Todos os planos permitem uso em aparelhos ilimitados e ferramentas exclusivas Snafflz:<br><br>\n‍\nConvites inteligentes com RSVP e barcodes, estatísticas minuto a minuto durante os eventos, check-ins e check-outs múltiplos, diferentes pontos de entrada, pós-venda, integração com API e muito mais!\n<br><br>\nPara criar o Snafflz, trabalhamos fundo com grandes organizadores de eventos em diversos setores."
+                "description": "O check-in de convidados é uma das etapas mais importantes do evento.  Foi pensando nisso que o Snafflz criou uma solução segura, fácil de usar e 100% confiável, com busca rápida de nomes e scan embutido para QRs e barcodes.<br><br>\n\nSem taxas extras. Todos os planos permitem uso em ilimitados aparelhos e trazem ferramentas exclusivas Snafflz:<br><br>\n‍\nConvites inteligentes com RSVP e barcodes, estatísticas minuto a minuto durante os eventos, check-ins e check-outs múltiplos, diferentes pontos de entrada, relatórios pós-venda, integração com API e muito mais!\n<br><br>\nPara criar o Snafflz, trabalhamos fundo com grandes organizadores de eventos em diversos setores."
             },
             "s7": {
                 "title": "Não há tempo para problemas.<br>\nUse o melhor app de eventos.",
@@ -80,7 +80,7 @@
         "features": {
             "title": "Recursos",
             "setup": {
-                "title": "Fácil de usar e de importar listas",
+                "title": "Criar ou importar listas",
                 "description": " "
             },
             "checkin": {
@@ -88,7 +88,7 @@
                 "description": " "
             },
             "vip": {
-                "title": "Páginas de inscrição ou de ingressos",
+                "title": "Páginas de inscrição e de ingressos",
                 "description": " "
             },
             "badges": {
@@ -100,7 +100,7 @@
                 "description": " "
             },
             "campaigns": {
-                "title": "Alertas de chegada de VIPs",
+                "title": "Alertas de chegadas VIP",
                 "description": " "
             },
             "stats": {

@@ -1,118 +1,118 @@
 {
     "home": {
-        "headertitle": "Your Guest List App ",
-        "clients": "Trusted by more than 5,000 top event professionals",
+        "headertitle": "Ihre App um Gästelisten und Besucher zu verwalten",
+        "clients": "Mehr als 5.000 Event-Profis schenken uns Ihr Vertrauen",
         "sections": {
             "s1": {
-                "title": "All-in-one Solution for live<br>and virtual events.<br><br>\nStay COVID Secure and<br>Track & Trace Compliant.",
-                "description": "<br>‍Free yourself from unnecessary repetitive tasks & last-minute hassles.",
-                "signup": "Sign up for free"
+                "title": "All-in-One Lösung für Live- und virtuelle Events <br>",
+                "description": "Befreien Sie sich von unnötigen wiederholenden Aufgaben und Last-Minute Problemen.\n<br> Bleiben Sie COVID sicher und \"Track & Trace\" konform.",
+                "signup": "Gratis Anmeldung hier"
             },
             "s2": {
-                "pre": "Contactless Guest Check-in",
-                "title": "Free Android / iOS App",
-                "description": "Snafflz gives you an user friendly check-in solution that is secure, reliable and includes real time guest list search, ticket scanning and VIP arrival alerts. We support QR and barcoded media and most badge printers. "
+                "pre": "Kontaktloser Besucher Check-in",
+                "title": "Kostenlose Android / iOS App",
+                "description": "Snafflz bietet Ihnen eine benutzerfreundliche Check-in-Lösung, die sicher und zuverlässig ist und die Suche nach Gästelisten in Echtzeit, das Scannen von Tickets und VIP-Ankunftsbenachrichtigungen umfasst. Wir unterstützen QR- und Barcode-Medien sowie die meisten Namensschild-Drucker. "
             },
             "s3": {
-                "title": "Pre-Event Campaigns",
-                "description": "Benefit from extensive email capacity and customise registration pages. Compile guest lists efficiently with Snafflz: take advantage of automatically collected registrations. Monitor RSVPs coming in real-time. Snafflz builds your final guest list automatically, ready for check-in. ",
+                "title": "Pre-Event Kampagnen",
+                "description": "Profitieren Sie von einer umfangreichen Email-Funktionalität und passen Sie Ihre Registrierungsseiten an. Erstellen Sie Gästelisten effizient mit Snafflz: Nutzen Sie automatisch gesammelte Registrierungen. Überwachen Sie RSVPs in Echtzeit. Snafflz erstellt Ihre endgültige Gästeliste automatisch und ist bereit für den Check-in. ",
                 "items": {
                     "i1": {
-                        "title": "Email Invitations",
+                        "title": "Email-Einladungen",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Registration Pages",
+                        "title": "Registrierungsseiten<br>+ Ticketing",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Ticketing",
+                        "title": "Einfaches Hochladen der Gästeliste<br>+ Badges drucken",
                         "description": " "
                     }
                 }
             },
             "s4": {
-                "title": "On-Site",
-                "description": "Add attendees, control venue capacity, quick-search for registrations or read QR codes at a pace that spreadsheets can't match. With the mobile Snafflz Check-in manager for tablets and phones a streamlined entry is guaranteed: Amend your guest list directly on your mobile device, safe in the knowledge that all our plans include unlimited device access and team members.",
+                "title": "Vor Ort",
+                "description": "Fügen Sie Teilnehmer hinzu, kontrollieren Sie die Kapazität des Veranstaltungsortes, suchen Sie schnell nach Registrierungen oder lesen Sie QR-Codes in einem Tempo, mit dem Excel sheets nicht mithalten können. Mit dem mobilen Snafflz Check-in-Manager für Tablets und Telefone ist ein optimierter Einlass garantiert: Ändern Sie Ihre Gästeliste direkt auf Ihrem mobilen Gerät, in der Gewissheit, dass alle unsere Pläne unbegrenzten Gerätezugriff und Teammitglieder umfassen.",
                 "items": {
                     "i1": {
-                        "title": "Session Check-in /-out<br>Multi-entry Points",
+                        "title": "Session Check-in <br>+ Multi-entry Points",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Kiosk Mode<br>Real-time Attendee Statistics",
+                        "title": "Kiosk-Modus <br> + Offline-Modus (v1 iOS-App) ",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Print Badges & VIP Arrival Notifications",
+                        "title": "Namensschilder drucken<br>+ VIP-Benachrichtigungen",
                         "description": " "
                     }
                 }
             },
             "s5": {
-                "title": "Post-Event",
-                "description": "Gain insightful analytics: attendee statistics, time of arrival, guest profiles, loyalty etc. The Snafflz mobile guest list is bulletproof - online & offline.",
+                "title": "Nach dem Event",
+                "description": "Erhalten Sie aufschlussreiche Analysen: Teilnehmerstatistiken, Ankunftszeit, Gästeprofile, Loyalität usw. Die mobile Gästeliste von Snafflz ist sicher - online und offline.",
                 "items": {
                     "i1": {
-                        "title": "Export & Analyse Guest Data ",
+                        "title": "Gastdaten exportieren und analysieren ",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Feedback emails",
+                        "title": "Feedback-Emails",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Event reports",
+                        "title": "Event Reports ",
                         "description": " "
                     }
                 }
             },
             "s6": {
-                "title": "Why Snafflz ? ",
-                "description": "Event check-in is one of the most important stages of your event. Snafflz gives you a best in class check-in solution that is secure, user friendly, 100% reliable and includes real time guest list search and ticket scanning. We support QR and barcoded media.<br><br>\n\nThere are no hidden fees. All our plans include unlimited device access, unlimited team members and all available features:<br><br>\n‍\nBarcoded e-invites, real time attendee statistics, session check-in, multi-entry point check-in, post event reports, API integration and so much more!\n<br><br>\nWe’ve worked with leading event organisers in all industries to bring you Snafflz."
+                "title": "Warum Snafflz? ",
+                "description": "Snafflz ist die führende Gästeliste-App für Live- und virtuelle Veranstaltungen in der Welt der Gastronomie und Kultur, PR, Bildung, Mode und Unterhaltung. <br>\nSnafflz bietet Ihnen eine Check-in-Lösung, die sicher, benutzerfreundlich, 100% zuverlässig ist und die Suche nach Gästelisten in Echtzeit und das Scannen von Tickets umfasst. Wir unterstützen QR- und Barcode-Medien. <br> <br>\n\nEs gibt keine versteckten Gebühren. Unsere flexiblen und erschwinglichen Tarife umfassen unbegrenzten Gerätezugriff und alle verfügbaren Tariffunktionen: <br> <br>\n‍\nBarcode-E-Einladungen, Erfassen von Gastdaten, Echtzeit-Teilnehmerstatistiken, Badge Printing, Offline-Funktion, Self-Service-Registrierung, aufeinanderfolgendes Ein- und Auschecken, Post-Event Reports, API-Integration und vieles mehr!\n<br> <br>\n\nSnafflz ist ein unermüdliches Team von IT-versierten und zukunftsorientierten Veranstaltern mit Sitz in London, Lissabon und Wien.  Im Moment arbeiten wir intensiv an Funktionen, mit denen Veranstalter sich auf das konzentrieren können, was sie am besten können: einzigartige Live- und virtuelle Erlebnisse zu schaffen."
             },
             "s7": {
-                "title": "No time for hassles.<br>\nBenefit from the perfect guest list app.",
+                "title": "Viele Gästelisten digital zu verwalten?<br><br>Kein Problem!<br> <br>",
                 "description": " ",
-                "signup": "Sign up for free"
+                "signup": "Melden Sie sich kostenlos an"
             }
         },
         "features": {
             "title": "Features",
             "setup": {
-                "title": "Easy Setup & Guest List Upload",
+                "title": "Einfaches Setup + Hochladen der Gästeliste",
                 "description": " "
             },
             "checkin": {
-                "title": "Online Invitation",
+                "title": "Online-Einladung",
                 "description": " "
             },
             "vip": {
-                "title": "Registration Pages / Ticketing",
+                "title": "Registrierungsseiten + Ticketing",
                 "description": " "
             },
             "badges": {
-                "title": "Contactless Check-in",
+                "title": "Kontaktloses Einchecken",
                 "description": " "
             },
             "invitation": {
-                "title": "Print Badges",
+                "title": "Benutzerdefinierte Badges drucken",
                 "description": " "
             },
             "campaigns": {
-                "title": "VIP Arrival Alerts",
+                "title": "VIP Ankunftsbenachrichtigungen",
                 "description": " "
             },
             "stats": {
-                "title": "Role-based Access",
-                "description": "Multiple user accounts and authorisation levels enable you to delegate and still ensure the strictest privacy policies."
+                "title": "Rollenbasierter Zugriff",
+                "description": " "
             },
             "export": {
-                "title": "Post-Event Reports / Live Statistics",
+                "title": "Post-Event-Berichte + Statistiken",
                 "description": " "
             },
             "support": {
-                "title": "Friendly Support",
+                "title": "Freundlicher Support",
                 "description": " "
             }
         }
@@ -121,10 +121,10 @@
         "menutitle": "Preise",
         "headertitle": "Preise",
         "loggedout": {
-            "pageheadertitle": "Unsere Pakete.<br>Flexibel und erschwinglich.",
+            "pageheadertitle": "Unsere Pakete.<br>\nFlexibel und erschwinglich.",
             "included": "<br>",
             "join": "Kostenlose Testversion jetzt starten",
-            "details": "Keine Kreditkarte erforderlich.<br>Tablet/Mobile Apps, SSL-Verschlüsselung und tägliche Backups sind inklusive.<br>Für 1 Event und 50 Gäste.",
+            "details": "Keine Kreditkarte erforderlich.<br>\nTablet/Mobile Apps, SSL-Verschlüsselung und tägliche Backups sind inklusive.<br>\nFür 1 Event und 50 Gäste.",
             "signup": "Beginnen Sie jetzt"
         },
         "loggedin": {
@@ -151,7 +151,7 @@
             },
             "snafflzPremiumBasicMonthly": {
                 "title": "PREMIUM<br>Unlimitierte Events",
-                "description": "Beinhaltet 500 Gäste-Credits pro Liste.<br>500 E-Mail-Credits pro Monat.",
+                "description": "Beinhaltet 500 Gäste-Credits pro Liste.<br>500 Email-Credits pro Monat.",
                 "p1": "Alle PRO-Funktionen",
                 "p2": "Komplettes Kampagnen-Paket inkl. <br>e-Einladung +RSVP +Ticketing",
                 "p3": "1 Beitragszahler-Konto",
@@ -162,7 +162,7 @@
             },
             "snafflzPremiumBasicYearly": {
                 "title": "PREMIUM<br>Unlimitierte Events",
-                "description": "Beinhaltet 500 Gäste-Credits pro Liste.<br>500 E-Mail-Credits pro Monat.",
+                "description": "Beinhaltet 500 Gäste-Credits pro Liste.<br>500 Email-Credits pro Monat.",
                 "p1": "Alle PRO Funktionen",
                 "p2": "Komplettes Kampagnen-Paket inkl. <br>Email Einladung +RSVP +Ticketing",
                 "p3": "1 zusätzliches Benutzerkonto",
@@ -173,10 +173,10 @@
             },
             "snafflzDiamondBasicMonthly": {
                 "title": "DIAMOND<br>Unlimitierte Events",
-                "description": "Inkl. 5.000 Gäste-Credits pro Liste.<br>10.000 E-Mail-Credits pro Monat.",
+                "description": "Inkl. 5.000 Gäste-Credits pro Liste.<br>10.000 Email-Credits pro Monat.",
                 "p1": "Alle PREMIUM-Funktionen<br>+ 5 Benutzerkonten",
                 "p2": "Erweiterte Badge-Druckoptionen",
-                "p3": "Check-in-Feedback-E-Mails",
+                "p3": "Check-in-Feedback-Emails",
                 "p4": "Prioritäre Unterstützung",
                 "price": "€229",
                 "period": "per Monat",
@@ -184,10 +184,10 @@
             },
             "snafflzDiamondBasicYearly": {
                 "title": "DIAMOND<br>Unlimitierte Events",
-                "description": "Inkl. 5.000 Gäste-Credits pro Liste.<br>10.000 E-Mail-Credits pro Monat.",
+                "description": "Inkl. 5.000 Gäste-Credits pro Liste.<br>10.000 Email-Credits pro Monat.",
                 "p1": "Alle PREMIUM-Funktionen<br>+ 5 Beitragskonten",
                 "p2": "Erweiterte Badge-Druckoptionen",
-                "p3": "Check-in-Feedback-E-Mails",
+                "p3": "Check-in-Feedback-Emails",
                 "p4": "Prioritäre Unterstützung",
                 "price": "€2290",
                 "period": "bei jährlicher Bezahlung",
@@ -328,13 +328,13 @@
             "snafflzTUCampaign": {
                 "title": "KAMPAGNEN<br>Paket",
                 "description": "Per Lizenzzeitraum",
-                "p": "e-Einladungen + 500 E-Mails<br>Anmeldeseiten / Ticketing",
+                "p": "e-Einladungen + 500 Emails<br>Anmeldeseiten / Ticketing",
                 "button": "Für €49 kaufen"
             },
             "snafflzTUVIP": {
                 "title": "VIP ARRIVAL<br>Benachrichtigungen",
                 "description": "Per Lizenzzeitraum",
-                "p": "Mobile Push-Benachrichtigungen senden<br>E-Mail-Benachrichtigungen senden",
+                "p": "Mobile Push-Benachrichtigungen senden<br>Email-Benachrichtigungen senden",
                 "button": "Für €9 kaufen"
             },
             "snafflzTUBadge": {
@@ -373,13 +373,13 @@
         "headertitle": "Zahlung",
         "success": {
             "pageheadertitle": "Vielen Dank!<br>Ihre Zahlung ist abgeschlossen.",
-            "message": "Eine Quittung für Ihren Kauf wurde Ihnen per E-Mail zugeschickt.",
+            "message": "Eine Quittung für Ihren Kauf wurde Ihnen per Email zugeschickt.",
             "contact": "Sie müssen mit uns Kontakt aufnehmen?<br>Schreiben Sie uns einfach eine Nachricht: <a href='mailto:support@snafflz.com?subject=Payment'>support@snafflz.com</a>"
         },
         "error": {
             "pageheadertitle": "Fehler bei der Zahlungsverarbeitung.",
             "message": "Etwas ging schief.",
-            "contact": "Bitte schreiben Sie eine E-Mail an <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br> Wir werden das Problem so schnell wie möglich lösen."
+            "contact": "Bitte schreiben Sie eine Email an <a href='mailto:support@snafflz.com?subject=Payment%20error'>support@snafflz.com</a><br><br> Wir werden das Problem so schnell wie möglich lösen."
         }
     },
     "signup": {
@@ -497,7 +497,7 @@
                 "q1": "Was ist Snafflz?",
                 "a1": "Eine praktische Komplettlösung für die Handhabung von Gäste-/Besucherlisten, Mitgliedschaften, Einladungen und Veranstaltungsanmeldung. Dank der Flexibilität des Systems ist Snafflz für alle Arten von Events nützlich:<br><br>- Red Carpet Events, Modenschauen, Geschäftseröffnungen<br>- Konferenzen und Messen<br>- Firmenveranstaltungen, interne Mitarbeiterversammlungen, Workshops<br>- Abschlussfeiern, Veranstaltungen auf dem Campus<br>- VIP-Empfänge, Mittagessen<br>- Hochzeiten, Jubiläen",
                 "q2": "Wie kann ich mich anmelden?",
-                "a2": "Gehen Sie zu unserer Webseite <a href='/signup'>Signup</a> oder installieren Sie die iOS/Android-App, um sich anzumelden.<br> Sie können sich entweder anmelden, indem Sie Ihre E-Mail ausfüllen und ein Passwort festlegen, oder Sie können sich direkt mit Facebook oder Apple ID anmelden.",
+                "a2": "Gehen Sie zu unserer Webseite <a href='/signup'>Signup</a> oder installieren Sie die iOS/Android-App, um sich anzumelden.<br> Sie können sich entweder anmelden, indem Sie Ihre Email ausfüllen und ein Passwort festlegen, oder Sie können sich direkt mit Facebook oder Apple ID anmelden.",
                 "q3": "Bieten Sie eine kostenlose Testversion an?",
                 "a3": "Ja, wir nennen es 'Kostenloser Vorkoster'. Mit dieser Testversion können Sie:<br><br>- 1 Event mit bis zu 50 Gästen hinzufügen<br>- die Kampagnenfunktion nutzen, um 2 Registrierungsseiten zu erstellen und 3 Einladungen zu versenden<br>- fast alle anderen kostenpflichtigen Funktionen kostenlos testen",
                 "q4": "Was sind die Systemanforderungen?",
@@ -506,10 +506,10 @@
                 "a5": "Sie können eine Kampagne mit Tickets erstellen und QR-Tickets versenden, aber Ticketinhaber können derzeit kein bezahltes Ticket direkt kaufen. Wir werden in Kürze eine Lösung mit einem gemeinsamen Zahlungsanbieter anbieten. In der Zwischenzeit können Sie für jeden Gast einen Rabattpreis ausfüllen und die Gebühr direkt am Eingang beim Einchecken Ihrer Gäste kassieren.",
                 "q6": "Wie viele Benutzerkonten kann ich hinzufügen?",
                 "a6": "Sobald Sie sich angemeldet haben, sind Sie der Eigentümer des Kontos. Es ist möglich, sich gleichzeitig mit den gleichen Benutzeranmeldeinformationen auf mehreren Geräten anzumelden.<br><br>Wenn Sie separate Konten für Teammitglieder erstellen und verschiedene Benutzerrollen für den Zugriff zuweisen möchten, können Sie andere Mitwirkende auf der Web-App-Konto-Seite einladen. Team-Mitglieder Benutzer können zusammen mit einem Premium-/Diamond Abonnement oder über einen Top Up-Plan erworben werden.",
-                "q7": "Was sind Gäste-, Check-in- und E-Mail-Guthaben?",
-                "a7": "1 'Gästeguthaben' steht für 1 Person auf der Gästeliste. Wenn Ihr Event 500 Teilnehmer hat, benötigen Sie 500 Gastguthaben. Wenn 1 Gast von der Liste gestrichen wird, kann 1 Guthaben wieder verwendet werden.<br><br>1 'Check-in-Guthaben' steht für 1 Gäste-Check-in. Ein weiterer Check-in und Check-out der gleichen Person zählt '0'. Sobald 1 Guthaben beim Check-in verwendet wurde, kann es nicht mehr rückgängig gemacht werden.<br><br>1 'E-Mail-Guthaben' wird für 1 E-Mail-Einladung verwendet. Jede E-Mail zählt 1 E-Mail-Guthaben.<br><<br>Ihr aktueller Kreditstatus wird oben auf den Seiten der Gästeliste angezeigt.<br><br>Credits können über unsere Top-Up Pakete oder zusammen mit unseren wichtigsten Basispaketen erworben werden. Für weitere Informationen klicken Sie bitte hier: Preise.",
-                "q8": "Wie ändert man die E-Mail-Adresse des Kontos?",
-                "a8": "Bitte senden Sie eine E-Mail an <a href='mailto:support@snafflz.com'>support@snafflz.com</a> und teilen Sie uns Ihre gewünschte neue E-Mail-Adresse mit. Wir werden diese für Sie ändern.",
+                "q7": "Was sind Gäste-, Check-in- und Email-Guthaben?",
+                "a7": "1 'Gästeguthaben' steht für 1 Person auf der Gästeliste. Wenn Ihr Event 500 Teilnehmer hat, benötigen Sie 500 Gastguthaben. Wenn 1 Gast von der Liste gestrichen wird, kann 1 Guthaben wieder verwendet werden.<br><br>1 'Check-in-Guthaben' steht für 1 Gäste-Check-in. Ein weiterer Check-in und Check-out der gleichen Person zählt '0'. Sobald 1 Guthaben beim Check-in verwendet wurde, kann es nicht mehr rückgängig gemacht werden.<br><br>1 'Email-Guthaben' wird für 1 Email-Einladung verwendet. Jede E-Mail zählt 1 Email-Guthaben.<br><<br>Ihr aktueller Kreditstatus wird oben auf den Seiten der Gästeliste angezeigt.<br><br>Credits können über unsere Top-Up Pakete oder zusammen mit unseren wichtigsten Basispaketen erworben werden. Für weitere Informationen klicken Sie bitte hier: Preise.",
+                "q8": "Wie ändert man die Email-Adresse des Kontos?",
+                "a8": "Bitte senden Sie eine Email an <a href='mailto:support@snafflz.com'>support@snafflz.com</a> und teilen Sie uns Ihre gewünschte neue E-Mail-Adresse mit. Wir werden diese für Sie ändern.",
                 "q9": "Wie kann ich mein Passwort zurücksetzen?",
                 "a9": "Bitte benutzen Sie diesen Link, um Ihr Passwort zu ändern: <a href='/Kennwort zurücksetzen'>Kennwort zurücksetzen</a>"
             },
@@ -525,7 +525,7 @@
                 "q4": "Bietet Snafflz Check-in per Scan an?",
                 "a4": "Ja, der QR-Code / Strichcode-Leser ist in die Snafflz Mobile Apps eingebettet.<br>Es ist möglich, die folgenden Codes zu lesen:<br>QR / Code 128 / Code 39 / Code93 / UPC-E / EAN13 / EAN8 / PDF417 / Aztec / Interleaved 2 of 5 / ITF14/DataMatrix.",
                 "q5": "Bieten Sie einen Kiosk-Modus für die Selbstregistrierung und den Check-in an?",
-                "a5": "Ja, ein anpassbarer Kiosk-Modus ist auf der v1 unserer iOS/Android-App verfügbar. Er ermöglicht den Selbst-Check-in per E-Mail oder QR-Code und die Selbstregistrierung zur Erfassung von Teilnehmerdaten.",
+                "a5": "Ja, ein anpassbarer Kiosk-Modus ist auf der v1 unserer iOS/Android-App verfügbar. Er ermöglicht den Selbst-Check-in per Email oder QR-Code und die Selbstregistrierung zur Erfassung von Teilnehmerdaten.",
                 "q6": "Kann ich das Tablet-PC/Mobiltelefon ohne Netzwerkverbindung verwenden?",
                 "a6": "<i>Webanwendung</i><br> Um Ihre Daten zu speichern, benötigen Sie eine Internet/Wi-Fi-Konnektivität. Aktualisieren Sie einfach den Browser für den neuesten Stand. <br><br><br><i>Mobile App v1 / iOS</i><br>Sie können die iOS v1 App ohne Netzwerkverbindung benutzen, die mobile App schaltet in den Offline-Modus, bis das Signal wieder eingeschaltet wird. In diesem Modus ist die App immer noch voll funktionsfähig, aber die Geräte werden nicht synchronisiert, bis das Netzwerksignal zurückkommt. Alle Gastdaten werden lokal auf Ihren Geräten gespeichert.<br>Hinweis: Es ist wichtig, dass a) Ihre Geräte irgendwann online gehen, um Daten abzurufen, und dass b) Ihre Geräte online gehen, um die neuesten Änderungen mit der Wolke zu synchronisieren.<br>Die Android v1 App verfügt nicht über diese Offline-Funktion.<br><br><i>Mobile App v2</i><br> In dem Moment, in dem Sie eine Netzwerkverbindung benötigen, um die v2 App zu nutzen. Wir arbeiten an einer Offline-Lösung und informieren Sie, sobald sie einsatzbereit ist.",
                 "q7": "Kann ich die App mit meinem eigenen Branding anpassen?",
@@ -539,7 +539,7 @@
                 "q2": "Kann ich Datenfelder anpassen?",
                 "a2": "Ja, Sie können Ihre eigenen benutzerdefinierten Datenfelder erstellen. Snafflz bietet 3 verschiedene Arten von benutzerdefinierten Datenfeldern an: Text, Ankreuzfeld und Dropdown-Menü.",
                 "q3": "Wie werden QR-Codes erstellt und kann ich meine eigenen Codes hochladen?",
-                "a3": "Snafflz QR-Codes werden automatisch für jeden Kontakt auf der Gäste- und Hauptliste generiert.<br><br><i>Wie erhalten Gäste ihre QR-Codes (Namensschilder/Tickets)?</i><br>Bei der Online-Registrierung: Erstellen Sie eine Registrierungskampagne. Registranten erhalten ihren QR-Code in der E-Mail zur Bestätigung ihrer Registrierung.<br><br>E-Mail-Einladungen versenden: Erstellen Sie eine Einladungskampagne. Senden Sie QR-Codes an die Empfänger, indem Sie eine PDF-Datei mit Ausweis/Ticket anhängen.<br><br><br><i>Wie scanne ich einen Gast-QR-Code?</i><br>Drucken Sie QR-Namensschilder über die Snafflz-Apps oder zeigen Sie sie auf dem Bildschirm an. Benutzen Sie den eingebetteten Code Reader der mobilen Apps.<br><br><i>Wie lade ich eigene QR-Codes oder Barcodes hoch?</i><br>Füllen Sie die Spalte 'QR-/Barcode' in der Snafflz Excel Vorlage aus. Laden Sie sie über den 'Bulk Uploader' im Menü 'Import' hoch.<br><br>Wenn Sie eigene QR-Codes erstellen müssen:<br>1. Gehen Sie zu <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Überprüfen Sie Klartext als Datentyp und Kodierung als statisch<br>3. Geben Sie einen Text und/oder eine Zahl ein und generieren Sie den Code",
+                "a3": "Snafflz QR-Codes werden automatisch für jeden Kontakt auf der Gäste- und Hauptliste generiert.<br><br><i>Wie erhalten Gäste ihre QR-Codes (Namensschilder/Tickets)?</i><br>Bei der Online-Registrierung: Erstellen Sie eine Registrierungskampagne. Registranten erhalten ihren QR-Code in der Email zur Bestätigung ihrer Registrierung.<br><br>Email-Einladungen versenden: Erstellen Sie eine Einladungskampagne. Senden Sie QR-Codes an die Empfänger, indem Sie eine PDF-Datei mit Ausweis/Ticket anhängen.<br><br><br><i>Wie scanne ich einen Gast-QR-Code?</i><br>Drucken Sie QR-Namensschilder über die Snafflz-Apps oder zeigen Sie sie auf dem Bildschirm an. Benutzen Sie den eingebetteten Code Reader der mobilen Apps.<br><br><i>Wie lade ich eigene QR-Codes oder Barcodes hoch?</i><br>Füllen Sie die Spalte 'QR-/Barcode' in der Snafflz Excel Vorlage aus. Laden Sie sie über den 'Bulk Uploader' im Menü 'Import' hoch.<br><br>Wenn Sie eigene QR-Codes erstellen müssen:<br>1. Gehen Sie zu <a href='http://www.qrstuff.com'>http://www.qrstuff.com</a><br>2. Überprüfen Sie Klartext als Datentyp und Kodierung als statisch<br>3. Geben Sie einen Text und/oder eine Zahl ein und generieren Sie den Code",
                 "q4": "Wie können VIP-Ankunftsbenachrichtigungen aktiviert werden?",
                 "a4": "Schalten Sie die VIP-Benachrichtigungsfunktion in Ihrer Snafflz Mobile App ein. Sie können VIP-Ankunftsbenachrichtigungen für jedes verwendete Gerät aktivieren. Snafflz sendet automatisch eine Push-Benachrichtigung, sobald ein markiertes VIP eingecheckt wurde. Jeder Benutzer kann die Benachrichtigungen jederzeit deaktivieren und aktivieren. Es gibt keine Beschränkungen bezüglich der Anzahl der verwendeten Geräte oder der gesendeten Benachrichtigungen. Momentan ist es nicht möglich, VIP-Ankunftsbenachrichtigungen per SMS zu versenden.<br><br><i>So aktivieren Sie VIP-Ankunfts-E-Mail-Benachrichtigungen in der Web-App?</i><br>Kreuzen Sie das Kästchen 'VIP-E-Mail-Benachrichtigungen' in der 'Event-Detailansicht' an. Snafflz sendet eine E-Mail an die E-Mail-Adresse des Benutzers, um ihn über die Ankunft eines VIPs zu informieren. Es ist möglich, eine VIP-Ankunfts-Benachrichtigungs-E-Mail an andere E-Mail-Adressen als die E-Mail-Adresse des Benutzers zu senden. Füllen Sie einfach eine E-Mail in das Datenfeld 'VIP-Ankunfts-E-Mail' des entsprechenden VIP-Gastes ein. Diese Funktion ist kostenlos in den Premium- und Diamond-Abonnements enthalten oder kann separat über einen Top-Up-Plan erworben werden.",
                 "q5": "Wie kann ich meine Gästeliste exportieren oder drucken?",
@@ -564,15 +564,15 @@
                 "a5": "Wenn Sie mit Ihrer Registrierungsseite zufrieden sind, können Sie sie veröffentlichen, indem Sie auf das orangefarbene Augensymbol in der oberen Kopfzeile klicken. Alle zukünftigen Kampagnenänderungen müssen gespeichert werden, um veröffentlicht werden zu können.",
                 "q6": "Kann ich meinen eigenen Domänennamen für meine Registrierungsseite verwenden?",
                 "a6": "Ja, Sie können Ihren eigenen Domänennamen in einer Snafflz-Registrierungsseite URL.<br><br>Bitte kontaktieren Sie uns unter <a href='mailto:support@snafflz.com'>support@snafflz.com</a> für weitere Informationen.",
-                "q7": "Was sind E-Mail-Einladungen und wie versendet man sie?",
+                "q7": "Was sind Email-Einladungen und wie versendet man sie?",
                 "a7": "Mit der Webanwendung Snafflz können Sie E-Mail-Einladungen an Ihre Gäste versenden und diese direkt in der E-Mail 'RSVP' oder 'Ablehnen' lassen. Diejenigen, die die Einladung annehmen, werden automatisch als Gäste auf der Gästeliste hinzugefügt, und der Einladungsstatus wird im Feld Einladungsstatus angezeigt.<br><br><i>How?</i><<br>Drücken Sie in der Gästelistenansicht der Web-App die Schaltfläche 'Kampagne erstellen' und wählen Sie die Kampagne 'E-Mail-Einladung'. Sie werden dann zum Editor der Einladungskampagne weitergeleitet. In der Registerkarte \"Dashboard und Publikum\" können Sie eine Einladung erstellen und zunächst ein Publikum hinzufügen. Die Zuhörerschaft ist der Pool der Kontakte. Wählen Sie Kontakte und fügen Sie sie als Empfänger zu jeder Ihrer anpassbaren Einladungsnachrichten hinzu.",
                 "q8": "Kann ich die e-Einladung anpassen?",
                 "a8": "Ja, der Betreff und der Nachrichtentext sind vollständig anpassbar. Sie können Ihre Absender-E-Mail ändern und weitere Optionen sind in den Nachrichteneinstellungen enthalten.<br><br>Sie können Variablen in den Nachrichtentext einfügen (z.B. den QR-Code, ein beliebiges Gastdatenfeld, ...), ein Bild hochladen oder Ihren eigenen HTML-Code hinzufügen und vieles mehr.",
                 "q9": "Was sind die Vorteile der Erstellung einer Landing Page für meine Einladungsbotschaft?",
                 "a9": "Mit Snafflz können Sie eine Landing Registration Page erstellen und veröffentlichen, die mit Ihren elektronischen Einladungen verlinkt werden kann. Der RSVP-Button in der E-Mail verlinkt zu dieser Landingpage und Gäste können zusätzliche Informationen eingeben (z.B. Allergien, Begleitpersonen). Alle von ihnen eingegebenen Informationen werden sofort in den Gästedaten widergespiegelt.<br><br><i>Wie man eine Landing Page erstellt?</i><br> Aktivieren Sie den entsprechenden Optionsschalter im Registerkartenmenü Ihrer Einladungskampagne.",
-                "q10": "Warum wird meine Absender-E-Mail durch eine @snafflz.com-Adresse ersetzt?",
+                "q10": "Warum wird meine Absender-Email durch eine @snafflz.com-Adresse ersetzt?",
                 "a10": "Die 'gmail'- und 'yahoo'-E-Mail-Adressen werden durch die Standard-E-Mail-Adresse @snafflz.com ersetzt, um Spam-Erkennung und Blockierung von E-Mail-Nachrichten zu vermeiden.",
-                "q11": "Kann ich meine Einladungsnachrichten planen und einen E-Mail-Zustellungsbericht erhalten?",
+                "q11": "Kann ich meine Einladungsnachrichten planen und einen Email-Zustellungsbericht erhalten?",
                 "a11": "Ja, Sie können Nachrichten planen. Ein E-Mail-Statistik-Bericht wird an Ihre E-Mail-Adresse geschickt, sobald alle Nachrichten zugestellt wurden. Sie können die Statistiken auch in der Empfängerliste und im Dashboard Ihrer Kampagne anzeigen und herunterladen."
             },
             "security": {

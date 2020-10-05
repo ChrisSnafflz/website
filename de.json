@@ -4,13 +4,13 @@
         "clients": "Mehr als 5.000 Event-Profis schenken uns Ihr Vertrauen",
         "sections": {
             "s1": {
-                "title": "All-in-One Lösung für Live- und virtuelle Events <br>",
-                "description": "Befreien Sie sich von unnötigen wiederholenden Aufgaben und Last-Minute Problemen.\n<br> Bleiben Sie COVID sicher und \"Track & Trace\" konform.",
-                "signup": "Gratis Anmeldung hier"
+                "title": "All-in-One Lösung für Live-/ virtuelle Events <br>",
+                "description": "Befreien Sie sich von wiederholenden Aufgaben und Last-Minute Problemen.\n<br> Bleiben Sie COVID sicher und \"Track & Trace\" konform.",
+                "signup": "Kostenlose Anmeldung"
             },
             "s2": {
                 "pre": "Kontaktloser Besucher Check-in",
-                "title": "Kostenlose Android / iOS App",
+                "title": "Gratis Android / iOS App",
                 "description": "Snafflz bietet Ihnen eine benutzerfreundliche Check-in-Lösung, die sicher und zuverlässig ist und die Suche nach Gästelisten in Echtzeit, das Scannen von Tickets und VIP-Ankunftsbenachrichtigungen umfasst. Wir unterstützen QR- und Barcode-Medien sowie die meisten Namensschild-Drucker. "
             },
             "s3": {
@@ -69,7 +69,7 @@
             },
             "s6": {
                 "title": "Warum Snafflz? ",
-                "description": "Snafflz ist die führende Gästeliste-App für Live- und virtuelle Veranstaltungen in der Welt der Gastronomie und Kultur, PR, Bildung, Mode und Unterhaltung. <br>\nSnafflz bietet Ihnen eine Check-in-Lösung, die sicher, benutzerfreundlich, 100% zuverlässig ist und die Suche nach Gästelisten in Echtzeit und das Scannen von Tickets umfasst. Wir unterstützen QR- und Barcode-Medien. <br> <br>\n\nEs gibt keine versteckten Gebühren. Unsere flexiblen und erschwinglichen Tarife umfassen unbegrenzten Gerätezugriff und alle verfügbaren Tariffunktionen: <br> <br>\n‍\nBarcode-E-Einladungen, Erfassen von Gastdaten, Echtzeit-Teilnehmerstatistiken, Badge Printing, Offline-Funktion, Self-Service-Registrierung, aufeinanderfolgendes Ein- und Auschecken, Post-Event Reports, API-Integration und vieles mehr!\n<br> <br>\n\nSnafflz ist ein unermüdliches Team von IT-versierten und zukunftsorientierten Veranstaltern mit Sitz in London, Lissabon und Wien.  Im Moment arbeiten wir intensiv an Funktionen, mit denen Veranstalter sich auf das konzentrieren können, was sie am besten können: einzigartige Live- und virtuelle Erlebnisse zu schaffen."
+                "description": "Snafflz ist die führende Gästeliste-App für Events in der Welt der Gastronomie und Kultur, PR, Bildung, Mode und Unterhaltung. <br>\nSnafflz bietet Ihnen eine Check-in-Lösung, die sicher, benutzerfreundlich, 100% zuverlässig ist und die Suche nach Gästelisten in Echtzeit und das Scannen von Tickets umfasst. Wir unterstützen QR- und Barcode-Medien. <br> <br>\n\nEs gibt keine versteckten Gebühren. Unsere flexiblen und erschwinglichen Tarife umfassen unbegrenzten Gerätezugriff und alle verfügbaren Tariffunktionen: <br> <br>\n‍\nBarcode-E-Einladungen, Erfassen von Gastdaten, Echtzeit-Teilnehmerstatistiken, Badge Printing, Offline-Funktion, Self-Service-Registrierung, aufeinanderfolgendes Ein- und Auschecken, Post-Event Reports, API-Integration und vieles mehr!\n<br> <br>\n\nSnafflz ist ein unermüdliches Team von IT-versierten und zukunftsorientierten Veranstaltern mit Sitz in London, Lissabon und Wien.  Im Moment arbeiten wir intensiv an Funktionen, mit denen Veranstalter sich auf das konzentrieren können, was sie am besten können: einzigartige Live- und virtuelle Erlebnisse zu schaffen."
             },
             "s7": {
                 "title": "Viele Gästelisten digital zu verwalten?<br><br>Kein Problem!<br> <br>",
@@ -80,7 +80,7 @@
         "features": {
             "title": "Features",
             "setup": {
-                "title": "Einfaches Setup + Hochladen der Gästeliste",
+                "title": "Einfaches Setup + Gästeliste Upload",
                 "description": " "
             },
             "checkin": {
@@ -96,7 +96,7 @@
                 "description": " "
             },
             "invitation": {
-                "title": "Benutzerdefinierte Badges drucken",
+                "title": "Badges drucken",
                 "description": " "
             },
             "campaigns": {

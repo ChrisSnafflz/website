@@ -22,11 +22,11 @@
                         "description": " "
                     },
                     "i2": {
-                        "title": "Registration Pages",
+                        "title": "Registration Pages<br>+ Ticketing",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Ticketing",
+                        "title": "Easy Guestlist upload<br>via Excel sheet",
                         "description": " "
                     }
                 }
@@ -36,15 +36,15 @@
                 "description": "Add attendees, control venue capacity, quick-search for registrations or read QR codes at a pace that spreadsheets can't match. With the mobile Snafflz Check-in manager for tablets and phones a streamlined entry is guaranteed: Amend your guest list directly on your mobile device, safe in the knowledge that all our plans include unlimited device access and team members.",
                 "items": {
                     "i1": {
-                        "title": "Session Check-in,<br>Multi-entry Points",
+                        "title": "Session Check-in<br>+ Multi-entry Points",
                         "description": " "
                     },
                     "i2": {
-                        "title": "Kiosk Mode,<br>Real-time Attendee Statistics",
+                        "title": "Kiosk Mode<br>+ Offline Mode (v1 iOS app) ",
                         "description": " "
                     },
                     "i3": {
-                        "title": "Print Badges + VIP Notifications",
+                        "title": "Print Badges<br>+ VIP Notifications",
                         "description": " "
                     }
                 }

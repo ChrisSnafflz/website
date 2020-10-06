@@ -105,7 +105,7 @@
             },
             "stats": {
                 "title": "Trabajo en equipo",
-                "description": "Los perfiles personalizados con diferentes niveles de acceso permiten la delegación de tareas manteniendo un control total de la seguridad y privacidad."
+                "description": " "
             },
             "export": {
                 "title": "Informes postventa / Estadísticas en vivo",
@@ -152,7 +152,7 @@
             "snafflzPremiumBasicMonthly": {
                 "title": "PREMIUM<br>Eventos Ilimitados",
                 "description": "Incluye 500 créditos de invitados por lista.<br>500 créditos de correo electrónico al mês.",
-                "p1": "Todas las herramientas del plan Profesional",
+                "p1": "Todas las herramientas del plan PRO",
                 "p2": "Paquete de campañas completo",
                 "p3": "e-Invitaciones / Páginas RSVP / Entradas",
                 "p4": "Alerta de llegadas VIP",
@@ -163,7 +163,7 @@
             "snafflzPremiumBasicYearly": {
                 "title": "PREMIUM<br>Eventos ilimitados",
                 "description": "Incluye 500 créditos de invitados por lista.<br>500 créditos de correo electrónico al mês.",
-                "p1": "Todas las herramientas del plan Profesional",
+                "p1": "Todas las herramientas del plan PRO",
                 "p2": "Paquete de campañas completo",
                 "p3": "e-Invitaciones / Páginas RSVP / Entradas",
                 "p4": "Alerta de llegadas VIPs",

@@ -105,7 +105,7 @@
             },
             "stats": {
                 "title": "Trabalho em equipe",
-                "description": "Perfis personalizados e com diferentes níveis de acesso permitem delegar tarefas mantendo total controle de segurança e privacidade."
+                "description": " "
             },
             "export": {
                 "title": "Relatórios Pós-Evento / Estatísticas ao vivo",
@@ -282,7 +282,7 @@
                 "button": "Incluir por $790"
             },
             "snafflzTUGuestEmail": {
-                "title": "Top-Up de convidados + emails",
+                "title": "Top-Up de<br>convidados + emails",
                 "description": {
                     "ppu": "Válido enquanto durar o seu plano",
                     "monthly": "Por mês",
@@ -328,7 +328,7 @@
             "snafflzTUCampaign": {
                 "title": "CAMPANHAS<br>Pacote",
                 "description": "Válido enquanto durar o seu plano",
-                "p": "Convites com RSVP + 500 Créditos de Emails<br>Páginas de Inscrição e de Ingressos",
+                "p": "Convites com RSVP + 500 Créditos<br>Páginas de Inscrição e de Ingressos",
                 "button": "Incluir por $59"
             },
             "snafflzTUVIP": {

@@ -121,10 +121,10 @@
         "menutitle": "Preise",
         "headertitle": "Preise",
         "loggedout": {
-            "pageheadertitle": "Unsere Pakete.<br>\nFlexibel und erschwinglich.",
+            "pageheadertitle": "Unsere flexiblen Pakete.<br>",
             "included": "<br>",
             "join": "Kostenlose Testversion jetzt starten",
-            "details": "Keine Kreditkarte erforderlich.<br>\nTablet/Mobile Apps, SSL-Verschlüsselung und tägliche Backups sind inklusive.<br>\nFür 1 Event und 50 Gäste.",
+            "details": "Keine Kreditkarte erforderlich.<br>\nTablet/Mobile Apps, SSL-Verschlüsselung und tägliche Backups inklusive.<br>\nFür 1 Event und 50 Gäste.",
             "signup": "Beginnen Sie jetzt"
         },
         "loggedin": {
@@ -383,8 +383,8 @@
         }
     },
     "signup": {
-        "menutitle": "Anmelden",
-        "headertitle": "Anmelden",
+        "menutitle": "Anmeldung",
+        "headertitle": "Anmeldung",
         "pageheadertitle": "Jetzt kostenlos registrieren!",
         "firstname": "Vorname *",
         "lastname": "Nachname *",
@@ -412,13 +412,13 @@
         }
     },
     "login": {
-        "menutitle": "Anmeldung",
-        "headertitle": "Anmeldung",
+        "menutitle": "Login",
+        "headertitle": "Login",
         "pageheadertitle": "Anmelden",
         "email": "E-Mail",
         "password": "Kennwort",
         "button": "Anmelden",
-        "forgot": "Haben Sie Ihr Passwort vergessen?",
+        "forgot": "<br>Passwort vergessen?",
         "separator": "mit",
         "success": {
             "header": "Erfolg!",

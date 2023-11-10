@@ -506,7 +506,7 @@
                 "q2": "Comment m'inscrire?",
                 "a2": "Accédez à notre page Web <a href='/signup'> Inscription </a> ou installez l'application iOS / Android pour vous inscrire. <br> Vous pouvez vous inscrire en remplissant votre adresse e-mail et en définissant un mot de passe ou vous pouvez vous inscrire directement avec Facebook ou Apple ID.",
                 "q3": "Offrez-vous une version d'essai gratuite?",
-                "a3": "Oui, nous l'appelons «Free Taster». Cette version d'essai vous permet de: <br> <br> • ajouter 1 événement avec jusqu'à 50 invités <br> • utiliser la fonction de campagne pour créer 2 pages d'inscription et envoyer 3 invitations <br> • tester presque toutes les autres fonctionnalités payantes pour gratuit",
+                "a3": "Oui. Cette version d'essai vous permet de: <br> <br> • ajouter 1 événement avec jusqu'à 50 invités <br> • tester presque toutes les autres fonctionnalités payantes pour gratuit <br> • cependant, la fonctionnalité de la campagne est limitée (une mise à niveau payante est requise)",
                 "q4": "Quelles sont les exigences du système?",
                 "a4": "Le service Web Snafflz fonctionne dans tous les navigateurs courants. <br> <br> <i> Application mobile v1 </i> <br> • iOS: configuration minimale requise iOS9, iOS10 + recommandé. Les appareils plus anciens comme l'iPad mini (1re génération), l'iPad (2e / 3e génération) et l'iPhone 4S ne sont pas recommandés. <br> • Android: nécessite Android 4.4 et versions ultérieures <br> <br> <i> Application mobile v2 </ i > <br> • iOS: pris en charge par tout appareil exécutant iOS10 ou supérieur <br> • Android: pris en charge par tout appareil exécutant Android 4.1 ou supérieur <br> <br> Toutes les applications sont localisées en anglais, allemand, français, portugais et espagnol .",
                 "q5": "Puis-je vendre des billets avec Snafflz?",
@@ -698,6 +698,6 @@
         }
     },
     "footer": {
-        "copyright": "(c) Snafflz 2012-2022"
+        "copyright": "(c) Snafflz 2012-2024"
     }
 }

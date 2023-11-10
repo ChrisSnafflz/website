@@ -4,8 +4,8 @@
         "clients": "Reconnu par plus de 5000 grands professionnels de l'événementiel",
         "sections": {
             "s1": {
-                "title": "Solution tout-en-un pour les événements en face à face et virtuels ",
-                "description": "Libérez-vous des tâches répétitives inutiles et des tracas de dernière minute.\n<br>S'adapter aux politiques de prévention et de suivi de la COVID-19. ",
+                "title": "Solution tout-en-un pour les organisateurs d'événements",
+                "description": "Libérez-vous des tâches répétitives inutiles et des tracas de dernière minute.\n<br>",
                 "signup": "Créer un compte gratuitement"
             },
             "s2": {
@@ -144,8 +144,8 @@
                 "p1": "Enregistrement rapide et fiable",
                 "p2": "Impression de badges nominatifs",
                 "p3": "Statistiques d'événements en direct + rapports",
-                "p4": "Importer des feuilles Excel / Exporter des données",
-                "price": "€35",
+                "p4": "Importer des feuilles Excel",
+                "price": "35 €",
                 "period": "Paiement unique",
                 "button": "Acheter"
             },
@@ -156,7 +156,7 @@
                 "p2": "Forfait complet de campagnes avec <br> e-Invitation + RSVP + Billetterie",
                 "p3": "1 compte Contributeur",
                 "p4": "Notifications d'arrivée VIP",
-                "price": "€59",
+                "price": "59 €",
                 "period": "Facturé mensuellement",
                 "button": "Acheter"
             },
@@ -167,7 +167,7 @@
                 "p2": "Forfait complet de campagnes avec<br>e-Invitation + RSVP + Billetterie",
                 "p3": "1 compte Contributeur",
                 "p4": "Notifications d'arrivées VIPs",
-                "price": "€590",
+                "price": "590 €",
                 "period": "Facturé annuellement",
                 "button": "Acheter"
             },
@@ -178,7 +178,7 @@
                 "p2": "Options d'impression de badges avancées",
                 "p3": "E-mails de rétroaction d'enregistrement",
                 "p4": "Assistance prioritaire",
-                "price": "€229",
+                "price": "229 €",
                 "period": "Facturé mensuellement",
                 "button": "Acheter"
             },
@@ -189,7 +189,7 @@
                 "p2": "Options d'impression de badges avancées",
                 "p3": "E-mails de rétroaction d'enregistrement",
                 "p4": "Assistance prioritaire",
-                "price": "€2290",
+                "price": "2 290 €",
                 "period": "Facturé annuellement",
                 "button": "Acheter"
             },
@@ -203,39 +203,39 @@
             },
             "snafflzTU500Guest": {
                 "title": "500 crédits",
-                "button": "Ajouter pour 29 $"
+                "button": "25 €"
             },
             "snafflzTU1000Guest": {
                 "title": "1000 crédits",
-                "button": "Add for €45"
+                "button": "45 €"
             },
             "snafflzTU3000Guest": {
                 "title": "3000 crédits",
-                "button": "Add for €119"
+                "button": "119 €"
             },
             "snafflzTU500GuestMonthly": {
                 "title": "+ 500 crédits",
-                "button": "Add for €25"
+                "button": "25 €"
             },
             "snafflzTU1000GuestMonthly": {
                 "title": "+ 1000 crédits",
-                "button": "Add for €45"
+                "button": "45 €"
             },
             "snafflzTU3000GuestMonthly": {
                 "title": "+ 3000 crédits",
-                "button": "Add for €119"
+                "button": "119 €"
             },
             "snafflzTU500GuestYearly": {
                 "title": "+ 500 crédits",
-                "button": "Add for €250"
+                "button": "250 €"
             },
             "snafflzTU1000GuestYearly": {
                 "title": "+ 1000 crédits",
-                "button": "Add for €450"
+                "button": "450 €"
             },
             "snafflzTU3000GuestYearly": {
-                "title": "+ 3,000 Credits",
-                "button": "Add for €1,190"
+                "title": "+ 3,000 crédits",
+                "button": "1 190 €"
             },
             "snafflzTUEmail": {
                 "title": "EMAILS<br>Recharge",
@@ -246,126 +246,132 @@
                 }
             },
             "snafflzTU500Email": {
-                "title": "500 Credits",
-                "button": "Add for €15"
+                "title": "500 crédits",
+                "button": "15 €"
             },
             "snafflzTU1000Email": {
-                "title": "1,000 Credits",
-                "button": "Add for €29"
+                "title": "1,000 crédits",
+                "button": "29 €"
             },
             "snafflzTU3000Email": {
-                "title": "3,000 Credits",
-                "button": "Add for €79"
+                "title": "3,000 crédits",
+                "button": "79 €"
             },
             "snafflzTU500EmailMonthly": {
-                "title": "+ 500 Credits",
-                "button": "Add for €15"
+                "title": "+ 500 crédits",
+                "button": "15 €"
             },
             "snafflzTU1000EmailMonthly": {
-                "title": "+ 1,000 Credits",
-                "button": "Add for €29"
+                "title": "+ 1,000 crédits",
+                "button": "29 €"
             },
             "snafflzTU3000EmailMonthly": {
-                "title": "+ 3,000 Credits",
-                "button": "Add for €79"
+                "title": "+ 3,000 crédits",
+                "button": "79 €"
             },
             "snafflzTU500EmailYearly": {
-                "title": "+ 500 Credits",
-                "button": "Add for €150"
+                "title": "+ 500 crédits",
+                "button": "150 €"
             },
             "snafflzTU1000EmailYearly": {
-                "title": "+ 1,000 Credits",
-                "button": "Add for €290"
+                "title": "+ 1,000 crédits",
+                "button": "290 €"
             },
             "snafflzTU3000EmailYearly": {
-                "title": "+ 3,000 Credits",
-                "button": "Add for €790"
+                "title": "+ 3,000 crédits",
+                "button": "790 €"
             },
             "snafflzTUGuestEmail": {
                 "title": "INVITÉS + EMAILS<br>Recharge",
                 "description": {
                     "ppu": "Période de licence par plan",
                     "monthly": "Par mois",
-                    "yearly": "Par mois, facturé annuellement"
+                    "yearly": "Par an"
                 }
             },
             "snafflzTU500GuestEmail": {
-                "title": "500 Credits",
-                "button": "Add for €39"
+                "title": "500 crédits",
+                "button": "39 €"
             },
             "snafflzTU1000GuestEmail": {
-                "title": "1,000 Credits",
-                "button": "Add for €65"
+                "title": "1,000 crédits",
+                "button": "65 €"
             },
             "snafflzTU3000GuestEmail": {
-                "title": "3,000 Credits",
-                "button": "Add for €169"
+                "title": "3,000 crédits",
+                "button": "169 €"
             },
             "snafflzTU500GuestEmailMonthly": {
-                "title": "+ 500 Credits",
-                "button": "Add for €39"
+                "title": "+ 500 crédits",
+                "button": "39 €"
             },
             "snafflzTU1000GuestEmailMonthly": {
-                "title": "+ 1,000 Credits",
-                "button": "Add for €65"
+                "title": "+ 1,000 crédits",
+                "button": "65 €"
             },
             "snafflzTU3000GuestEmailMonthly": {
-                "title": "+ 3,000 Credits",
-                "button": "Add for €169"
+                "title": "+ 3,000 crédits",
+                "button": "169 €"
             },
             "snafflzTU500GuestEmailYearly": {
-                "title": "+ 500 Credits",
-                "button": "Add for €390"
+                "title": "+ 500 crédits",
+                "button": "390 €"
             },
             "snafflzTU1000GuestEmailYearly": {
-                "title": "+ 1,000 Credits",
-                "button": "Add for €690"
+                "title": "+ 1,000 crédits",
+                "button": "650 €"
             },
             "snafflzTU3000GuestEmailYearly": {
-                "title": "+ 3,000 Credits",
-                "button": "Add for €1,690"
+                "title": "+ 3,000 crédits",
+                "button": "1 690 €"
             },
             "snafflzTUCampaign": {
                 "title": "CAMPAGNES<br>Forfaits",
                 "description": "Période de licence par plan",
                 "p": "e-Invitations + 500 e-mails<br>Pages d'inscription / Billetterie",
-                "button": "Add for €49"
+                "button": "49 €"
             },
             "snafflzTUVIP": {
                 "title": "ARRIVÉES VIP<br>Notifications",
                 "description": "Période de licence par plan",
                 "p": "Envoyer des notifications push mobiles<br>Envoyer des notifications par e-mail",
-                "button": "Add for €9"
+                "button": "9 €"
             },
             "snafflzTUBadge": {
                 "title": "BADGE PRINT <br> Avancé",
                 "description": "Période de licence par plan",
                 "p": "Outils de personnalisation complète des badges<br>Autres modèles de mise en page",
-                "button": "Add for €25"
+                "button": "25 €"
             },
             "snafflzTUBadgeMonthly": {
                 "title": "IMPRESSION DE BADGES<br>Options avancées",
                 "description": "Par mois",
                 "p": "Outils de personnalisation complète des badges <br> Autres modèles de mise en page",
-                "button": "Add for €25"
+                "button": "25 €"
             },
             "snafflzTUBadgeYearly": {
                 "title": "IMPRESSION DE BADGES<br>Options avancées",
-                "description": "Per year",
+                "description": "Par an",
                 "p": "Outils de personnalisation complète des badges <br> Autres modèles de mise en page",
-                "button": "Add for €250"
+                "button": "250 €"
+            },
+            "snafflzTUContributor": {
+                "title": "CONTRIBUTEURS<br>Recharge",
+                "description": "Période de licence par plan",
+                "p": "1 Contributeur<br><br>(Admin / Collaborateur / Hôtesse)",
+                "button": "9 €"
             },
             "snafflzTUContributorMonthly": {
                 "title": "CONTRIBUTEURS<br>Recharge",
                 "description": "Par mois",
-                "p": "1 Contributeur<br>(Admin / Collaborateur / Hôtesse)",
-                "button": "Add for €9"
+                "p": "1 Contributeur<br><br>(Admin / Collaborateur / Hôtesse)",
+                "button": "9 €"
             },
             "snafflzTUContributorYearly": {
                 "title": "CONTRIBUTEURS<br>Recharge",
                 "description": "Par an",
-                "p": "1 Contributeur<br>(Admin / Collaborateur / Hôtesse)",
-                "button": "Add for €90"
+                "p": "1 Contributeur<br><br>(Admin / Collaborateur / Hôtesse)",
+                "button": "90 €"
             }
         }
     },
@@ -386,6 +392,7 @@
         "menutitle": "S'inscrire",
         "headertitle": "S'inscrire",
         "pageheadertitle": "Inscrivez-vous gratuitement maintenant!",
+        "alreadysignedup": "Déjà inscrit ? <a href='/login?snafflzRedirectTo=/app'>Connectez-vous ici</a>",
         "firstname": "Prénom *",
         "lastname": "Nom de famille *",
         "email": "Email *",
@@ -640,6 +647,29 @@
         "headertitle": "Privacy Policy",
         "pageheadertitle": "Privacy Policy"
     },
+    "microsite": {
+    	"privacy": {
+    		"pageheadertitle": "Privacy Policy for Event Attendees",
+    		"p1": "<i>This Privacy Policy was last reviewed and updated on May 21st, 2018.</i><br><br>Besides being compliant with the General Data Protection Regulation (GDPR) when it comes into force on May 25, 2018, we believe the new law is a strong resource to protect citizens in regards to their data privacy. So Snafflz has been extensively working on features to help our users who are impacted by this new law and taking measures to ensure maximum transparency over the way we store and handle data.<br><br>As a data controller and data processor, Snafflz has the obligation to process the event attendee information provided by our clients, the event professionals. For instance, when an event professional creates a registration page and collects data from potential guests, this is stored by us in order to be accessible to the event professional. In this operation personal data is protected according to the various terms of the GDPR.",
+    		"h1": "How are we protecting your data?",
+    		"p2": "An all encompassing set of different actions was taken in order to ensure compliance with the new regulation, as described in our FAQ. Please take a look at the details and check which scopes concern your event and your guest data. We reaffirm our commitment to security, privacy and transparency and <b>will never sell or transmit any personal data</b> without your consent.<br><br>Important: the FAQ (Frequently Asked Questions) were designed to help our users acknowledging the scope of the GDPR in concern with their use of the Snafflz application. It is not an official page or represents warranties or legal representation from us. We recommend all clients (the event organiser) to get professional advice regarding how the GDPR may affect their organization and procedures.",
+    		"faqheader": "FAQ",
+    		"faq": {
+    			"h1": "What changes with GDPR?",
+    			"p1": "The GDPR regulates how companies approach handling the data of individuals (also named data subjects).<br><br>We at Snafflz see it as big step towards privacy as a standard, as companies are now required to obtain personal data only with the informed permission of individuals.",
+    			"h2": "What are the roles established by the new regulations?",
+    			"p2": "GDPR classifies users and data processors in order to clarify and organize roles. These are:<br> - data subject. The individual person whose personal data(*) is stored and actually the data itself.<br> - data controller. Who was given the data subject, who stores this personal data for some reason.<br> - data processor. Who might not be in direct contact with the person, but handles and process the data on behalf of the data controller.<br><br>* Personal data is any information relating to an identified or identifiable natural person.",
+    			"h3": "How is Snafflz compliant?",
+    			"p3": "As our service as event management solution involves the storing and processing data of event invitees and attendees for our clients (the event organiser), Snafflz has different roles towards users as explained in detail below.<br>We have performed extensive reviews to take the necessary steps and creating the tools that improve the protection of personal data within and beyond the borders of the European Union.<br><br>In regards to our event registrants, we  have a role as a joint-data controller, because we handle registration pages, where we collect data of potential event attendees on behalf of our clients (the event organiser) through our system. In this case we share the data controller role with our clients (the event organiser). And we are data processors in regards to the guests that are added or imported to guest lists by our clients (the event organiser).",
+    			"h4": "What measures have been taken?",
+    			"p4": " - We have raised our encryption systems and ensured that all third parties we work with are also compliant to GDPR.<br> - Creation of new tools to enhance transparency and support our clients (the event organiser), such as a privacy consent statement on registration pages so users can confirm that they are aware with our and the event professional's terms and privacy policy.<br> - If a client wishes to delete the user account or registrants, we assure that the most sensitive personal information is permanently erased from our database servers. We never sell or transmit any client and attendee data.",
+    			"h5": "What do I need to know as an event attendee (registrant)?",
+    			"p5": "If a client (an event professional) requests any personal data from you it is also the event professional's responsibility to protect this information. Thus, all event professional using Snafflz should be compliant with the GDPR as they act as data controllers of every person sharing information with them via the platform.<br>Snafflz created tools to help our event professionals being compliant, such as a privacy consent statement on the registration page as we see it as a priority to support our clients (the event organiser) managing the protection of personal guest data.",
+    			"h6": "I need further details about Snafflz and the GDPR or other data protection issues.",
+    			"p6": "If you have any question that is not covered in this FAQ, please contact us at <a href='mailto:support@snafflz.com'> support@snafflz.com</a>. We'll be happy to assist."
+    		}
+    	}
+    },
     "error": {
         "title": "Ooops, there was an error :(",
         "general": {
@@ -666,5 +696,8 @@
             "headertitle": "503",
             "message": "Sorry, the service is temporarily unavailable.<br>Please try again later.<br><br>We'll be back shortly!"
         }
+    },
+    "footer": {
+        "copyright": "(c) Snafflz 2012-2022"
     }
 }

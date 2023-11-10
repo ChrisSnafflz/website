@@ -1,11 +1,11 @@
 {
     "home": {
-        "headertitle": "Ihre App um Gästelisten und Besucher zu verwalten",
+        "headertitle": "Ihre Gästeliste App #1",
         "clients": "Mehr als 5.000 Event-Profis schenken uns Ihr Vertrauen",
         "sections": {
             "s1": {
-                "title": "All-in-One Lösung für Live-/ virtuelle Events <br>",
-                "description": "Befreien Sie sich von wiederholenden Aufgaben und Last-Minute Problemen.\n<br> Bleiben Sie COVID sicher und \"Track & Trace\" konform.",
+                "title": "All-in-One Lösung für Eventveranstalter<br>",
+                "description": "Befreien Sie sich von wiederholenden Tasks und Last-Minute Problemen.\n<br>",
                 "signup": "Kostenlose Anmeldung"
             },
             "s2": {
@@ -189,7 +189,7 @@
                 "p2": "Erweiterte Badge-Druckoptionen",
                 "p3": "Check-in-Feedback-Emails",
                 "p4": "Prioritäre Unterstützung",
-                "price": "€2290",
+                "price": "€2.290",
                 "period": "bei jährlicher Bezahlung",
                 "button": "Jetzt kaufen"
             },
@@ -247,15 +247,15 @@
             },
             "snafflzTU500Email": {
                 "title": "500 Credits",
-                "button": "Für $19 kaufen"
+                "button": "Für €15 kaufen"
             },
             "snafflzTU1000Email": {
                 "title": "1.000 Credits",
-                "button": "Für $29 kaufen"
+                "button": "Für €29 kaufen"
             },
             "snafflzTU3000Email": {
                 "title": "3.000 Credits",
-                "button": "Für $79 kaufen"
+                "button": "Für €79 kaufen"
             },
             "snafflzTU500EmailMonthly": {
                 "title": "+ 500 Credits",
@@ -323,7 +323,7 @@
             },
             "snafflzTU3000GuestEmailYearly": {
                 "title": "+ 3.000 Credits",
-                "button": "Für €1690 kaufen"
+                "button": "Für €1.690 kaufen"
             },
             "snafflzTUCampaign": {
                 "title": "KAMPAGNEN<br>Paket",
@@ -354,6 +354,12 @@
                 "description": "Pro Jahr",
                 "p": "Tools zur freien Anpassung von Badges<br>Weitere Layout-Vorlagen",
                 "button": "Für €250 kaufen"
+            },
+            "snafflzTUContributor": {
+                "title": "BENUTZER<br>Top-Up",
+                "description": "Per Lizenzzeitraum",
+                "p": "1 Beitragender<br>(Admin/Kollaborateur/Hostess)",
+                "button": "Für €9 kaufen"
             },
             "snafflzTUContributorMonthly": {
                 "title": "BENUTZER<br>Top-Up",
@@ -386,6 +392,7 @@
         "menutitle": "Anmeldung",
         "headertitle": "Anmeldung",
         "pageheadertitle": "Jetzt kostenlos registrieren!",
+        "alreadysignedup": "Schon angemeldet? <a href='/login?snafflzRedirectTo=/app'>Hier einloggen</a>",
         "firstname": "Vorname *",
         "lastname": "Nachname *",
         "email": "E-Mail *",
@@ -640,6 +647,29 @@
         "headertitle": "Datenschutzerklärung",
         "pageheadertitle": "Datenschutzerklärung"
     },
+    "microsite": {
+    	"privacy": {
+    		"pageheadertitle": "Privacy Policy for Event Attendees",
+    		"p1": "<i>This Privacy Policy was last reviewed and updated on May 21st, 2018.</i><br><br>Besides being compliant with the General Data Protection Regulation (GDPR) when it comes into force on May 25, 2018, we believe the new law is a strong resource to protect citizens in regards to their data privacy. So Snafflz has been extensively working on features to help our users who are impacted by this new law and taking measures to ensure maximum transparency over the way we store and handle data.<br><br>As a data controller and data processor, Snafflz has the obligation to process the event attendee information provided by our clients, the event professionals. For instance, when an event professional creates a registration page and collects data from potential guests, this is stored by us in order to be accessible to the event professional. In this operation personal data is protected according to the various terms of the GDPR.",
+    		"h1": "How are we protecting your data?",
+    		"p2": "An all encompassing set of different actions was taken in order to ensure compliance with the new regulation, as described in our FAQ. Please take a look at the details and check which scopes concern your event and your guest data. We reaffirm our commitment to security, privacy and transparency and <b>will never sell or transmit any personal data</b> without your consent.<br><br>Important: the FAQ (Frequently Asked Questions) were designed to help our users acknowledging the scope of the GDPR in concern with their use of the Snafflz application. It is not an official page or represents warranties or legal representation from us. We recommend all clients (the event organiser) to get professional advice regarding how the GDPR may affect their organization and procedures.",
+    		"faqheader": "FAQ",
+    		"faq": {
+    			"h1": "What changes with GDPR?",
+    			"p1": "The GDPR regulates how companies approach handling the data of individuals (also named data subjects).<br><br>We at Snafflz see it as big step towards privacy as a standard, as companies are now required to obtain personal data only with the informed permission of individuals.",
+    			"h2": "What are the roles established by the new regulations?",
+    			"p2": "GDPR classifies users and data processors in order to clarify and organize roles. These are:<br> - data subject. The individual person whose personal data(*) is stored and actually the data itself.<br> - data controller. Who was given the data subject, who stores this personal data for some reason.<br> - data processor. Who might not be in direct contact with the person, but handles and process the data on behalf of the data controller.<br><br>* Personal data is any information relating to an identified or identifiable natural person.",
+    			"h3": "How is Snafflz compliant?",
+    			"p3": "As our service as event management solution involves the storing and processing data of event invitees and attendees for our clients (the event organiser), Snafflz has different roles towards users as explained in detail below.<br>We have performed extensive reviews to take the necessary steps and creating the tools that improve the protection of personal data within and beyond the borders of the European Union.<br><br>In regards to our event registrants, we  have a role as a joint-data controller, because we handle registration pages, where we collect data of potential event attendees on behalf of our clients (the event organiser) through our system. In this case we share the data controller role with our clients (the event organiser). And we are data processors in regards to the guests that are added or imported to guest lists by our clients (the event organiser).",
+    			"h4": "What measures have been taken?",
+    			"p4": " - We have raised our encryption systems and ensured that all third parties we work with are also compliant to GDPR.<br> - Creation of new tools to enhance transparency and support our clients (the event organiser), such as a privacy consent statement on registration pages so users can confirm that they are aware with our and the event professional's terms and privacy policy.<br> - If a client wishes to delete the user account or registrants, we assure that the most sensitive personal information is permanently erased from our database servers. We never sell or transmit any client and attendee data.",
+    			"h5": "What do I need to know as an event attendee (registrant)?",
+    			"p5": "If a client (an event professional) requests any personal data from you it is also the event professional's responsibility to protect this information. Thus, all event professional using Snafflz should be compliant with the GDPR as they act as data controllers of every person sharing information with them via the platform.<br>Snafflz created tools to help our event professionals being compliant, such as a privacy consent statement on the registration page as we see it as a priority to support our clients (the event organiser) managing the protection of personal guest data.",
+    			"h6": "I need further details about Snafflz and the GDPR or other data protection issues.",
+    			"p6": "If you have any question that is not covered in this FAQ, please contact us at <a href='mailto:support@snafflz.com'> support@snafflz.com</a>. We'll be happy to assist."
+    		}
+    	}
+    },
     "error": {
         "title": "Hoppla, es gab einen Fehler :(",
         "general": {
@@ -666,5 +696,8 @@
             "headertitle": "503",
             "message": "Es tut uns leid, der Dienst ist vorübergehend nicht verfügbar.<br>Bitte versuchen Sie es später noch einmal.<br><br>Wir sind in Kürze zurück!"
         }
+    },
+    "footer": {
+        "copyright": "(c) Snafflz 2012-2022"
     }
 }

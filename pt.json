@@ -506,7 +506,7 @@
                 "q2": "Como me cadastro?",
                 "a2": "Entre na nossa <a href='/signup'>página de cadastro</a> ou instale o app para iOS/Android e crie a sua conta facilmente.<br>Use email e senha ou a opção de cadastro automático por Facebook ou Apple ID.",
                 "q3": "Posso testar gratuitamente?",
-                "a3": "Sim! É só usar a versão 'Free Taster'. Com ela, é possível:<br><br>• criar 1 evento com até 50 convidados<br>• usar a ferramenta de campanhas para criar 2 páginas de inscrição diferentes e enviar 3 convites<br>• testar quase todos os recursos pagos do Snafflz de graça",
+                "a3": "Sim. Com ela, é possível:<br><br>• criar 1 evento com até 50 convidados<br>• testar quase todos os recursos pagos do Snafflz de graça<br>• no entanto, a funcionalidade da campanha é limitada (é necessária uma atualização paga)",
                 "q4": "Quais os requisitos do sistema?",
                 "a4": "O web app do Snafflz funciona em todos os principais browsers.<br><br><i>Mobile App v1</i><br>• iOS: mínimo iOS9, desejável iOS10 ou superior. Aparelhos mais antigos como iPad mini (1ª geração), iPad (2ª/3ª geração) e iPhone 4S não são recomendados.<br>• Android: requer Android 4.4 ou superior<br><br><i>Mobile App v2</i><br>• iOS: funciona em qualquer aparelho com iOS10 ou superior<br>• Android: funciona em qualquer aparelho com Android 4.1 ou superior<br><br>Todos os apps possuem versões nos idiomas Português, Inglês, Alemão, Francês e Espanhol.",
                 "q5": "Posso vender ingressos usando o Snafflz?",
@@ -698,6 +698,6 @@
         }
     },
     "footer": {
-        "copyright": "(c) Snafflz 2012-2022"
+        "copyright": "(c) Snafflz 2012-2024"
     }
 }

@@ -506,7 +506,7 @@
                 "q2": "Wie kann ich mich anmelden?",
                 "a2": "Gehen Sie zu unserer Webseite <a href='/signup'>Signup</a> oder installieren Sie die iOS/Android-App, um sich anzumelden.<br> Sie können sich entweder anmelden, indem Sie Ihre Email ausfüllen und ein Passwort festlegen, oder Sie können sich direkt mit Facebook oder Apple ID anmelden.",
                 "q3": "Bieten Sie eine kostenlose Testversion an?",
-                "a3": "Ja, wir nennen es 'Kostenloser Vorkoster'. Mit dieser Testversion können Sie:<br><br>- 1 Event mit bis zu 50 Gästen hinzufügen<br>- die Kampagnenfunktion nutzen, um 2 Registrierungsseiten zu erstellen und 3 Einladungen zu versenden<br>- fast alle anderen kostenpflichtigen Funktionen kostenlos testen",
+                "a3": "Ja, wir nennen es kostenlose Testversion. Damit können Sie:<br><br>- 1 Event mit bis zu 50 Gästen hinzufügen<br>- fast alle anderen kostenpflichtigen Funktionen kostenlos testen<br>- die Kampagnenfunktion ist jedoch eingeschränkt (kostenpflichtiges Upgrade ist erforderlich)",
                 "q4": "Was sind die Systemanforderungen?",
                 "a4": "Der Snafflz-Webdienst läuft in allen gängigen Browsern.<br><br><i>Mobile App v1</i><br>- iOS: Mindestanforderung iOS9, iOS10+ empfohlen. Ältere Geräte wie iPad mini (1. Generation), iPad (2./3. Generation) und iPhone 4S werden nicht empfohlen.<br>- Android: erfordert Android 4.4 und höher<br><br><<i>Mobile App v2</i><br>- iOS: unterstützt von jedem Gerät mit iOS10 oder höher<br>- Android: unterstützt von jedem Gerät mit Android 4.1 oder höher<br><br> Alle Apps sind in Englisch, Deutsch, Französisch, Portugiesisch und Spanisch lokalisiert.",
                 "q5": "Kann ich bei Snafflz Tickets verkaufen?",

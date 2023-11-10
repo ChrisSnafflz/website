@@ -174,9 +174,9 @@
             "snafflzDiamondBasicMonthly": {
                 "title": "DIAMOND<br>Unlimited Events",
                 "description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
-                "p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
+                "p1": "All PREMIUM Features",
                 "p2": "Advanced Badge Print Options",
-                "p3": "Check-in Feedback Emails",
+                "p3": "6 Contributor accounts",
                 "p4": "Priority Support",
                 "price": "£199",
                 "period": "Billed monthly",
@@ -185,9 +185,9 @@
             "snafflzDiamondBasicYearly": {
                 "title": "DIAMOND<br>Unlimited Events",
                 "description": "Incl. 5,000 guest credits per list.<br>10,000 email credits per month.",
-                "p1": "All PREMIUM Features<br>+ 5 Contributor accounts",
+                "p1": "All PREMIUM Features",
                 "p2": "Advanced Badge Print Options",
-                "p3": "Check-in Feedback Emails",
+                "p3": "6 Contributor accounts",
                 "p4": "Priority Support",
                 "price": "£1990",
                 "period": "Billed yearly",
@@ -506,7 +506,7 @@
                 "q2": "How do I sign up?",
                 "a2": "Go to our webpage <a href='/signup'>Signup</a> or install the iOS/Android app to sign up.<br>You can either sign up by filling in your email and setting a password or you can sign up directly with Facebook or Apple ID.",
                 "q3": "Do you offer a free trial version?",
-                "a3": "Yes, we call it 'Free Taster'. This trial version allows you to:<br><br>• add 1 event with up to 50 guests<br>• use the campaign feature to create 2 registration pages and send 3 invitations<br>• test almost all other paid features for free",
+                "a3": "Yes, we call it 'Free Taster'. This trial version allows you to:<br><br>• add 1 event with up to 50 guests<br>• test almost all other paid features for free<br>• however, campaign functionality is limited (paid upgrade is required)<br>",
                 "q4": "What are the system requirements?",
                 "a4": "The Snafflz web service is running in all common browsers.<br><br><i>Mobile App v1</i><br>• iOS: minimum requirement iOS9, iOS10+ recommended. Older devices like iPad mini (1st generation), iPad (2nd/3rd generation) and iPhone 4S are not recommended.<br>• Android: requires Android 4.4 and up<br><br><i>Mobile App v2</i><br>• iOS: supported by any device running iOS10 or higher<br>• Android: supported by any device running Android 4.1 or higher<br><br>All apps are localised in English, German, French, Portuguese and Spanish.",
                 "q5": "Can I sell tickets with Snafflz?",
@@ -698,6 +698,6 @@
         }
     },
     "footer": {
-        "copyright": "(c) Snafflz 2012-2022"
+        "copyright": "(c) Snafflz 2012-2024"
     }
 }

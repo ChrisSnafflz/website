@@ -480,6 +480,21 @@
             "message": "Oops! Something went wrong."
         }
     },
+	"identityconfirm": {
+        "headertitle": "Confirm your identity",
+        "pageheadertitle": "Please create a password for your account",
+        "email": "Your email address",
+        "password": "Your new password",
+        "password2": "Confirm new password",
+        "button": "Submit",
+        "success": {
+            "message": "Thank you! Your password for your user is now set."
+        },
+        "error": {
+            "header": "Error! Try again.",
+            "message": "Oops! Something went wrong."
+        }
+    },
     "senderconfirm": {
         "headertitle": "Sender Email Update",
         "success": {

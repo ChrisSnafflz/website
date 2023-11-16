@@ -480,6 +480,21 @@
             "message": "Hoppla! Etwas ist schief gelaufen."
         }
     },
+	"identityconfirm": {
+        "headertitle": "Confirm your identity",
+        "pageheadertitle": "Bitte erstellen Sie ein Passwort für Ihr Konto",
+        "email": "Ihre E-Mail-Adresse",
+        "password": "Ihr neues Passwort",
+        "password2": "Neues Passwort bestätigen",
+        "button": "Einreichen",
+        "success": {
+            "message": "Ich danke Ihnen! Ihr Passwort für Ihren Benutzer ist nun festgelegt."
+        },
+        "error": {
+            "header": "Irrtum! Versuchen Sie es noch einmal.",
+            "message": "Hoppla! Etwas ist schief gelaufen."
+        }
+    },
     "senderconfirm": {
         "headertitle": "E-Mail-Absender-Update",
         "success": {

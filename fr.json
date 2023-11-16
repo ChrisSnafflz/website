@@ -480,6 +480,21 @@
             "message": "Oups! Un problème est survenu."
         }
     },
+	"identityconfirm": {
+        "headertitle": "Confirm your identity",
+        "pageheadertitle": "Créer un mot de passe pour votre compte",
+        "email": "Votre adresse email",
+        "password": "Votre nouveau mot de passe",
+        "password2": "Confirmez le nouveau mot de passe",
+        "button": "Autre",
+        "success": {
+            "message": "Je vous remercie! Votre mot de passe pour votre utilisateur est maintenant défini."
+        },
+        "error": {
+            "header": "Erreur! Réessayer.",
+            "message": "Oups! Un problème est survenu."
+        }
+    },
     "senderconfirm": {
         "headertitle": "Modifier l'adresse e-mail de l'expéditeur",
         "success": {

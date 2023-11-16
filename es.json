@@ -480,6 +480,21 @@
             "message": "¡Ups! Algo salió mal."
         }
     },
+	"identityconfirm": {
+        "headertitle": "Confirm your identity",
+        "pageheadertitle": "Crea una contraseña para tu cuenta",
+        "email": "Su dirección de correo electrónico",
+        "password": "Su contraseña",
+        "password2": "Confirmar la contraseña",
+        "button": "Enviar",
+        "success": {
+            "message": "¡Gracias! ¡Confirmación recibida!"
+        },
+        "error": {
+            "header": "¡Error! Inténtalo de nuevo.",
+            "message": "¡Ups! Algo salió mal."
+        }
+    },
     "senderconfirm": {
         "headertitle": "Cambiar el correo electrónico del remitente",
         "success": {

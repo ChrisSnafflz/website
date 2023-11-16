@@ -480,6 +480,21 @@
             "message": "Oops! Algo deu errado."
         }
     },
+	"identityconfirm": {
+        "headertitle": "Confirm your identity",
+        "pageheadertitle": "Crie uma senha para a sua conta",
+        "email": "Seu endereço de email",
+        "password": "Sua nova senha",
+        "password2": "Confirme a nova senha",
+        "button": "Enviar",
+        "success": {
+            "message": "Thank you! Your submission has been received!"
+        },
+        "error": {
+            "header": "Error! Tente novamente.",
+            "message": "Oops! Algo deu errado."
+        }
+    },
     "senderconfirm": {
         "headertitle": "Troca de email de remetente",
         "success": {

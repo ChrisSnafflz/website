@@ -481,7 +481,7 @@
         }
     },
 	"identityconfirm": {
-        "headertitle": "Confirm your identity",
+        "headertitle": "Confirma tu cuenta de usuario",
         "pageheadertitle": "Crea una contraseña para tu cuenta",
         "email": "Su dirección de correo electrónico",
         "password": "Su contraseña",

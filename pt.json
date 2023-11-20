@@ -481,14 +481,14 @@
         }
     },
 	"identityconfirm": {
-        "headertitle": "Confirm your identity",
+        "headertitle": "Confirme sua conta de usuário",
         "pageheadertitle": "Crie uma senha para a sua conta",
         "email": "Seu endereço de email",
         "password": "Sua nova senha",
         "password2": "Confirme a nova senha",
         "button": "Enviar",
         "success": {
-            "message": "Thank you! Your submission has been received!"
+            "message": "Muito obrigado! A senha do seu usuário agora está definida."
         },
         "error": {
             "header": "Error! Tente novamente.",

@@ -481,17 +481,17 @@
         }
     },
 	"identityconfirm": {
-        "headertitle": "Confirm your identity",
+        "headertitle": "Bestätigen Sie Ihr Benutzerkonto",
         "pageheadertitle": "Bitte erstellen Sie ein Passwort für Ihr Konto",
         "email": "Ihre E-Mail-Adresse",
         "password": "Ihr neues Passwort",
         "password2": "Neues Passwort bestätigen",
-        "button": "Einreichen",
+        "button": "Senden",
         "success": {
-            "message": "Ich danke Ihnen! Ihr Passwort für Ihren Benutzer ist nun festgelegt."
+            "message": "Danke! Ihr Benutzer-Passwort ist nun festgelegt."
         },
         "error": {
-            "header": "Irrtum! Versuchen Sie es noch einmal.",
+            "header": "Fehler! Versuchen Sie es noch einmal.",
             "message": "Hoppla! Etwas ist schief gelaufen."
         }
     },

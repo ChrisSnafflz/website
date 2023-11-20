@@ -429,7 +429,7 @@
         "separator": "-ou-",
         "success": {
             "header": "Successo!",
-            "message": "Thank you! Your submission has been received."
+            "message": "Obrigado! A senha do seu usuário agora está definida."
         },
         "error": {
             "header": "Erro! Tente novamente.",
@@ -473,7 +473,7 @@
         "password2": "Confirme a nova senha",
         "button": "Enviar",
         "success": {
-            "message": "Thank you! Your submission has been received!"
+            "message": "Obrigado! A senha do seu usuário agora está definida."
         },
         "error": {
             "header": "Error! Tente novamente.",
